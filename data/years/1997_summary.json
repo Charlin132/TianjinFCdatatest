@@ -1,0 +1,107 @@
+{
+  "year": 1997,
+  "final_position": 2, 
+  "competitions": ["甲B联赛", "足协杯"],
+  "season_summary": "1994年是职业化元年，天津队在蔺新江指导的带领下，克服重重困难，最终以甲B联赛亚军的身份成功冲上甲A，开启了天津足球的新篇章。于根伟在这一年崭露头角，成为球队进攻端的核心武器。",
+  
+  "team_name": "天津队",
+  "coach": {
+    "name": "蔺新江",
+    "id": "C001"
+  },
+  "record": {
+    "wins": 10,
+    "draws": 8,
+    "losses": 2,
+    "total_matches": 20
+  },
+  "home_away_record": {
+    "home_wins": 6,
+    "home_draws": 3,
+    "home_losses": 1,
+    "home_total": 10,
+    "away_wins": 4,
+    "away_draws": 5,
+    "away_losses": 1,
+    "away_total": 10
+  },
+  "win_rates": {
+    "overall": "50%",
+    "home": "60%",
+    "away": "40%"
+  },
+  "top_scorer": {
+    "name": "于根伟",
+    "id": "P008",
+    "goals": 8
+  },
+  "photos": [
+    {
+      "url": "https://images.unsplash.com/photo-1518091043644-c1d4457512c6?q=80&w=2830&auto=format&fit=crop",
+      "title": "冲甲成功",
+      "desc": "球队在最后一个主场庆祝胜利，顺利晋级明年的甲A联赛。",
+      "tag": "HIGHLIGHT"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1522778119026-d647f0565c6a?q=80&w=2940&auto=format&fit=crop",
+      "title": "民园的欢呼",
+      "desc": "无数球迷涌入民园体育场，见证了职业化元年的辉煌。",
+      "tag": "ATMOSPHERE"
+    },
+    {
+      "url": "https://images.unsplash.com/photo-1431324155629-1a6deb1dec8d?q=80&w=2940&auto=format&fit=crop",
+      "title": "年轻的杀手",
+      "desc": "于根伟在比赛中摆脱防守，打入关键进球。",
+      "tag": "KEY PLAYER"
+    }
+  ],
+  "staff": [
+    {
+      "name": "王维满",
+      "role": "守门员教练",
+      "img_url": "",
+      "years": "1994-2000"
+    },
+    {
+      "name": "队医组",
+      "role": "医疗团队",
+      "img_url": "",
+      "years": "1994"
+    },
+    {
+      "name": "领队X",
+      "role": "领队",
+      "img_url": "",
+      "years": "1994"
+    }
+  ],
+  "team_roster": [
+    {"player_id": "P001", "player_name": "高飞"},
+    {"player_id": "P002", "player_name": "霍建廷"},
+    {"player_id": "P003", "player_name": "魏东"},
+    {"player_id": "P004", "player_name": "孙建军"},
+    {"player_id": "P006", "player_name": "王俊"},
+    {"player_id": "P008", "player_name": "于根伟"},
+    {"player_id": "P011", "player_name": "施连志"},
+    {"player_id": "P012", "player_name": "高玉勇"},
+    {"player_id": "P014", "player_name": "裴锦"},
+    {"player_id": "P015", "player_name": "刘毅"},
+    {"player_id": "P019", "player_name": "邵庚"},
+    {"player_id": "P020", "player_name": "马云岭"},
+    {"player_id": "P026", "player_name": "奥斯瓦尔多"},
+    {"player_id": "P027", "player_name": "卡洛斯"},
+    {"player_id": "P028", "player_name": "席尔瓦"},
+    {"player_id": "P029", "player_name": "赵斌"},
+    {"player_id": "P030", "player_name": "迟荣亮"},
+    {"player_id": "P031", "player_name": "刘晨"},
+    {"player_id": "P032", "player_name": "何塞97"},
+    {"player_id": "P033", "player_name": "鲍比"},
+    {"player_id": "P034", "player_name": "贾骥"},
+    {"player_id": "P035", "player_name": "陈立成"}
+  ],
+  "coaches": [
+    {"id": "C009", "player_name": "左树生"},
+    {"id": "C003", "player_name": "刘俊鸿"},
+    {"id": "C004", "player_name": "陈金刚"}
+  ]
+}
