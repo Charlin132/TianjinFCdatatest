@@ -1,0 +1,319 @@
+{
+  "year": 2012,
+  "final_position": "N/A",
+  "competitions": [
+    "职业联赛",
+    "足协杯"
+  ],
+  "season_summary": "\n\n2012赛季，天津队征战职业联赛。 全年共进行38场比赛，取得了10胜14平14负的战绩，进33球失45球。 在主教练吉马良斯的率领下，球队展现了顽强的拼搏精神。\n\n",
+  "team_name": "天津泰达",
+  "coach": {
+    "name": "吉马良斯",
+    "id": "Coach_ID_Pending"
+  },
+  "record": {
+    "wins": 10,
+    "draws": 14,
+    "losses": 14,
+    "total_matches": 38,
+    "goals_for": 33,
+    "goals_against": 45
+  },
+  "home_away_record": {
+    "home_wins": 5,
+    "home_draws": 8,
+    "home_losses": 6,
+    "home_total": 19,
+    "away_wins": 5,
+    "away_draws": 6,
+    "away_losses": 7,
+    "away_total": 18
+  },
+  "win_rates": {
+    "overall": "26%",
+    "home": "26%",
+    "away": "27%"
+  },
+  "team_roster": [
+    {
+      "player_id": "P0207",
+      "player_name": "宋振瑜",
+      "number": "1",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0108",
+      "player_name": "何杨",
+      "number": "2",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0168",
+      "player_name": "李洪洋",
+      "number": "3",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0208",
+      "player_name": "苏萨克",
+      "number": "4",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0190",
+      "player_name": "李玮锋",
+      "number": "5",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0209",
+      "player_name": "戈扬",
+      "number": "6",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0136",
+      "player_name": "李本舰",
+      "number": "7",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0170",
+      "player_name": "胡人天",
+      "number": "8",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0210",
+      "player_name": "周燎",
+      "number": "9",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0158",
+      "player_name": "王新欣",
+      "number": "10",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0138",
+      "player_name": "姜晨",
+      "number": "11",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0116",
+      "player_name": "田旭",
+      "number": "12",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0169",
+      "player_name": "范志强",
+      "number": "13",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0150",
+      "player_name": "聊博超",
+      "number": "14",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0211",
+      "player_name": "索杰",
+      "number": "15",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0212",
+      "player_name": "惠家康",
+      "number": "16",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0194",
+      "player_name": "郑毅",
+      "number": "17",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0161",
+      "player_name": "聂涛",
+      "number": "18",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0111",
+      "player_name": "毛彪",
+      "number": "19",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0188",
+      "player_name": "陈涛",
+      "number": "20",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0175",
+      "player_name": "芦哲宇",
+      "number": "21",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0193",
+      "player_name": "白岳峰",
+      "number": "22",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0119",
+      "player_name": "杨启鹏",
+      "number": "23",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0075",
+      "player_name": "曹阳",
+      "number": "24",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0157",
+      "player_name": "马磊磊",
+      "number": "25",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0213",
+      "player_name": "阿尔斯",
+      "number": "26",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0214",
+      "player_name": "苏穆利科斯基",
+      "number": "27",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0095",
+      "player_name": "赵燕明",
+      "number": "28",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0215",
+      "player_name": "约万西奇",
+      "number": "29",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0216",
+      "player_name": "杜震宇",
+      "number": "30",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "31",
+      "position": "nan",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "32",
+      "position": "nan",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "33",
+      "position": "nan",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "34",
+      "position": "nan",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "35",
+      "position": "nan",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "36",
+      "position": "nan",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "37",
+      "position": "nan",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "38",
+      "position": "nan",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "39",
+      "position": "nan",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0366",
+      "player_name": "nan",
+      "number": "40",
+      "position": "nan",
+      "role": "球员"
+    }
+  ]
+}

@@ -1,0 +1,249 @@
+{
+  "year": 2001,
+  "final_position": "N/A",
+  "competitions": [
+    "职业联赛",
+    "足协杯"
+  ],
+  "season_summary": "\n\n2001赛季，天津队征战职业联赛。 全年共进行30场比赛，取得了13胜6平11负的战绩，进45球失36球。 在主教练内尔松的率领下，球队展现了顽强的拼搏精神。\n\n",
+  "team_name": "天津泰达",
+  "coach": {
+    "name": "内尔松",
+    "id": "Coach_ID_Pending"
+  },
+  "record": {
+    "wins": 13,
+    "draws": 6,
+    "losses": 11,
+    "total_matches": 30,
+    "goals_for": 45,
+    "goals_against": 36
+  },
+  "home_away_record": {
+    "home_wins": 9,
+    "home_draws": 3,
+    "home_losses": 3,
+    "home_total": 15,
+    "away_wins": 4,
+    "away_draws": 3,
+    "away_losses": 8,
+    "away_total": 15
+  },
+  "win_rates": {
+    "overall": "43%",
+    "home": "60%",
+    "away": "26%"
+  },
+  "team_roster": [
+    {
+      "player_id": "P0068",
+      "player_name": "江津",
+      "number": "1",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0077",
+      "player_name": "埃利亚斯",
+      "number": "2",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0002",
+      "player_name": "石勇",
+      "number": "3",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0003",
+      "player_name": "高飞",
+      "number": "4",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0078",
+      "player_name": "陈波",
+      "number": "5",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0079",
+      "player_name": "索萨",
+      "number": "6",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0035",
+      "player_name": "迟荣亮",
+      "number": "7",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0013",
+      "player_name": "孙建军",
+      "number": "8",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0052",
+      "player_name": "张效瑞",
+      "number": "9",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0018",
+      "player_name": "于根伟",
+      "number": "10",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0080",
+      "player_name": "高峰",
+      "number": "11",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0016",
+      "player_name": "梁宇",
+      "number": "13",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0070",
+      "player_name": "邢剑",
+      "number": "14",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0047",
+      "player_name": "田玉来",
+      "number": "16",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0025",
+      "player_name": "马云岭",
+      "number": "17",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0049",
+      "player_name": "王军",
+      "number": "18",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0039",
+      "player_name": "陈立成",
+      "number": "19",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0081",
+      "player_name": "阿尔杜利",
+      "number": "20",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0005",
+      "player_name": "卢欣",
+      "number": "21",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0082",
+      "player_name": "崔立志",
+      "number": "22",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0083",
+      "player_name": "韩燕鸣",
+      "number": "23",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0050",
+      "player_name": "刘云飞",
+      "number": "24",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0084",
+      "player_name": "杨旭",
+      "number": "25",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0085",
+      "player_name": "芦彦",
+      "number": "26",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0074",
+      "player_name": "宗磊",
+      "number": "27",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0075",
+      "player_name": "曹阳",
+      "number": "28",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0086",
+      "player_name": "卡斯蒂亚诺",
+      "number": "29",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0087",
+      "player_name": "阿雷汉德罗",
+      "number": "30",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0088",
+      "player_name": "马塞洛",
+      "number": "31",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0371",
+      "player_name": "米尔森 ·桑托斯",
+      "number": "",
+      "position": "FW",
+      "role": "球员"
+    }
+  ]
+}

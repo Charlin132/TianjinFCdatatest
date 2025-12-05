@@ -1,0 +1,277 @@
+{
+  "year": 2016,
+  "final_position": "N/A",
+  "competitions": [
+    "职业联赛",
+    "足协杯"
+  ],
+  "season_summary": "\n\n2016赛季，天津队征战职业联赛。 全年共进行32场比赛，取得了10胜9平13负的战绩，进45球失54球。 在主教练德拉甘的率领下，球队展现了顽强的拼搏精神。\n\n",
+  "team_name": "天津泰达",
+  "coach": {
+    "name": "德拉甘",
+    "id": "Coach_ID_Pending"
+  },
+  "record": {
+    "wins": 10,
+    "draws": 9,
+    "losses": 13,
+    "total_matches": 32,
+    "goals_for": 45,
+    "goals_against": 54
+  },
+  "home_away_record": {
+    "home_wins": 6,
+    "home_draws": 2,
+    "home_losses": 8,
+    "home_total": 16,
+    "away_wins": 4,
+    "away_draws": 7,
+    "away_losses": 5,
+    "away_total": 16
+  },
+  "win_rates": {
+    "overall": "31%",
+    "home": "37%",
+    "away": "25%"
+  },
+  "team_roster": [
+    {
+      "player_id": "P0074",
+      "player_name": "宗磊",
+      "number": "1",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0223",
+      "player_name": "杨泽翔",
+      "number": "2",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0249",
+      "player_name": "赞纳迪内",
+      "number": "3",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0250",
+      "player_name": "潘喜明",
+      "number": "4",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0251",
+      "player_name": "约万诺维奇",
+      "number": "5",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0233",
+      "player_name": "周海滨",
+      "number": "6",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0136",
+      "player_name": "李本舰",
+      "number": "7",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0170",
+      "player_name": "胡人天",
+      "number": "8",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0252",
+      "player_name": "迪亚涅",
+      "number": "9",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0253",
+      "player_name": "蒙特罗",
+      "number": "10",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0383",
+      "player_name": "瓦格纳 ·费雷拉",
+      "number": "11",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0229",
+      "player_name": "王秋明",
+      "number": "13",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0150",
+      "player_name": "聊博超",
+      "number": "14",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0254",
+      "player_name": "郭毅",
+      "number": "15",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0212",
+      "player_name": "惠家康",
+      "number": "16",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0255",
+      "player_name": "埃武纳",
+      "number": "17",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0193",
+      "player_name": "白岳峰",
+      "number": "18",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0111",
+      "player_name": "毛彪",
+      "number": "19",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0203",
+      "player_name": "赵英杰",
+      "number": "20",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0224",
+      "player_name": "郭皓",
+      "number": "21",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0161",
+      "player_name": "聂涛",
+      "number": "22",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0235",
+      "player_name": "杜佳",
+      "number": "23",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0238",
+      "player_name": "苑维玮",
+      "number": "24",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0075",
+      "player_name": "曹阳",
+      "number": "25",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0256",
+      "player_name": "曲波",
+      "number": "26",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0130",
+      "player_name": "范柏群",
+      "number": "27",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0119",
+      "player_name": "杨启鹏",
+      "number": "28",
+      "position": "GK",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0159",
+      "player_name": "吕伟",
+      "number": "29",
+      "position": "DF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0257",
+      "player_name": "李源一",
+      "number": "30",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0230",
+      "player_name": "李志斌",
+      "number": "31",
+      "position": "FW",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0248",
+      "player_name": "周通",
+      "number": "32",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0158",
+      "player_name": "王新欣",
+      "number": "33",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0258",
+      "player_name": "高嘉润",
+      "number": "39",
+      "position": "MF",
+      "role": "球员"
+    },
+    {
+      "player_id": "P0245",
+      "player_name": "赵宏略",
+      "number": "",
+      "position": "DF",
+      "role": "球员"
+    }
+  ]
+}
