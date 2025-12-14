@@ -1,0 +1,4950 @@
+[
+  {
+    "match_id": "M0209",
+    "date": "2002-03-10",
+    "round": "第一轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "青岛哈德门",
+      "id": null
+    },
+    "team_b_score": 1,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "高明",
+        "time": "83",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "谭海",
+        "id": "R160"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "郑炜祥",
+        "id": "R018"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘佳",
+        "id": "R007"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "万大雪",
+        "id": "R152"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "刘作云",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0210",
+    "date": "2002-03-16",
+    "round": "第二轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "大田湾体育场",
+      "id": "S023"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "重庆力帆",
+      "id": "T010"
+    },
+    "team_b_score": 2,
+    "result": "平",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "陈立诚",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "萨乌",
+        "time": "43",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "P李国旭",
+        "time": "72",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0078",
+        "player_name": "崔立志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "张雷（大）",
+        "id": "R143"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "王铁钢",
+        "id": "R420"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "李兵",
+        "id": "R001"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "黄烨",
+        "id": null
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "尹怀恕",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0211",
+    "date": "2002-03-24",
+    "round": "第三轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "上海中远",
+      "id": "T013"
+    },
+    "team_b_score": 2,
+    "result": "平",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "陈立诚",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "阿尔西诺",
+        "time": "70",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "祁宏",
+        "time": "81",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "牛锦山",
+        "id": "R167"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "于铎",
+        "id": "R015"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "杨利",
+        "id": "R004"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "张勇",
+        "id": null
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "刘作云",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0212",
+    "date": "2002-03-31",
+    "round": "第四轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "湘潭体育中心",
+      "id": "S042"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "八一振邦",
+      "id": null
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "何志彪",
+        "id": "R163"
+      }
+    ]
+  },
+  {
+    "match_id": "M0213",
+    "date": "2002-04-07",
+    "round": "第五轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "上海申花SVA文广",
+      "id": null
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "王珂",
+        "time": "73",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "孙葆洁",
+        "id": "R150"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘铁军",
+        "id": "R414"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "胡鹏春",
+        "id": "R173"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "苏继革",
+        "id": "R013"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "刘作云",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0214",
+    "date": "2002-04-14",
+    "round": "第六轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "五里河体育场",
+      "id": "S016"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "沈阳金德",
+      "id": "T005"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "陈波",
+        "time": "27",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "阿方索",
+        "time": "89",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0091",
+        "player_name": "张烁",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "杨志强",
+        "id": "R142"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "朱宏庆",
+        "id": "R425"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "郑松革",
+        "id": "R141"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "叶智",
+        "id": "R032"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "范广会",
+        "id": "R291"
+      }
+    ]
+  },
+  {
+    "match_id": "M0215",
+    "date": "2002-04-21",
+    "round": "第一轮",
+    "league_level": "足协杯",
+    "home_away": "客",
+    "stadium": {
+      "name": "金州体育场",
+      "id": "S020"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 3,
+    "team_b": {
+      "name": "大连赛德隆",
+      "id": "T039"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": true,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "李钢",
+        "time": "11",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0092",
+        "player_name": "王鹏",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": []
+  },
+  {
+    "match_id": "M0216",
+    "date": "2002-05-02",
+    "round": "第二轮",
+    "league_level": "足协杯",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "甘肃农垦",
+      "id": null
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "任猛",
+        "time": "77",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0092",
+        "player_name": "王鹏",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": []
+  },
+  {
+    "match_id": "M0217",
+    "date": "2002-06-23",
+    "round": "第三轮",
+    "league_level": "足协杯",
+    "home_away": "客",
+    "stadium": {
+      "name": "苏州体育中心",
+      "id": "S043"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "八一振邦",
+      "id": null
+    },
+    "team_b_score": 3,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "姜坤",
+        "time": "14",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "姜坤",
+        "time": "44",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "91+'赵家林",
+        "time": "",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "杨志强",
+        "id": "R142"
+      }
+    ]
+  },
+  {
+    "match_id": "M0218",
+    "date": "2002-07-07",
+    "round": "第八轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 3,
+    "team_b": {
+      "name": "山东鲁能泰山",
+      "id": "T004"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "韩鹏",
+        "time": "49",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0049",
+        "player_name": "田玉来",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陈红辉",
+        "id": "R168"
+      }
+    ]
+  },
+  {
+    "match_id": "M0219",
+    "date": "2002-07-14",
+    "round": "第九轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "宝鸡体育场",
+      "id": "S044"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "陕西国力",
+      "id": "T031"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0049",
+        "player_name": "田玉来",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "张雷（大）",
+        "id": "R143"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "庄又泉",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "娄祥葆",
+        "id": "R002"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "陈国强",
+        "id": "R164"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "卢申",
+        "id": "R287"
+      }
+    ]
+  },
+  {
+    "match_id": "M0220",
+    "date": "2002-07-18",
+    "round": "第十轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "北京国安",
+      "id": "T003"
+    },
+    "team_b_score": 1,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "李明",
+        "time": "81",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0049",
+        "player_name": "田玉来",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "黄俊杰",
+        "id": "R469"
+      }
+    ]
+  },
+  {
+    "match_id": "M0221",
+    "date": "2002-07-21",
+    "round": "第十一轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "人民体育场",
+      "id": "S010"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "大连实德",
+      "id": "T012"
+    },
+    "team_b_score": 3,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "王鹏",
+        "time": "15",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "胡兆军",
+        "time": "42",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "扬科维奇",
+        "time": "59",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0092",
+        "player_name": "王鹏",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0095",
+        "player_name": "迭戈",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陆俊",
+        "id": "R161"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "陈宝文",
+        "id": "R011"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "苏继革",
+        "id": "R013"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "万大雪",
+        "id": "R152"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "范广会",
+        "id": "R291"
+      }
+    ]
+  },
+  {
+    "match_id": "M0222",
+    "date": "2002-07-28",
+    "round": "第十二轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "深圳平安",
+      "id": "T006"
+    },
+    "team_b_score": 0,
+    "result": "平",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0092",
+        "player_name": "王鹏",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0088",
+        "player_name": "高峰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陈国强",
+        "id": "R164"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "于铎",
+        "id": "R015"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘佳",
+        "id": "R007"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "于东",
+        "id": "R172"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "仲伟洲",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0223",
+    "date": "2002-08-01",
+    "round": "第十三轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "国家奥体中心",
+      "id": "S045"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "波导战斗",
+      "id": null
+    },
+    "team_b_score": 3,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "李金羽",
+        "time": "59",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "王亮",
+        "time": "72",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "李金羽",
+        "time": "75",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0092",
+        "player_name": "王鹏",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0095",
+        "player_name": "迭戈",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "孙葆洁",
+        "id": "R150"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘铁军",
+        "id": "R414"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "王峰",
+        "id": "R006"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "徐江敏",
+        "id": null
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "卢申",
+        "id": "R287"
+      }
+    ]
+  },
+  {
+    "match_id": "M0224",
+    "date": "2002-08-04",
+    "round": "第十四轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "云南红塔",
+      "id": "T028"
+    },
+    "team_b_score": 0,
+    "result": "平",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0049",
+        "player_name": "田玉来",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0095",
+        "player_name": "迭戈",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "张雷（大）",
+        "id": "R143"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "朱宏庆",
+        "id": "R425"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "李福长",
+        "id": "R003"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "钟勇",
+        "id": "R022"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "王庆江",
+        "id": "R292"
+      }
+    ]
+  },
+  {
+    "match_id": "M0225",
+    "date": "2002-08-11",
+    "round": "第十五轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "成都体育中心",
+      "id": "S012"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 3,
+    "team_b": {
+      "name": "四川大河开米森",
+      "id": null
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0049",
+        "player_name": "田玉来",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0095",
+        "player_name": "迭戈",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "周伟新",
+        "id": "R171"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "李志中",
+        "id": "R033"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "龚建亭",
+        "id": "R005"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "徐航",
+        "id": "R149"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张继学",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0226",
+    "date": "2002-08-15",
+    "round": "第十六轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "颐中体育中心",
+      "id": "S035"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "青岛哈德门",
+      "id": null
+    },
+    "team_b_score": 0,
+    "result": "平",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "黄俊杰",
+        "id": "R469"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "于铎",
+        "id": "R015"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "郭玉平",
+        "id": "R014"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "何志彪",
+        "id": "R163"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "孔建华",
+        "id": "R293"
+      }
+    ]
+  },
+  {
+    "match_id": "M0227",
+    "date": "2002-08-18",
+    "round": "第十七轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "重庆力帆",
+      "id": "T010"
+    },
+    "team_b_score": 0,
+    "result": "平",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0049",
+        "player_name": "田玉来",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0095",
+        "player_name": "迭戈",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陆俊",
+        "id": "R161"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "李东楠",
+        "id": "R009"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘佳",
+        "id": "R007"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "于东",
+        "id": "R172"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "徐正印",
+        "id": "R281"
+      }
+    ]
+  },
+  {
+    "match_id": "M0228",
+    "date": "2002-08-25",
+    "round": "第十八轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "上海体育场",
+      "id": "S046"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "上海中远",
+      "id": "T013"
+    },
+    "team_b_score": 3,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "阿尔西诺",
+        "time": "31",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "阿尔西诺",
+        "time": "65",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "李彦",
+        "time": "69",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "周伟新",
+        "id": "R171"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "李志中",
+        "id": "R033"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "李福长",
+        "id": "R003"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "牛锦山",
+        "id": "R167"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "王之海",
+        "id": "R319"
+      }
+    ]
+  },
+  {
+    "match_id": "M0229",
+    "date": "2002-08-28",
+    "round": "第二十轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "虹口足球场",
+      "id": "S030"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "上海申花SVA文广",
+      "id": null
+    },
+    "team_b_score": 1,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "卞军",
+        "time": "74",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0049",
+        "player_name": "田玉来",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "孙葆洁",
+        "id": "R150"
+      }
+    ]
+  },
+  {
+    "match_id": "M0230",
+    "date": "2002-09-01",
+    "round": "第十九轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "八一振邦",
+      "id": null
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "郭辉",
+        "time": "20",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "郭辉",
+        "time": "50",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0091",
+        "player_name": "张烁",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "黄俊杰",
+        "id": "R469"
+      }
+    ]
+  },
+  {
+    "match_id": "M0231",
+    "date": "2002-09-08",
+    "round": "第二十一轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "沈阳金德",
+      "id": "T005"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "胡云峰",
+        "time": "3",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0071",
+        "player_name": "江津",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0091",
+        "player_name": "张烁",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陈红辉",
+        "id": "R168"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘铁军",
+        "id": "R414"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "郭玉平",
+        "id": "R014"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "郝文",
+        "id": "R155"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "朱耀庭",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0232",
+    "date": "2002-10-17",
+    "round": "第二十三轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "山东省体育中心",
+      "id": "S015"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "山东鲁能泰山",
+      "id": "T004"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "P谢尔盖",
+        "time": "18",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "舒畅",
+        "time": "62",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0089",
+        "player_name": "刘巍",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0049",
+        "player_name": "田玉来",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0092",
+        "player_name": "王鹏",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0095",
+        "player_name": "迭戈",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "张雷（大）",
+        "id": "R143"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "李志中",
+        "id": "R033"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "郑树桥",
+        "id": "R026"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "王学庆",
+        "id": "R154"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "卢申",
+        "id": "R287"
+      }
+    ]
+  },
+  {
+    "match_id": "M0233",
+    "date": "2002-10-20",
+    "round": "第二十四轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "陕西国力",
+      "id": "T031"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0089",
+        "player_name": "刘巍",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0092",
+        "player_name": "王鹏",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "万大雪",
+        "id": "R152"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘庆伟",
+        "id": "R016"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "杨利",
+        "id": "R004"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "钟勇",
+        "id": "R022"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张道济",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0234",
+    "date": "2002-10-26",
+    "round": "第二十五轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "工人体育场",
+      "id": "S017"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "北京国安",
+      "id": "T003"
+    },
+    "team_b_score": 4,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "卡西亚诺",
+        "time": "14",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "邵佳一",
+        "time": "46",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "邵佳一",
+        "time": "64",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "卡西亚诺",
+        "time": "75",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0089",
+        "player_name": "刘巍",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0076",
+        "player_name": "卡斯蒂亚诺",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0092",
+        "player_name": "王鹏",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0082",
+        "player_name": "芦彦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "黄俊杰",
+        "id": "R469"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "周德铨",
+        "id": "R017"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "李兵",
+        "id": "R001"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "皮德华",
+        "id": "R423"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张家祥",
+        "id": "R276"
+      }
+    ]
+  },
+  {
+    "match_id": "M0235",
+    "date": "2002-11-03",
+    "round": "第二十六轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "大连实德",
+      "id": "T012"
+    },
+    "team_b_score": 1,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "王鹏",
+        "time": "50",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0089",
+        "player_name": "刘巍",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陈国强",
+        "id": "R164"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘铁军",
+        "id": "R414"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "娄祥葆",
+        "id": "R002"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "李俊",
+        "id": "R170"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "全明镐",
+        "id": "R286"
+      }
+    ]
+  },
+  {
+    "match_id": "M0236",
+    "date": "2002-11-10",
+    "round": "第二十七轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "深圳体育场",
+      "id": "S018"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "深圳平安",
+      "id": "T006"
+    },
+    "team_b_score": 1,
+    "result": "负",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "P马科斯",
+        "time": "89",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0048",
+        "player_name": "王军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0039",
+        "player_name": "陈立成",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0091",
+        "player_name": "张烁",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "杨志强",
+        "id": "R142"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "郭玉平",
+        "id": "R014"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘庆伟",
+        "id": "R016"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "胡鹏春",
+        "id": "R173"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "黄又林",
+        "id": "R272"
+      }
+    ]
+  },
+  {
+    "match_id": "M0237",
+    "date": "2002-11-20",
+    "round": "第二十八轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 4,
+    "team_b": {
+      "name": "波导战斗",
+      "id": null
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0091",
+        "player_name": "张烁",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "陈洋",
+        "time": "23",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0089",
+        "player_name": "刘巍",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0091",
+        "player_name": "张烁",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "谭海",
+        "id": "R160"
+      }
+    ]
+  },
+  {
+    "match_id": "M0238",
+    "date": "2002-11-24",
+    "round": "第二十九轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "拓东体育场",
+      "id": "S036"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 3,
+    "team_b": {
+      "name": "云南红塔",
+      "id": "T028"
+    },
+    "team_b_score": 3,
+    "result": "平",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "朱广辉",
+        "time": "9",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "霍智宇",
+        "time": "36",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "萨乌",
+        "time": "45",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0037",
+        "player_name": "迟荣亮",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0091",
+        "player_name": "张烁",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陆俊",
+        "id": "R161"
+      }
+    ]
+  },
+  {
+    "match_id": "M0239",
+    "date": "2002-11-30",
+    "round": "第三十轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津泰达",
+      "id": "T001"
+    },
+    "team_a_score": 4,
+    "team_b": {
+      "name": "四川大河开米森",
+      "id": null
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "内尔松",
+      "id": "C007"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "杨朋峰",
+        "time": "73",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0042",
+        "player_name": "刘云飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0094",
+        "player_name": "达科斯塔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0004",
+        "player_name": "卢欣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0086",
+        "player_name": "韩燕鸣",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0069",
+        "player_name": "曹阳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0090",
+        "player_name": "塞萨罗",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0043",
+        "player_name": "张效瑞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0079",
+        "player_name": "杨旭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0089",
+        "player_name": "刘巍",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0091",
+        "player_name": "张烁",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "张雷（大）",
+        "id": "R143"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "朱宏庆",
+        "id": "R425"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘庆伟",
+        "id": "R016"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "张正平",
+        "id": "R151"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "陈晓政",
+        "id": "R299"
+      }
+    ]
+  }
+]
