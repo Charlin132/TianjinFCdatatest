@@ -1,0 +1,46 @@
+{
+  "id": "P0218",
+  "name": "埃德尔·利马",
+  "english_name": "Eder Lima dos Santos",
+  "birthday": "1986-02-05",
+  "position": "DF",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 59,
+    "total_goals": 3,
+    "total_wins": 22,
+    "win_rate": 37.3,
+    "active_years": "2013 - 2014",
+    "goals_per_game": 0.05
+  },
+  "yearly_stats": [
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 1,
+      "wins": 12,
+      "win_rate": 41.4,
+      "goals_per_game": 0.03
+    },
+    {
+      "year": 2014,
+      "team": "天津泰达",
+      "apps": 30,
+      "goals": 2,
+      "wins": 10,
+      "win_rate": 33.3,
+      "goals_per_game": 0.07
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

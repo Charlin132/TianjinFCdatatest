@@ -1,0 +1,55 @@
+{
+  "id": "P0249",
+  "name": "李源一",
+  "english_name": "Li Yuanyi",
+  "birthday": "1993-08-28",
+  "position": "MF",
+  "origin": "四川德阳",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 61,
+    "total_goals": 7,
+    "total_wins": 15,
+    "win_rate": 24.6,
+    "active_years": "2016 - 2018",
+    "goals_per_game": 0.11
+  },
+  "yearly_stats": [
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 8,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 25.0,
+      "goals_per_game": 0.12
+    },
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 4,
+      "wins": 8,
+      "win_rate": 29.6,
+      "goals_per_game": 0.15
+    },
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 2,
+      "wins": 5,
+      "win_rate": 19.2,
+      "goals_per_game": 0.08
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

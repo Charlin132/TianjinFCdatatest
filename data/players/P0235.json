@@ -1,0 +1,79 @@
+{
+  "id": "P0235",
+  "name": "杜佳",
+  "english_name": "Du Jia",
+  "birthday": "1993-05-01",
+  "position": "GK",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 97,
+    "total_goals": 0,
+    "total_wins": 30,
+    "win_rate": 30.9,
+    "active_years": "2015 - 2020",
+    "total_clean_sheets": 22,
+    "clean_sheet_rate": 22.7
+  },
+  "yearly_stats": [
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 25.0,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 30.0
+    },
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 0,
+      "wins": 7,
+      "win_rate": 35.0,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 25.0
+    },
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 0,
+      "wins": 7,
+      "win_rate": 26.9,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 11.5
+    },
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 24,
+      "goals": 0,
+      "wins": 11,
+      "win_rate": 45.8,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 29.2
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 7,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 14.3
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

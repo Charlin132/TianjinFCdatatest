@@ -1,0 +1,64 @@
+{
+  "id": "P0281",
+  "name": "兰菁轩",
+  "english_name": "Lan Jingxuan",
+  "birthday": "1999-09-16",
+  "position": "MF",
+  "origin": "浙江衢州",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 5,
+    "total_goals": 0,
+    "total_wins": 3,
+    "win_rate": 60.0,
+    "active_years": "2019 - 2022",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 100.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 2,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 50.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 1,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 100.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

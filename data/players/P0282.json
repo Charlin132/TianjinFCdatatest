@@ -1,0 +1,46 @@
+{
+  "id": "P0282",
+  "name": "刘洋",
+  "english_name": "Liu Yang",
+  "birthday": "1991-02-09",
+  "position": "DF",
+  "origin": "安徽蚌埠",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 48,
+    "total_goals": 0,
+    "total_wins": 17,
+    "win_rate": 35.4,
+    "active_years": "2019 - 2020",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 0,
+      "wins": 12,
+      "win_rate": 44.4,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 21,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 23.8,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

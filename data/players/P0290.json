@@ -1,0 +1,55 @@
+{
+  "id": "P0290",
+  "name": "宋岳",
+  "english_name": "Song Yue",
+  "birthday": "1991-11-20",
+  "position": "DF",
+  "origin": "江苏镇江",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 56,
+    "total_goals": 2,
+    "total_wins": 20,
+    "win_rate": 35.7,
+    "active_years": "2020 - 2022",
+    "goals_per_game": 0.04
+  },
+  "yearly_stats": [
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 19,
+      "goals": 2,
+      "wins": 4,
+      "win_rate": 21.1,
+      "goals_per_game": 0.11
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 12,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 25.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 25,
+      "goals": 0,
+      "wins": 13,
+      "win_rate": 52.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

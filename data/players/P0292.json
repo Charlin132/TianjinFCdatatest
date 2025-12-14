@@ -1,0 +1,37 @@
+{
+  "id": "P0292",
+  "name": "肖智",
+  "english_name": "Xiao Zhi",
+  "birthday": "1985-05-28",
+  "position": "FW",
+  "origin": "河南洛阳",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 13,
+    "total_goals": 1,
+    "total_wins": 2,
+    "win_rate": 15.4,
+    "active_years": "2020 - 2020",
+    "goals_per_game": 0.08
+  },
+  "yearly_stats": [
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 13,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 15.4,
+      "goals_per_game": 0.08
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

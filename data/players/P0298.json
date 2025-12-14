@@ -1,0 +1,82 @@
+{
+  "id": "P0298",
+  "name": "钱宇淼",
+  "english_name": "Qian Yumiao",
+  "birthday": "1998-02-07",
+  "position": "DF",
+  "origin": "湖北荆门",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 69,
+    "total_goals": 1,
+    "total_wins": 23,
+    "win_rate": 33.3,
+    "active_years": "2020 - 2025",
+    "goals_per_game": 0.01
+  },
+  "yearly_stats": [
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 20.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 19,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 26.3,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 4,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 75.0,
+      "goals_per_game": 0.25
+    },
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 15,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 40.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 13,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 38.5,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 3,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 33.3,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

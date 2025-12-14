@@ -1,0 +1,37 @@
+{
+  "id": "P0272",
+  "name": "孙亚",
+  "english_name": "Sun Ya",
+  "birthday": "1997-01-01",
+  "position": "MF",
+  "origin": "河南信阳",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 1,
+    "total_goals": 0,
+    "total_wins": 0,
+    "win_rate": 0.0,
+    "active_years": "2018 - 2018",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

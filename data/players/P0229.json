@@ -1,0 +1,109 @@
+{
+  "id": "P0229",
+  "name": "王秋明",
+  "english_name": "Wang Qiuming",
+  "birthday": "1993-01-09",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 171,
+    "total_goals": 26,
+    "total_wins": 63,
+    "win_rate": 36.8,
+    "active_years": "2013 - 2025",
+    "goals_per_game": 0.15
+  },
+  "yearly_stats": [
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2014,
+      "team": "天津泰达",
+      "apps": 5,
+      "goals": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.2
+    },
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 21,
+      "goals": 3,
+      "wins": 6,
+      "win_rate": 28.6,
+      "goals_per_game": 0.14
+    },
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 1,
+      "wins": 6,
+      "win_rate": 40.0,
+      "goals_per_game": 0.07
+    },
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 13,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 46.2,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 27,
+      "goals": 4,
+      "wins": 11,
+      "win_rate": 40.7,
+      "goals_per_game": 0.15
+    },
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 28,
+      "goals": 6,
+      "wins": 9,
+      "win_rate": 32.1,
+      "goals_per_game": 0.21
+    },
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 29,
+      "goals": 6,
+      "wins": 12,
+      "win_rate": 41.4,
+      "goals_per_game": 0.21
+    },
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 32,
+      "goals": 5,
+      "wins": 13,
+      "win_rate": 40.6,
+      "goals_per_game": 0.16
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

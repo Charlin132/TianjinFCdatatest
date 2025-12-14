@@ -1,0 +1,37 @@
+{
+  "id": "P0205",
+  "name": "比拉斯科",
+  "english_name": "Marius Ioan Bilasco",
+  "birthday": "1981.07.13",
+  "position": "Player",
+  "origin": "罗马尼亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 16,
+    "total_goals": 3,
+    "total_wins": 5,
+    "win_rate": 31.2,
+    "active_years": "2011 - 2011",
+    "goals_per_game": 0.19
+  },
+  "yearly_stats": [
+    {
+      "year": 2011,
+      "team": "天津津门虎",
+      "apps": 16,
+      "goals": 3,
+      "wins": 5,
+      "win_rate": 31.2,
+      "goals_per_game": 0.19
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

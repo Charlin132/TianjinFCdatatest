@@ -1,0 +1,73 @@
+{
+  "id": "P0240",
+  "name": "周通",
+  "english_name": "Zhou Tong",
+  "birthday": "1990-01-12",
+  "position": "MF",
+  "origin": "山东淄博",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 58,
+    "total_goals": 3,
+    "total_wins": 18,
+    "win_rate": 31.0,
+    "active_years": "2015 - 2022",
+    "goals_per_game": 0.05
+  },
+  "yearly_stats": [
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 7,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 28.6,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 18,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 27.8,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 16,
+      "goals": 1,
+      "wins": 4,
+      "win_rate": 25.0,
+      "goals_per_game": 0.06
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 16,
+      "goals": 2,
+      "wins": 7,
+      "win_rate": 43.8,
+      "goals_per_game": 0.12
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

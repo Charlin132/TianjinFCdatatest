@@ -1,0 +1,46 @@
+{
+  "id": "P0211",
+  "name": "约万西奇",
+  "english_name": "Vladimir Jovancic",
+  "birthday": "1987-05-31",
+  "position": "FW",
+  "origin": "塞尔维亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 29,
+    "total_goals": 0,
+    "total_wins": 8,
+    "win_rate": 27.6,
+    "active_years": "2012 - 2013",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2012,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 33.3,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 21.4,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

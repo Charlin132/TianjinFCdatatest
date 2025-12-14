@@ -1,0 +1,91 @@
+{
+  "id": "P0286",
+  "name": "苏缘杰",
+  "english_name": "Su Yuanjie",
+  "birthday": "1995-04-14",
+  "position": "MF",
+  "origin": "山东济南",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 121,
+    "total_goals": 4,
+    "total_wins": 45,
+    "win_rate": 37.2,
+    "active_years": "2019 - 2025",
+    "goals_per_game": 0.03
+  },
+  "yearly_stats": [
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 3,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 66.7,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 13,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 23.1,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 19,
+      "goals": 2,
+      "wins": 5,
+      "win_rate": 26.3,
+      "goals_per_game": 0.11
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 28,
+      "goals": 2,
+      "wins": 13,
+      "win_rate": 46.4,
+      "goals_per_game": 0.07
+    },
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 26,
+      "goals": 0,
+      "wins": 11,
+      "win_rate": 42.3,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 17,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 35.3,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 15,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 33.3,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

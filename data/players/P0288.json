@@ -1,0 +1,46 @@
+{
+  "id": "P0288",
+  "name": "郑凯木",
+  "english_name": "Zheng Kaimu",
+  "birthday": "1992-01-28",
+  "position": "MF",
+  "origin": "湖北黄石",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 46,
+    "total_goals": 5,
+    "total_wins": 17,
+    "win_rate": 37.0,
+    "active_years": "2019 - 2020",
+    "goals_per_game": 0.11
+  },
+  "yearly_stats": [
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 4,
+      "wins": 12,
+      "win_rate": 46.2,
+      "goals_per_game": 0.15
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 1,
+      "wins": 5,
+      "win_rate": 25.0,
+      "goals_per_game": 0.05
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

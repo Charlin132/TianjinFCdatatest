@@ -1,0 +1,73 @@
+{
+  "id": "P0283",
+  "name": "朴韬宇",
+  "english_name": "Piao Taoyu",
+  "birthday": "1993-05-18",
+  "position": "MF",
+  "origin": "吉林延边",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 68,
+    "total_goals": 5,
+    "total_wins": 25,
+    "win_rate": 36.8,
+    "active_years": "2019 - 2023",
+    "goals_per_game": 0.07
+  },
+  "yearly_stats": [
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 1,
+      "wins": 4,
+      "win_rate": 44.4,
+      "goals_per_game": 0.11
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 12,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 16.7,
+      "goals_per_game": 0.08
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 13,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 23.1,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 22,
+      "goals": 3,
+      "wins": 12,
+      "win_rate": 54.5,
+      "goals_per_game": 0.14
+    },
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 12,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 33.3,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

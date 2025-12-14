@@ -1,0 +1,37 @@
+{
+  "id": "P0251",
+  "name": "约万诺维奇",
+  "english_name": "Aleksandar Jovanovic",
+  "birthday": "1989-08-04",
+  "position": "DF",
+  "origin": "澳大利亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 23,
+    "total_goals": 2,
+    "total_wins": 9,
+    "win_rate": 39.1,
+    "active_years": "2016 - 2016",
+    "goals_per_game": 0.09
+  },
+  "yearly_stats": [
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 23,
+      "goals": 2,
+      "wins": 9,
+      "win_rate": 39.1,
+      "goals_per_game": 0.09
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

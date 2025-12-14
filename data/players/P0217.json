@@ -1,0 +1,64 @@
+{
+  "id": "P0217",
+  "name": "周海滨",
+  "english_name": "Zhou Haibin",
+  "birthday": "1985-07-19",
+  "position": "MF",
+  "origin": "辽宁大连",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 90,
+    "total_goals": 12,
+    "total_wins": 25,
+    "win_rate": 27.8,
+    "active_years": "2013 - 2016",
+    "goals_per_game": 0.13
+  },
+  "yearly_stats": [
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 13,
+      "goals": 1,
+      "wins": 7,
+      "win_rate": 53.8,
+      "goals_per_game": 0.08
+    },
+    {
+      "year": 2014,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 5,
+      "wins": 9,
+      "win_rate": 31.0,
+      "goals_per_game": 0.17
+    },
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 25,
+      "goals": 5,
+      "wins": 4,
+      "win_rate": 16.0,
+      "goals_per_game": 0.2
+    },
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 23,
+      "goals": 1,
+      "wins": 5,
+      "win_rate": 21.7,
+      "goals_per_game": 0.04
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

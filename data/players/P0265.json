@@ -1,0 +1,64 @@
+{
+  "id": "P0265",
+  "name": "阿奇姆彭",
+  "english_name": "Frank Opoku Acheampong",
+  "birthday": "1993-10-16",
+  "position": "FW",
+  "origin": "加纳",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 91,
+    "total_goals": 35,
+    "total_wins": 30,
+    "win_rate": 33.0,
+    "active_years": "2017 - 2020",
+    "goals_per_game": 0.38
+  },
+  "yearly_stats": [
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 12,
+      "goals": 4,
+      "wins": 5,
+      "win_rate": 41.7,
+      "goals_per_game": 0.33
+    },
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 17,
+      "wins": 8,
+      "win_rate": 30.8,
+      "goals_per_game": 0.65
+    },
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 31,
+      "goals": 9,
+      "wins": 13,
+      "win_rate": 41.9,
+      "goals_per_game": 0.29
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 5,
+      "wins": 4,
+      "win_rate": 18.2,
+      "goals_per_game": 0.23
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

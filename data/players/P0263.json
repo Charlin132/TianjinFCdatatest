@@ -1,0 +1,46 @@
+{
+  "id": "P0263",
+  "name": "米克尔",
+  "english_name": "John Obi Mikel",
+  "birthday": "1987-04-22",
+  "position": "MF",
+  "origin": "尼日利亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 31,
+    "total_goals": 3,
+    "total_wins": 10,
+    "win_rate": 32.3,
+    "active_years": "2017 - 2018",
+    "goals_per_game": 0.1
+  },
+  "yearly_stats": [
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 13,
+      "goals": 1,
+      "wins": 6,
+      "win_rate": 46.2,
+      "goals_per_game": 0.08
+    },
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 18,
+      "goals": 2,
+      "wins": 4,
+      "win_rate": 22.2,
+      "goals_per_game": 0.11
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}
