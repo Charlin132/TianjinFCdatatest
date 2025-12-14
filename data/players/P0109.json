@@ -1,0 +1,46 @@
+{
+  "id": "P0109",
+  "name": "马拉",
+  "english_name": "Ion Bogdan Mara",
+  "birthday": "1977-09-29",
+  "position": "MF",
+  "origin": "罗马尼亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 35,
+    "total_goals": 6,
+    "total_wins": 12,
+    "win_rate": 34.3,
+    "active_years": "2003 - 2004",
+    "goals_per_game": 0.17
+  },
+  "yearly_stats": [
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 8,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 37.5,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 6,
+      "wins": 9,
+      "win_rate": 33.3,
+      "goals_per_game": 0.22
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

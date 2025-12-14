@@ -1,0 +1,46 @@
+{
+  "id": "P0178",
+  "name": "张晓彬",
+  "english_name": "Zhang Xiaobin",
+  "birthday": "1985-02-14",
+  "position": "MF",
+  "origin": "河北张家口",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 41,
+    "total_goals": 3,
+    "total_wins": 18,
+    "win_rate": 43.9,
+    "active_years": "2010 - 2011",
+    "goals_per_game": 0.07
+  },
+  "yearly_stats": [
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 23,
+      "goals": 3,
+      "wins": 11,
+      "win_rate": 47.8,
+      "goals_per_game": 0.13
+    },
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 18,
+      "goals": 0,
+      "wins": 7,
+      "win_rate": 38.9,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

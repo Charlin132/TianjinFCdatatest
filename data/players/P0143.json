@@ -1,0 +1,55 @@
+{
+  "id": "P0143",
+  "name": "白毅",
+  "english_name": "Bai Yi",
+  "birthday": "1979-06-23",
+  "position": "DF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 27,
+    "total_goals": 1,
+    "total_wins": 14,
+    "win_rate": 51.9,
+    "active_years": "2007 - 2009",
+    "goals_per_game": 0.04
+  },
+  "yearly_stats": [
+    {
+      "year": 2007,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 33.3,
+      "goals_per_game": 0.11
+    },
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 13,
+      "goals": 0,
+      "wins": 8,
+      "win_rate": 61.5,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 5,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 60.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

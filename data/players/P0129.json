@@ -1,0 +1,82 @@
+{
+  "id": "P0129",
+  "name": "范柏群",
+  "english_name": "Fan Baiqun",
+  "birthday": "1986-02-18",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 42,
+    "total_goals": 1,
+    "total_wins": 17,
+    "win_rate": 40.5,
+    "active_years": "2008 - 2016",
+    "goals_per_game": 0.02
+  },
+  "yearly_stats": [
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 33.3,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 3,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 66.7,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 5,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 20.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 4,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 50.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 66.7,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 1,
+      "wins": 4,
+      "win_rate": 26.7,
+      "goals_per_game": 0.07
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

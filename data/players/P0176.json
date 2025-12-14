@@ -1,0 +1,46 @@
+{
+  "id": "P0176",
+  "name": "卢西亚诺",
+  "english_name": "Luciano Esteban Olguin",
+  "birthday": "1982-03-10",
+  "position": "FW",
+  "origin": "阿根廷",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 42,
+    "total_goals": 16,
+    "total_wins": 19,
+    "win_rate": 45.2,
+    "active_years": "2010 - 2011",
+    "goals_per_game": 0.38
+  },
+  "yearly_stats": [
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 6,
+      "wins": 9,
+      "win_rate": 64.3,
+      "goals_per_game": 0.43
+    },
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 28,
+      "goals": 10,
+      "wins": 10,
+      "win_rate": 35.7,
+      "goals_per_game": 0.36
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

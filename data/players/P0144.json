@@ -1,0 +1,100 @@
+{
+  "id": "P0144",
+  "name": "谭望嵩",
+  "english_name": "Tan Wangsong",
+  "birthday": "1985-12-19",
+  "position": "DF",
+  "origin": "四川成都",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 111,
+    "total_goals": 3,
+    "total_wins": 40,
+    "win_rate": 36.0,
+    "active_years": "2007 - 2021",
+    "goals_per_game": 0.03
+  },
+  "yearly_stats": [
+    {
+      "year": 2007,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 1,
+      "wins": 10,
+      "win_rate": 45.5,
+      "goals_per_game": 0.05
+    },
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 19,
+      "goals": 1,
+      "wins": 10,
+      "win_rate": 52.6,
+      "goals_per_game": 0.05
+    },
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 0,
+      "wins": 10,
+      "win_rate": 38.5,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 10.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 16.7,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 1,
+      "wins": 6,
+      "win_rate": 40.0,
+      "goals_per_game": 0.07
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 7,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 28.6,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

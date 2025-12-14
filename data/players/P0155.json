@@ -1,0 +1,46 @@
+{
+  "id": "P0155",
+  "name": "路易斯",
+  "english_name": "Eber Luis Cucchi",
+  "birthday": "1981-09-20",
+  "position": "FW",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 47,
+    "total_goals": 17,
+    "total_wins": 19,
+    "win_rate": 40.4,
+    "active_years": "2008 - 2009",
+    "goals_per_game": 0.36
+  },
+  "yearly_stats": [
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 21,
+      "goals": 14,
+      "wins": 12,
+      "win_rate": 57.1,
+      "goals_per_game": 0.67
+    },
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 3,
+      "wins": 7,
+      "win_rate": 26.9,
+      "goals_per_game": 0.12
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

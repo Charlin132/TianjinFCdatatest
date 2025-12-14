@@ -1,0 +1,100 @@
+{
+  "id": "P0166",
+  "name": "王新欣",
+  "english_name": "Wang Xinxin",
+  "birthday": "1981-04-27",
+  "position": "MF",
+  "origin": "辽宁沈阳",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 182,
+    "total_goals": 19,
+    "total_wins": 68,
+    "win_rate": 37.4,
+    "active_years": "2009 - 2016",
+    "goals_per_game": 0.1
+  },
+  "yearly_stats": [
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 32,
+      "goals": 3,
+      "wins": 11,
+      "win_rate": 34.4,
+      "goals_per_game": 0.09
+    },
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 3,
+      "wins": 13,
+      "win_rate": 44.8,
+      "goals_per_game": 0.1
+    },
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 24,
+      "goals": 3,
+      "wins": 9,
+      "win_rate": 37.5,
+      "goals_per_game": 0.12
+    },
+    {
+      "year": 2012,
+      "team": "天津泰达",
+      "apps": 37,
+      "goals": 4,
+      "wins": 10,
+      "win_rate": 27.0,
+      "goals_per_game": 0.11
+    },
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 1,
+      "wins": 9,
+      "win_rate": 33.3,
+      "goals_per_game": 0.04
+    },
+    {
+      "year": 2014,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 2,
+      "wins": 10,
+      "win_rate": 45.5,
+      "goals_per_game": 0.09
+    },
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 8,
+      "goals": 2,
+      "wins": 4,
+      "win_rate": 50.0,
+      "goals_per_game": 0.25
+    },
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 3,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 66.7,
+      "goals_per_game": 0.33
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

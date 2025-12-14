@@ -1,0 +1,55 @@
+{
+  "id": "P0135",
+  "name": "李星灿",
+  "english_name": "Li Xingcan",
+  "birthday": "1986-07-23",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 18,
+    "total_goals": 0,
+    "total_wins": 7,
+    "win_rate": 38.9,
+    "active_years": "2007 - 2010",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2007,
+      "team": "天津泰达",
+      "apps": 12,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 50.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 3,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 33.3,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 3,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

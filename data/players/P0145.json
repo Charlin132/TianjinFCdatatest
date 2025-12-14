@@ -1,0 +1,46 @@
+{
+  "id": "P0145",
+  "name": "马季奇",
+  "english_name": "Darko Matic",
+  "birthday": "1980-09-26",
+  "position": "MF",
+  "origin": "克罗地亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 57,
+    "total_goals": 1,
+    "total_wins": 27,
+    "win_rate": 47.4,
+    "active_years": "2007 - 2008",
+    "goals_per_game": 0.02
+  },
+  "yearly_stats": [
+    {
+      "year": 2007,
+      "team": "天津泰达",
+      "apps": 28,
+      "goals": 1,
+      "wins": 12,
+      "win_rate": 42.9,
+      "goals_per_game": 0.04
+    },
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 0,
+      "wins": 15,
+      "win_rate": 51.7,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

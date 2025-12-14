@@ -1,0 +1,55 @@
+{
+  "id": "P0128",
+  "name": "李成华",
+  "english_name": "Li Chenghua",
+  "birthday": "1986-06-27",
+  "position": "DF",
+  "origin": "吉林延边",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 30,
+    "total_goals": 0,
+    "total_wins": 10,
+    "win_rate": 33.3,
+    "active_years": "2006 - 2008",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2006,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 28.6,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2007,
+      "team": "天津泰达",
+      "apps": 11,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 45.5,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 5,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 20.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

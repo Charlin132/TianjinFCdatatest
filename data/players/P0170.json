@@ -1,0 +1,46 @@
+{
+  "id": "P0170",
+  "name": "范志强",
+  "english_name": "Fan Zhiqiang",
+  "birthday": "1988-08-22",
+  "position": "FW",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 3,
+    "total_goals": 0,
+    "total_wins": 1,
+    "win_rate": 33.3,
+    "active_years": "2011 - 2015",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 2,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 50.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

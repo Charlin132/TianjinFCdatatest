@@ -1,0 +1,37 @@
+{
+  "id": "P0191",
+  "name": "宋钟国",
+  "english_name": "Song Chong-Gug",
+  "birthday": "1979-02-20",
+  "position": "MF",
+  "origin": "韩国",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 16,
+    "total_goals": 1,
+    "total_wins": 6,
+    "win_rate": 37.5,
+    "active_years": "2011 - 2011",
+    "goals_per_game": 0.06
+  },
+  "yearly_stats": [
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 16,
+      "goals": 1,
+      "wins": 6,
+      "win_rate": 37.5,
+      "goals_per_game": 0.06
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}
