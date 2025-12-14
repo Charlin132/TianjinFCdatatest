@@ -1,0 +1,148 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="icon" href="images/logo.png" type="image/png">
+    <title>历史统计 | 天津足球大数据</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.x.x/dist/cdn.min.js"></script>
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Noto+Sans+SC:wght@400;500;700&display=swap');
+        body { font-family: 'Inter', 'Noto Sans SC', sans-serif; background-color: #F8F9FA; }
+        .hide-scrollbar::-webkit-scrollbar { display: none; }
+        .cursor-grab { cursor: grab; }
+        .cursor-grabbing { cursor: grabbing; }
+    </style>
+</head>
+<body x-data="dataStatsApp()" x-init="initApp()" class="flex flex-col min-h-screen">
+
+    <nav class="bg-white/90 backdrop-blur-md border-b border-gray-200 sticky top-0 z-50">
+        <div class="max-w-7xl mx-auto px-4 lg:px-12 h-16 flex items-center justify-between gap-4">
+            <a href="index.html" class="flex items-center gap-3 shrink-0 group">
+                <img src="images/logo.png" alt="TJ" class="w-9 h-9 rounded-lg object-contain opacity-90 group-hover:opacity-100 transition-all">
+                <span class="font-bold text-xl tracking-tight text-gray-800 hidden md:block">天津足球数据中心</span>
+            </a>
+            
+            <div class="flex-1 max-w-xl relative group">
+                <div class="relative">
+                    <div class="absolute inset-y-0 left-0 pl-4 flex items-center pointer-events-none"><svg class="h-4 w-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg></div>
+                    <input type="text" x-model="searchQuery" @input="performSearch()" @click.outside="searchResults = []"
+                           class="block w-full pl-10 pr-3 py-2.5 border-none rounded-full bg-gray-100 text-gray-900 text-sm placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-100 focus:bg-white transition-all shadow-inner" 
+                           placeholder="搜索球员...">
+                </div>
+                <div x-show="searchResults.length > 0" class="absolute top-full left-0 right-0 mt-2 bg-white rounded-2xl shadow-xl border border-gray-100 overflow-hidden z-50 max-h-80 overflow-y-auto">
+                    <template x-for="res in searchResults" :key="res.id">
+                        <a :href="'player.html?id=' + res.id + '&name=' + encodeURIComponent(res.name)" class="flex items-center gap-3 px-4 py-3 hover:bg-blue-50/50 cursor-pointer border-b border-gray-50">
+                            <span class="text-sm font-bold text-gray-900" x-text="res.name"></span>
+                        </a>
+                    </template>
+                </div>
+            </div>
+
+            <div class="flex items-center gap-2 shrink-0">
+                <a href="dataindex.html" class="flex items-center gap-2 px-4 py-2 text-sm font-bold text-blue-700 bg-blue-50 rounded-full transition-all">
+                    历史统计
+                </a>
+                <a href="index.html" class="bg-gray-100 hover:bg-gray-200 text-gray-900 px-5 py-2 rounded-full text-sm font-bold transition-all">返回首页</a>
+            </div>
+        </div>
+        
+        <div class="border-t border-gray-100 bg-white/50 backdrop-blur-sm">
+            <div class="max-w-7xl mx-auto">
+                <div id="timeline-scroll" class="flex items-center gap-1 overflow-x-auto hide-scrollbar py-2 px-4 lg:px-12 cursor-grab active:cursor-grabbing select-none h-14">
+                    <a href="index.html" class="flex-shrink-0 px-4 py-1.5 mr-2 rounded-full text-xs font-bold uppercase tracking-wider border bg-white text-gray-500 border-gray-200 hover:border-gray-400 transition-all">Overview</a>
+                    <template x-for="year in years" :key="year">
+                        <div @click="handleYearClick(year)" class="flex-shrink-0 relative w-12 h-full flex items-center justify-center cursor-pointer group">
+                            <span class="text-sm font-medium transition-all tabular-nums text-gray-400 group-hover:text-gray-900" x-text="year"></span>
+                        </div>
+                    </template>
+                    <div class="w-8 flex-shrink-0"></div>
+                </div>
+            </div>
+        </div>
+    </nav>
+
+    <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-12 pt-12">
+        <header class="mb-10">
+            <h1 class="text-4xl font-black text-gray-900 tracking-tight">队史数据统计</h1>
+            <p class="text-gray-500 mt-2">Historical Statistics & Records</p>
+        </header>
+
+        <div class="grid grid-cols-1 md:grid-cols-3 gap-6">
+            <div class="bg-white p-8 rounded-[32px] border border-gray-100 shadow-sm flex flex-col items-center text-center">
+                <div class="w-16 h-16 bg-blue-50 text-blue-600 rounded-full flex items-center justify-center text-2xl mb-4">🏆</div>
+                <h3 class="text-lg font-bold text-gray-900">总胜场</h3>
+                <div class="text-4xl font-black text-gray-900 mt-2 tabular-nums">284</div>
+            </div>
+            
+            <div class="bg-white p-8 rounded-[32px] border border-gray-100 shadow-sm flex flex-col items-center text-center">
+                <div class="w-16 h-16 bg-green-50 text-green-600 rounded-full flex items-center justify-center text-2xl mb-4">⚽</div>
+                <h3 class="text-lg font-bold text-gray-900">总进球</h3>
+                <div class="text-4xl font-black text-gray-900 mt-2 tabular-nums">982</div>
+            </div>
+
+            <div class="bg-white p-8 rounded-[32px] border border-gray-100 shadow-sm flex flex-col items-center text-center">
+                <div class="w-16 h-16 bg-purple-50 text-purple-600 rounded-full flex items-center justify-center text-2xl mb-4">🏟️</div>
+                <h3 class="text-lg font-bold text-gray-900">总场次</h3>
+                <div class="text-4xl font-black text-gray-900 mt-2 tabular-nums">820</div>
+            </div>
+        </div>
+        
+        <div class="mt-12 bg-white rounded-[32px] border border-gray-100 p-10 text-center">
+            <p class="text-gray-400 font-medium">更多高阶数据图表开发中...</p>
+        </div>
+    </main>
+
+    <footer class="flex-none w-full py-8 mt-12 border-t border-gray-200 bg-white">
+        <div class="flex justify-center items-center">
+            <span class="text-xs font-medium text-gray-400 tracking-wide">Copyright © 天津足球大数据精神病院</span>
+        </div>
+    </footer>
+
+    <script>
+        function dataStatsApp() {
+            return {
+                years: Array.from({length: 2025 - 1994 + 1}, (_, i) => 2025 - i),
+                searchQuery: '',
+                searchResults: [],
+                playerMap: {},
+
+                async initApp() {
+                    const slider = document.getElementById('timeline-scroll');
+                    if(slider) {
+                        let isDown = false, startX, scrollLeft;
+                        slider.addEventListener('mousedown', (e) => { isDown = true; slider.classList.add('cursor-grabbing'); startX = e.pageX - slider.offsetLeft; scrollLeft = slider.scrollLeft; });
+                        slider.addEventListener('mouseleave', () => { isDown = false; slider.classList.remove('cursor-grabbing'); });
+                        slider.addEventListener('mouseup', () => { isDown = false; slider.classList.remove('cursor-grabbing'); });
+                        slider.addEventListener('mousemove', (e) => { if (!isDown) return; e.preventDefault(); const x = e.pageX - slider.offsetLeft; const walk = (x - startX) * 2; slider.scrollLeft = scrollLeft - walk; });
+                    }
+                    
+                    // 加载搜索数据
+                    try {
+                        const resp = await fetch('data/player_data.json');
+                        if(resp.ok) {
+                            const pData = await resp.json();
+                            const list = Array.isArray(pData) ? pData : (pData.data || []);
+                            list.forEach(p => this.playerMap[p.id || p.Player_ID] = p.name || p.Chinese_Name);
+                        }
+                    } catch(e) {}
+                },
+
+                performSearch() {
+                    if (this.searchQuery.length < 1) { this.searchResults = []; return; }
+                    const query = this.searchQuery.toLowerCase();
+                    this.searchResults = Object.entries(this.playerMap)
+                        .map(([id, name]) => ({ id, name }))
+                        .filter(p => p.name.includes(query) || p.id.toLowerCase().includes(query))
+                        .slice(0, 10);
+                },
+
+                handleYearClick(year) {
+                    window.location.href = `index.html?year=${year}`;
+                }
+            }
+        }
+    </script>
+</body>
+</html>
