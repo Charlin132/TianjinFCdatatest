@@ -1,0 +1,73 @@
+{
+  "id": "P0010",
+  "name": "王俊",
+  "english_name": "Wang Jun",
+  "birthday": "1966-03-16",
+  "position": "FW",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 76,
+    "total_goals": 16,
+    "total_wins": 28,
+    "win_rate": 36.8,
+    "active_years": "1994 - 1998",
+    "goals_per_game": 0.21
+  },
+  "yearly_stats": [
+    {
+      "year": 1994,
+      "team": "天津三星",
+      "apps": 10,
+      "goals": 3,
+      "wins": 6,
+      "win_rate": 60.0,
+      "goals_per_game": 0.3
+    },
+    {
+      "year": 1995,
+      "team": "天津三星",
+      "apps": 23,
+      "goals": 10,
+      "wins": 7,
+      "win_rate": 30.4,
+      "goals_per_game": 0.43
+    },
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 25,
+      "goals": 2,
+      "wins": 8,
+      "win_rate": 32.0,
+      "goals_per_game": 0.08
+    },
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 14,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 28.6,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 4,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 75.0,
+      "goals_per_game": 0.25
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

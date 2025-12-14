@@ -1,0 +1,118 @@
+{
+  "id": "P0086",
+  "name": "韩燕鸣",
+  "english_name": "Han Yanming",
+  "birthday": "1982-10-26",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 192,
+    "total_goals": 25,
+    "total_wins": 78,
+    "win_rate": 40.6,
+    "active_years": "2001 - 2011",
+    "goals_per_game": 0.13
+  },
+  "yearly_stats": [
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 3,
+      "wins": 6,
+      "win_rate": 60.0,
+      "goals_per_game": 0.3
+    },
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 2,
+      "wins": 9,
+      "win_rate": 40.9,
+      "goals_per_game": 0.09
+    },
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 1,
+      "wins": 5,
+      "win_rate": 25.0,
+      "goals_per_game": 0.05
+    },
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 16,
+      "goals": 5,
+      "wins": 5,
+      "win_rate": 31.2,
+      "goals_per_game": 0.31
+    },
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 25,
+      "goals": 2,
+      "wins": 13,
+      "win_rate": 52.0,
+      "goals_per_game": 0.08
+    },
+    {
+      "year": 2006,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 1,
+      "wins": 7,
+      "win_rate": 31.8,
+      "goals_per_game": 0.05
+    },
+    {
+      "year": 2007,
+      "team": "天津泰达",
+      "apps": 17,
+      "goals": 2,
+      "wins": 6,
+      "win_rate": 35.3,
+      "goals_per_game": 0.12
+    },
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 25,
+      "goals": 2,
+      "wins": 13,
+      "win_rate": 52.0,
+      "goals_per_game": 0.08
+    },
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 6,
+      "wins": 12,
+      "win_rate": 41.4,
+      "goals_per_game": 0.21
+    },
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 33.3,
+      "goals_per_game": 0.17
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

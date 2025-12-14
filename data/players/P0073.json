@@ -1,0 +1,37 @@
+{
+  "id": "P0073",
+  "name": "轧亚",
+  "english_name": "Ya Ya",
+  "birthday": "1975-03-19",
+  "position": "DF",
+  "origin": "北京",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 10,
+    "total_goals": 3,
+    "total_wins": 2,
+    "win_rate": 20.0,
+    "active_years": "2000 - 2000",
+    "goals_per_game": 0.3
+  },
+  "yearly_stats": [
+    {
+      "year": 2000,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 3,
+      "wins": 2,
+      "win_rate": 20.0,
+      "goals_per_game": 0.3
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

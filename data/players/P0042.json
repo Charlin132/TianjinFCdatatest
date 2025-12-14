@@ -1,0 +1,99 @@
+{
+  "id": "P0042",
+  "name": "刘云飞",
+  "english_name": "Liu Yunfei",
+  "birthday": "1980-05-08",
+  "position": "GK",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 127,
+    "total_goals": 0,
+    "total_wins": 49,
+    "win_rate": 38.6,
+    "active_years": "1999 - 2005",
+    "total_clean_sheets": 37,
+    "clean_sheet_rate": 29.1
+  },
+  "yearly_stats": [
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 11,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 36.4,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 36.4
+    },
+    {
+      "year": 2000,
+      "team": "天津泰达",
+      "apps": 5,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 20.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 20.0
+    },
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 23,
+      "goals": 0,
+      "wins": 12,
+      "win_rate": 52.2,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 30.4
+    },
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 16,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 37.5,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 31.2
+    },
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 31,
+      "goals": 0,
+      "wins": 10,
+      "win_rate": 32.3,
+      "clean_sheets": 11,
+      "clean_sheet_rate": 35.5
+    },
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 25.0,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 30.0
+    },
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 21,
+      "goals": 0,
+      "wins": 11,
+      "win_rate": 52.4,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 14.3
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

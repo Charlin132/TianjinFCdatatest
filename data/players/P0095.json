@@ -1,0 +1,37 @@
+{
+  "id": "P0095",
+  "name": "迭戈",
+  "english_name": "Diego Martin Meijide Blanco",
+  "birthday": "1976-05-09",
+  "position": "MF",
+  "origin": "乌拉圭",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 6,
+    "total_goals": 0,
+    "total_wins": 1,
+    "win_rate": 16.7,
+    "active_years": "2002 - 2002",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 16.7,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

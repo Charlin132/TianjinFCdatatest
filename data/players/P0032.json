@@ -1,0 +1,37 @@
+{
+  "id": "P0032",
+  "name": "刘晨",
+  "english_name": "Liu Chen",
+  "birthday": "1978-10-13",
+  "position": "FW",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 10,
+    "total_goals": 1,
+    "total_wins": 1,
+    "win_rate": 10.0,
+    "active_years": "1997 - 1997",
+    "goals_per_game": 0.1
+  },
+  "yearly_stats": [
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 10,
+      "goals": 1,
+      "wins": 1,
+      "win_rate": 10.0,
+      "goals_per_game": 0.1
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

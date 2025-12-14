@@ -1,0 +1,64 @@
+{
+  "id": "P0098",
+  "name": "冯扬",
+  "english_name": "Feng Yang",
+  "birthday": "1982-02-13",
+  "position": "DF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 16,
+    "total_goals": 0,
+    "total_wins": 8,
+    "win_rate": 50.0,
+    "active_years": "2003 - 2006",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 50.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 4,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 50.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2006,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 100.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

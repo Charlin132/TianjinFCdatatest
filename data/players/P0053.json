@@ -1,0 +1,73 @@
+{
+  "id": "P0053",
+  "name": "于光",
+  "english_name": "Yu Guang",
+  "birthday": "1975-05-21",
+  "position": "DF",
+  "origin": "辽宁大连",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 111,
+    "total_goals": 0,
+    "total_wins": 36,
+    "win_rate": 32.4,
+    "active_years": "1999 - 2005",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 24,
+      "goals": 0,
+      "wins": 8,
+      "win_rate": 33.3,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2000,
+      "team": "天津泰达",
+      "apps": 17,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 23.5,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 23,
+      "goals": 0,
+      "wins": 7,
+      "win_rate": 30.4,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 25,
+      "goals": 0,
+      "wins": 7,
+      "win_rate": 28.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 0,
+      "wins": 10,
+      "win_rate": 45.5,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

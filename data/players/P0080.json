@@ -1,0 +1,37 @@
+{
+  "id": "P0080",
+  "name": "米尔森·桑托斯",
+  "english_name": "Milson Ferreira dos Santos",
+  "birthday": "1977-11-24",
+  "position": "FW",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 9,
+    "total_goals": 1,
+    "total_wins": 3,
+    "win_rate": 33.3,
+    "active_years": "2001 - 2001",
+    "goals_per_game": 0.11
+  },
+  "yearly_stats": [
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 33.3,
+      "goals_per_game": 0.11
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

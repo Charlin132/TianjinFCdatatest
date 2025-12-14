@@ -1,0 +1,37 @@
+{
+  "id": "P0092",
+  "name": "王鹏",
+  "english_name": "Wang Peng",
+  "birthday": "1976-01-28",
+  "position": "DF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 8,
+    "total_goals": 0,
+    "total_wins": 3,
+    "win_rate": 37.5,
+    "active_years": "2002 - 2002",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 8,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 37.5,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "P0062",
+  "name": "桂平",
+  "english_name": "Gui Ping",
+  "birthday": "1979-04-24",
+  "position": "DF",
+  "origin": "北京",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 10,
+    "total_goals": 1,
+    "total_wins": 4,
+    "win_rate": 40.0,
+    "active_years": "1999 - 1999",
+    "goals_per_game": 0.1
+  },
+  "yearly_stats": [
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 1,
+      "wins": 4,
+      "win_rate": 40.0,
+      "goals_per_game": 0.1
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

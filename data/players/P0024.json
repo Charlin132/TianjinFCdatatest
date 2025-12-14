@@ -1,0 +1,73 @@
+{
+  "id": "P0024",
+  "name": "邵庚",
+  "english_name": "Shao Geng",
+  "birthday": "1972-04-27",
+  "position": "DF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 82,
+    "total_goals": 3,
+    "total_wins": 26,
+    "win_rate": 31.7,
+    "active_years": "1995 - 1999",
+    "goals_per_game": 0.04
+  },
+  "yearly_stats": [
+    {
+      "year": 1995,
+      "team": "天津三星",
+      "apps": 23,
+      "goals": 1,
+      "wins": 7,
+      "win_rate": 30.4,
+      "goals_per_game": 0.04
+    },
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 25,
+      "goals": 1,
+      "wins": 8,
+      "win_rate": 32.0,
+      "goals_per_game": 0.04
+    },
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 18,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 16.7,
+      "goals_per_game": 0.06
+    },
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 0,
+      "wins": 8,
+      "win_rate": 53.3,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

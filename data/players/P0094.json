@@ -1,0 +1,46 @@
+{
+  "id": "P0094",
+  "name": "达科斯塔",
+  "english_name": "Jorge Alberto da Costa Silva“Jorjao”",
+  "birthday": "1970-12-31",
+  "position": "DF",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 59,
+    "total_goals": 6,
+    "total_wins": 20,
+    "win_rate": 33.9,
+    "active_years": "2002 - 2003",
+    "goals_per_game": 0.1
+  },
+  "yearly_stats": [
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 3,
+      "wins": 10,
+      "win_rate": 34.5,
+      "goals_per_game": 0.1
+    },
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 30,
+      "goals": 3,
+      "wins": 10,
+      "win_rate": 33.3,
+      "goals_per_game": 0.1
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

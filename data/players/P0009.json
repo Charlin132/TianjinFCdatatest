@@ -1,0 +1,46 @@
+{
+  "id": "P0009",
+  "name": "沈奕",
+  "english_name": "Shen Yi",
+  "birthday": "1968-04-30",
+  "position": "FW",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 14,
+    "total_goals": 3,
+    "total_wins": 5,
+    "win_rate": 35.7,
+    "active_years": "1994 - 1995",
+    "goals_per_game": 0.21
+  },
+  "yearly_stats": [
+    {
+      "year": 1994,
+      "team": "天津",
+      "apps": 4,
+      "goals": 2,
+      "wins": 3,
+      "win_rate": 75.0,
+      "goals_per_game": 0.5
+    },
+    {
+      "year": 1995,
+      "team": "天津三星",
+      "apps": 10,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 20.0,
+      "goals_per_game": 0.1
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

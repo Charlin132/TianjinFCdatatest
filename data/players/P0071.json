@@ -1,0 +1,59 @@
+{
+  "id": "P0071",
+  "name": "江津",
+  "english_name": "Jiang Jin",
+  "birthday": "1968-10-17",
+  "position": "GK",
+  "origin": "上海",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 46,
+    "total_goals": 0,
+    "total_wins": 13,
+    "win_rate": 28.3,
+    "active_years": "2000 - 2002",
+    "total_clean_sheets": 9,
+    "clean_sheet_rate": 19.6
+  },
+  "yearly_stats": [
+    {
+      "year": 2000,
+      "team": "天津泰达",
+      "apps": 24,
+      "goals": 0,
+      "wins": 7,
+      "win_rate": 29.2,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 20.8
+    },
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 16.7,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 16.7
+    },
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 16,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 31.2,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 18.8
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

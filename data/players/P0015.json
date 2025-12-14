@@ -1,0 +1,64 @@
+{
+  "id": "P0015",
+  "name": "裴锦",
+  "english_name": "Pei Jin",
+  "birthday": "1975-10-18",
+  "position": "FW",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 21,
+    "total_goals": 2,
+    "total_wins": 4,
+    "win_rate": 19.0,
+    "active_years": "1994 - 1997",
+    "goals_per_game": 0.1
+  },
+  "yearly_stats": [
+    {
+      "year": 1994,
+      "team": "天津",
+      "apps": 3,
+      "goals": 2,
+      "wins": 1,
+      "win_rate": 33.3,
+      "goals_per_game": 0.67
+    },
+    {
+      "year": 1995,
+      "team": "天津三星",
+      "apps": 10,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 10.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 5,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 40.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 3,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

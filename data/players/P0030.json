@@ -1,0 +1,46 @@
+{
+  "id": "P0030",
+  "name": "罗纳多·席尔瓦",
+  "english_name": "Ronaldo Silva de Oliveira",
+  "birthday": "1963-03-02",
+  "position": "FW",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 29,
+    "total_goals": 6,
+    "total_wins": 10,
+    "win_rate": 34.5,
+    "active_years": "1996 - 1997",
+    "goals_per_game": 0.21
+  },
+  "yearly_stats": [
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 19,
+      "goals": 6,
+      "wins": 8,
+      "win_rate": 42.1,
+      "goals_per_game": 0.32
+    },
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 10,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 20.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

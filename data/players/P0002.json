@@ -1,0 +1,64 @@
+{
+  "id": "P0002",
+  "name": "侯桐",
+  "english_name": "Hou Tong",
+  "birthday": "1971-03-09",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 41,
+    "total_goals": 0,
+    "total_wins": 13,
+    "win_rate": 31.7,
+    "active_years": "1994 - 1998",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 1994,
+      "team": "天津三星",
+      "apps": 3,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 66.7,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 1995,
+      "team": "天津三星",
+      "apps": 11,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 27.3,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 19,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 31.6,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 8,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 25.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

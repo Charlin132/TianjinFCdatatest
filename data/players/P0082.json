@@ -1,0 +1,109 @@
+{
+  "id": "P0082",
+  "name": "芦彦",
+  "english_name": "Lu Yan",
+  "birthday": "1981-10-21",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 138,
+    "total_goals": 19,
+    "total_wins": 58,
+    "win_rate": 42.0,
+    "active_years": "2001 - 2009",
+    "goals_per_game": 0.14
+  },
+  "yearly_stats": [
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 3,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 66.7,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 3,
+      "wins": 8,
+      "win_rate": 30.8,
+      "goals_per_game": 0.12
+    },
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 24,
+      "goals": 2,
+      "wins": 9,
+      "win_rate": 37.5,
+      "goals_per_game": 0.08
+    },
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 4,
+      "wins": 13,
+      "win_rate": 50.0,
+      "goals_per_game": 0.15
+    },
+    {
+      "year": 2006,
+      "team": "天津泰达",
+      "apps": 30,
+      "goals": 8,
+      "wins": 11,
+      "win_rate": 36.7,
+      "goals_per_game": 0.27
+    },
+    {
+      "year": 2007,
+      "team": "天津泰达",
+      "apps": 3,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 66.7,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 19,
+      "goals": 2,
+      "wins": 9,
+      "win_rate": 47.4,
+      "goals_per_game": 0.11
+    },
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 66.7,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

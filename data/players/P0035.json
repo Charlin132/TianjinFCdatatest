@@ -1,0 +1,37 @@
+{
+  "id": "P0035",
+  "name": "贾骥",
+  "english_name": "Jia Ji",
+  "birthday": "1978-05-14",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 8,
+    "total_goals": 0,
+    "total_wins": 2,
+    "win_rate": 25.0,
+    "active_years": "1997 - 1997",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 8,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 25.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

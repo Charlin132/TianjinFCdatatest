@@ -1,0 +1,136 @@
+{
+  "id": "P0001",
+  "name": "于根伟",
+  "english_name": "Yu Genwei",
+  "birthday": "1974-01-07",
+  "position": "FW",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 240,
+    "total_goals": 101,
+    "total_wins": 92,
+    "win_rate": 38.3,
+    "active_years": "1994 - 2005",
+    "goals_per_game": 0.42
+  },
+  "yearly_stats": [
+    {
+      "year": 1994,
+      "team": "天津三星",
+      "apps": 10,
+      "goals": 9,
+      "wins": 5,
+      "win_rate": 50.0,
+      "goals_per_game": 0.9
+    },
+    {
+      "year": 1995,
+      "team": "天津三星",
+      "apps": 15,
+      "goals": 1,
+      "wins": 5,
+      "win_rate": 33.3,
+      "goals_per_game": 0.07
+    },
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 25,
+      "goals": 12,
+      "wins": 8,
+      "win_rate": 32.0,
+      "goals_per_game": 0.48
+    },
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 23,
+      "goals": 7,
+      "wins": 6,
+      "win_rate": 26.1,
+      "goals_per_game": 0.3
+    },
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 16,
+      "goals": 8,
+      "wins": 7,
+      "win_rate": 43.8,
+      "goals_per_game": 0.5
+    },
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 18,
+      "goals": 10,
+      "wins": 7,
+      "win_rate": 38.9,
+      "goals_per_game": 0.56
+    },
+    {
+      "year": 2000,
+      "team": "天津泰达",
+      "apps": 16,
+      "goals": 4,
+      "wins": 7,
+      "win_rate": 43.8,
+      "goals_per_game": 0.25
+    },
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 19,
+      "goals": 9,
+      "wins": 9,
+      "win_rate": 47.4,
+      "goals_per_game": 0.47
+    },
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 24,
+      "goals": 10,
+      "wins": 8,
+      "win_rate": 33.3,
+      "goals_per_game": 0.42
+    },
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 23,
+      "goals": 9,
+      "wins": 9,
+      "win_rate": 39.1,
+      "goals_per_game": 0.39
+    },
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 24,
+      "goals": 9,
+      "wins": 6,
+      "win_rate": 25.0,
+      "goals_per_game": 0.38
+    },
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 13,
+      "wins": 15,
+      "win_rate": 55.6,
+      "goals_per_game": 0.48
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": true,
+    "dual_role_description": "该球员退役后曾担任球队教练组职务。"
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": []
+}
