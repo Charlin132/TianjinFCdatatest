@@ -1,0 +1,37 @@
+{
+  "id": "P0350",
+  "name": "迪奥戈·席尔瓦",
+  "english_name": "Diogo da Costa Silva",
+  "birthday": "1995-01-11",
+  "position": "DF",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 11,
+    "total_goals": 0,
+    "total_wins": 6,
+    "win_rate": 54.5,
+    "active_years": "2024 - 2024",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 11,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 54.5,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

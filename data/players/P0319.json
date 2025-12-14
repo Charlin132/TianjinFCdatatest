@@ -1,0 +1,55 @@
+{
+  "id": "P0319",
+  "name": "孙学龙",
+  "english_name": "Sun Xuelong",
+  "birthday": "1999-07-01",
+  "position": "MF",
+  "origin": "云南西双版纳",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 18,
+    "total_goals": 0,
+    "total_wins": 8,
+    "win_rate": 44.4,
+    "active_years": "2022 - 2024",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 9,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 44.4,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 5,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 60.0,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 4,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 25.0,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

@@ -1,0 +1,37 @@
+{
+  "id": "P0359",
+  "name": "李永佳",
+  "english_name": "Li Yongjia",
+  "birthday": "2001-07-24",
+  "position": "MF",
+  "origin": "广东佛山",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 15,
+    "total_goals": 0,
+    "total_wins": 4,
+    "win_rate": 26.7,
+    "active_years": "2025 - 2025",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 15,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 26.7,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

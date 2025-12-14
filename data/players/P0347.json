@@ -1,0 +1,46 @@
+{
+  "id": "P0347",
+  "name": "王献钧",
+  "english_name": "Wang Xianjun",
+  "birthday": "2000-06-01",
+  "position": "DF",
+  "origin": "辽宁大连",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 44,
+    "total_goals": 0,
+    "total_wins": 18,
+    "win_rate": 40.9,
+    "active_years": "2024 - 2025",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 18,
+      "goals": 0,
+      "wins": 7,
+      "win_rate": 38.9,
+      "goals_per_game": 0.0
+    },
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 26,
+      "goals": 0,
+      "wins": 11,
+      "win_rate": 42.3,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

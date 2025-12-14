@@ -1,0 +1,37 @@
+{
+  "id": "P0300",
+  "name": "丛震",
+  "english_name": "Cong Zhen",
+  "birthday": "1997-02-09",
+  "position": "MF",
+  "origin": "辽宁大连",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 9,
+    "total_goals": 0,
+    "total_wins": 1,
+    "win_rate": 11.1,
+    "active_years": "2021 - 2021",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 9,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 11.1,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

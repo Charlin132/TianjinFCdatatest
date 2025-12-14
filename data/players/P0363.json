@@ -1,0 +1,37 @@
+{
+  "id": "P0363",
+  "name": "陈哲宣",
+  "english_name": "Chen Zhexuan",
+  "birthday": "2003-09-24",
+  "position": "MF",
+  "origin": "湖南长沙",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 3,
+    "total_goals": 0,
+    "total_wins": 1,
+    "win_rate": 33.3,
+    "active_years": "2025 - 2025",
+    "goals_per_game": 0.0
+  },
+  "yearly_stats": [
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 3,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 33.3,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

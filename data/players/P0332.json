@@ -1,0 +1,46 @@
+{
+  "id": "P0332",
+  "name": "贝里奇",
+  "english_name": "Robert Beric",
+  "birthday": "1991-06-17",
+  "position": "FW",
+  "origin": "斯洛文尼亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 56,
+    "total_goals": 14,
+    "total_wins": 25,
+    "win_rate": 44.6,
+    "active_years": "2022 - 2023",
+    "goals_per_game": 0.25
+  },
+  "yearly_stats": [
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 26,
+      "goals": 4,
+      "wins": 14,
+      "win_rate": 53.8,
+      "goals_per_game": 0.15
+    },
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 30,
+      "goals": 10,
+      "wins": 11,
+      "win_rate": 36.7,
+      "goals_per_game": 0.33
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

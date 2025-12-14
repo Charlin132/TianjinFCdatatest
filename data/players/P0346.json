@@ -1,0 +1,37 @@
+{
+  "id": "P0346",
+  "name": "格兰特",
+  "english_name": "Alexander Ian Grant",
+  "birthday": "1994-01-23",
+  "position": "DF",
+  "origin": "澳大利亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 11,
+    "total_goals": 2,
+    "total_wins": 4,
+    "win_rate": 36.4,
+    "active_years": "2024 - 2024",
+    "goals_per_game": 0.18
+  },
+  "yearly_stats": [
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 11,
+      "goals": 2,
+      "wins": 4,
+      "win_rate": 36.4,
+      "goals_per_game": 0.18
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

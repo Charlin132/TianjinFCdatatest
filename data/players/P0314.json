@@ -1,0 +1,37 @@
+{
+  "id": "P0314",
+  "name": "金洋洋",
+  "english_name": "Jin Yangyang",
+  "birthday": "1993-02-03",
+  "position": "DF",
+  "origin": "辽宁大连",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 14,
+    "total_goals": 1,
+    "total_wins": 3,
+    "win_rate": 21.4,
+    "active_years": "2021 - 2021",
+    "goals_per_game": 0.07
+  },
+  "yearly_stats": [
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 14,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 21.4,
+      "goals_per_game": 0.07
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

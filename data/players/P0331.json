@@ -1,0 +1,46 @@
+{
+  "id": "P0331",
+  "name": "罗萨",
+  "english_name": "Farley Vieira Rosa",
+  "birthday": "1994-01-14",
+  "position": "MF",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 59,
+    "total_goals": 10,
+    "total_wins": 25,
+    "win_rate": 42.4,
+    "active_years": "2022 - 2023",
+    "goals_per_game": 0.17
+  },
+  "yearly_stats": [
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 28,
+      "goals": 2,
+      "wins": 14,
+      "win_rate": 50.0,
+      "goals_per_game": 0.07
+    },
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 31,
+      "goals": 8,
+      "wins": 11,
+      "win_rate": 35.5,
+      "goals_per_game": 0.26
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

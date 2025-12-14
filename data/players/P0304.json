@@ -1,0 +1,73 @@
+{
+  "id": "P0304",
+  "name": "巴顿",
+  "english_name": "Ba Dun",
+  "birthday": "1995-09-16",
+  "position": "MF",
+  "origin": "山东烟台",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 135,
+    "total_goals": 15,
+    "total_wins": 49,
+    "win_rate": 36.3,
+    "active_years": "2021 - 2025",
+    "goals_per_game": 0.11
+  },
+  "yearly_stats": [
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 19,
+      "goals": 2,
+      "wins": 3,
+      "win_rate": 15.8,
+      "goals_per_game": 0.11
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 25,
+      "goals": 7,
+      "wins": 10,
+      "win_rate": 40.0,
+      "goals_per_game": 0.28
+    },
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 31,
+      "goals": 4,
+      "wins": 11,
+      "win_rate": 35.5,
+      "goals_per_game": 0.13
+    },
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 33,
+      "goals": 2,
+      "wins": 13,
+      "win_rate": 39.4,
+      "goals_per_game": 0.06
+    },
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 27,
+      "goals": 0,
+      "wins": 12,
+      "win_rate": 44.4,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}
