@@ -1,0 +1,308 @@
+{
+  "year": 2022,
+  "team_name": "天津津门虎",
+  "season_summary": "2022赛季",
+  "coach": {
+    "name": "于根伟",
+    "id": "C022",
+    "headshot": "images/player/default.jpg"
+  },
+  "record": {
+    "wins": 16,
+    "draws": 7,
+    "losses": 14,
+    "goals_for": 50,
+    "goals_against": 33
+  },
+  "team_roster": [
+    {
+      "player_id": "P0326",
+      "player_name": "李岳峰",
+      "number": "1",
+      "position": "GK",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0320",
+      "player_name": "安杜哈尔",
+      "number": "2",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0285",
+      "player_name": "王政豪",
+      "number": "3",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0277",
+      "player_name": "杨帆",
+      "number": "4",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0264",
+      "player_name": "邱添一",
+      "number": "5",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0256",
+      "player_name": "高嘉润",
+      "number": "6",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0240",
+      "player_name": "周通",
+      "number": "7",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0203",
+      "player_name": "赵英杰",
+      "number": "8",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0332",
+      "player_name": "贝里奇",
+      "number": "9",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0318",
+      "player_name": "埃德尔",
+      "number": "10",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0280",
+      "player_name": "谢维军",
+      "number": "11",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0327",
+      "player_name": "桂子涵",
+      "number": "12",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0321",
+      "player_name": "张一",
+      "number": "13",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0330",
+      "player_name": "祖鹏超",
+      "number": "14",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0325",
+      "player_name": "拉多尼奇",
+      "number": "15",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0308",
+      "player_name": "杨梓豪",
+      "number": "16",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0317",
+      "player_name": "周正",
+      "number": "17",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0331",
+      "player_name": "罗萨",
+      "number": "18",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0185",
+      "player_name": "白岳峰",
+      "number": "19",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0311",
+      "player_name": "王嘉楠",
+      "number": "20",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0323",
+      "player_name": "张星亮",
+      "number": "21",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0305",
+      "player_name": "方镜淇",
+      "number": "22",
+      "position": "GK",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0298",
+      "player_name": "钱宇淼",
+      "number": "23",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0283",
+      "player_name": "朴韬宇",
+      "number": "24",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0333",
+      "player_name": "闫炳良",
+      "number": "25",
+      "position": "GK",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0324",
+      "player_name": "徐嘉敏",
+      "number": "26",
+      "position": "GK",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0322",
+      "player_name": "张卫",
+      "number": "27",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0144",
+      "player_name": "谭望嵩",
+      "number": "28",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0304",
+      "player_name": "巴顿",
+      "number": "29",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0229",
+      "player_name": "王秋明",
+      "number": "30",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0329",
+      "player_name": "田依浓",
+      "number": "31",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0286",
+      "player_name": "苏缘杰",
+      "number": "32",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0290",
+      "player_name": "宋岳",
+      "number": "33",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0319",
+      "player_name": "孙学龙",
+      "number": "37",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0328",
+      "player_name": "梅里达",
+      "number": "38",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0312",
+      "player_name": "石炎",
+      "number": "40",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    }
+  ],
+  "photos": []
+}

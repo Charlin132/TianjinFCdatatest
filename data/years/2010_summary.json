@@ -1,0 +1,316 @@
+{
+  "year": 2010,
+  "team_name": "天津泰达",
+  "season_summary": "2010赛季",
+  "coach": {
+    "name": "阿里·汉",
+    "id": "C013",
+    "headshot": "images/player/default.jpg"
+  },
+  "record": {
+    "wins": 13,
+    "draws": 11,
+    "losses": 6,
+    "goals_for": 37,
+    "goals_against": 29
+  },
+  "team_roster": [
+    {
+      "player_id": "P0093",
+      "player_name": "赵燕明",
+      "number": "1",
+      "position": "GK",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0097",
+      "player_name": "何杨",
+      "number": "2",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0125",
+      "player_name": "吴伟安",
+      "number": "3",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0126",
+      "player_name": "吴泽",
+      "number": "4",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0120",
+      "player_name": "王霄",
+      "number": "5",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0123",
+      "player_name": "佐里奇",
+      "number": "6",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0136",
+      "player_name": "李本舰",
+      "number": "7",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0169",
+      "player_name": "胡人天",
+      "number": "8",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0172",
+      "player_name": "伊姆耶拉耶",
+      "number": "9",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0166",
+      "player_name": "王新欣",
+      "number": "10",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0135",
+      "player_name": "李星灿",
+      "number": "11",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0152",
+      "player_name": "田原",
+      "number": "12",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0184",
+      "player_name": "白光",
+      "number": "13",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0179",
+      "player_name": "拉多尔夫",
+      "number": "14",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0153",
+      "player_name": "聊博超",
+      "number": "15",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0129",
+      "player_name": "范柏群",
+      "number": "16",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0186",
+      "player_name": "芦哲宇",
+      "number": "17",
+      "position": "GK",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0182",
+      "player_name": "法浩特·塔德吉耶夫",
+      "number": "18",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0168",
+      "player_name": "聂涛",
+      "number": "19",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0103",
+      "player_name": "毛彪",
+      "number": "20",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0181",
+      "player_name": "林晨",
+      "number": "21",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0171",
+      "player_name": "于大宝",
+      "number": "22",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0175",
+      "player_name": "刘鹏",
+      "number": "23",
+      "position": "GK",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0177",
+      "player_name": "崔仲凯",
+      "number": "24",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0119",
+      "player_name": "杨启鹏",
+      "number": "25",
+      "position": "GK",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0069",
+      "player_name": "曹阳",
+      "number": "26",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0156",
+      "player_name": "马磊磊",
+      "number": "27",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0134",
+      "player_name": "姜晨",
+      "number": "28",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0180",
+      "player_name": "李想",
+      "number": "29",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0183",
+      "player_name": "王健",
+      "number": "30",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0185",
+      "player_name": "白岳峰",
+      "number": "31",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0178",
+      "player_name": "张晓彬",
+      "number": "32",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0173",
+      "player_name": "何塞·维拉纽瓦",
+      "number": "33",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0174",
+      "player_name": "克莱茨科夫",
+      "number": "34",
+      "position": "DF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0176",
+      "player_name": "卢西亚诺",
+      "number": "35",
+      "position": "FW",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0187",
+      "player_name": "陈涛",
+      "number": "36",
+      "position": "MF",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    },
+    {
+      "player_id": "P0121",
+      "player_name": "田旭",
+      "number": "37",
+      "position": "GK",
+      "role": "球员",
+      "headshot": "images/player/default.jpg"
+    }
+  ],
+  "photos": []
+}

@@ -1,0 +1,3860 @@
+[
+  {
+    "match_id": "M0045",
+    "date": "1996-04-14",
+    "start_time": "18:05:00",
+    "attendance": "20000.0",
+    "round": "第一轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "大连万达",
+      "id": "T012"
+    },
+    "team_b_score": 3,
+    "result": "负",
+    "head_coach": {
+      "name": "蔺新江",
+      "id": "C001"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "张恩华",
+        "time": "66",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "斯文森",
+        "time": "86",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "魏意民",
+        "time": "89",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0029",
+        "player_name": "斯拉瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0026",
+        "player_name": "伊利达尔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0025",
+        "player_name": "马云岭",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陆俊",
+        "id": "R161"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "王燕春",
+        "id": "R460"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘铁军",
+        "id": "R414"
+      }
+    ]
+  },
+  {
+    "match_id": "M0046",
+    "date": "1996-04-21",
+    "start_time": "19:30:00",
+    "attendance": "42000.0",
+    "round": "第二轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "成都体育中心",
+      "id": "S012"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "四川全兴",
+      "id": "T019"
+    },
+    "team_b_score": 0,
+    "result": "平",
+    "head_coach": {
+      "name": "蔺新江",
+      "id": "C001"
+    },
+    "goal_scorers": [],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0029",
+        "player_name": "斯拉瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0026",
+        "player_name": "伊利达尔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0025",
+        "player_name": "马云岭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "朱六一",
+        "id": "R466"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "李志中",
+        "id": "R033"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "郑祥",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0047",
+    "date": "1996-04-28",
+    "start_time": "18:05:00",
+    "attendance": "17000.0",
+    "round": "第三轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "上海申花",
+      "id": "T002"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "蔺新江",
+      "id": "C001"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "谢晖",
+        "time": "31",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "吴承瑛",
+        "time": "51",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0029",
+        "player_name": "斯拉瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0026",
+        "player_name": "伊利达尔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0025",
+        "player_name": "马云岭",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "于敬崟",
+        "id": "R462"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "杨佳宁",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "徐连德",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0048",
+    "date": "1996-05-05",
+    "start_time": "15:30:00",
+    "attendance": "40000.0",
+    "round": "第四轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "工人体育场",
+      "id": "S017"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "北京国安",
+      "id": "T003"
+    },
+    "team_b_score": 4,
+    "result": "负",
+    "head_coach": {
+      "name": "蔺新江",
+      "id": "C001"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "高洪波",
+        "time": "67",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "谢峰",
+        "time": "69",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "高峰",
+        "time": "77",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "高峰",
+        "time": "86",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0025",
+        "player_name": "马云岭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0026",
+        "player_name": "伊利达尔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "李少峰",
+        "id": "R457"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "吴东明",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "皮迪康",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0049",
+    "date": "1996-05-12",
+    "start_time": "18:05:00",
+    "attendance": "16000.0",
+    "round": "第五轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "八一",
+      "id": "T025"
+    },
+    "team_b_score": 4,
+    "result": "负",
+    "head_coach": {
+      "name": "蔺新江",
+      "id": "C001"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "OG奥斯瓦尔多",
+        "time": "12",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "潘毅",
+        "time": "32",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "王政",
+        "time": "44",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "胡云峰",
+        "time": "84",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0012",
+        "player_name": "王毅",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0025",
+        "player_name": "马云岭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0026",
+        "player_name": "伊利达尔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "王燕春",
+        "id": "R460"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "陈铭基",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "戴允仲",
+        "id": "R418"
+      }
+    ]
+  },
+  {
+    "match_id": "M0050",
+    "date": "1996-05-19",
+    "start_time": "19:30:00",
+    "attendance": "16000.0",
+    "round": "第六轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "济南泰山将军",
+      "id": "T004"
+    },
+    "team_b_score": 1,
+    "result": "平",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "宿茂臻",
+        "time": "6",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0012",
+        "player_name": "王毅",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0026",
+        "player_name": "伊利达尔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0015",
+        "player_name": "裴锦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "朱六一",
+        "id": "R466"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘雨涛",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "王晓楚",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0051",
+    "date": "1996-05-26",
+    "start_time": "15:30:00",
+    "attendance": "20000.0",
+    "round": "第七轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "深圳体育场",
+      "id": "S018"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "深圳飞亚达",
+      "id": "T006"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "钟俊",
+        "time": "2",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "陈大英",
+        "time": "7",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0012",
+        "player_name": "王毅",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0026",
+        "player_name": "伊利达尔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0029",
+        "player_name": "斯拉瓦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "李英明",
+        "id": "R458"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "张雷（大）",
+        "id": "R143"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "邱洪涛",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0052",
+    "date": "1996-06-02",
+    "start_time": "16:35:00",
+    "attendance": "18000.0",
+    "round": "第八轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "广东宏远",
+      "id": "T034"
+    },
+    "team_b_score": 0,
+    "result": "平",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [],
+    "players_on_field": [
+      {
+        "player_id": "P0022",
+        "player_name": "张凤梧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0025",
+        "player_name": "马云岭",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "于敬崟",
+        "id": "R462"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘军",
+        "id": "R337"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "徐连德",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0053",
+    "date": "1996-06-09",
+    "start_time": "16:30:00",
+    "attendance": "26000.0",
+    "round": "第九轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "长春体育场",
+      "id": "S019"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "延边现代",
+      "id": "T027"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0022",
+        "player_name": "张凤梧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0025",
+        "player_name": "马云岭",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "翟柏林",
+        "id": "R461"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "陈渭国",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "黄俊杰",
+        "id": "R469"
+      }
+    ]
+  },
+  {
+    "match_id": "M0054",
+    "date": "1996-06-16",
+    "start_time": "19:30:00",
+    "attendance": "18000.0",
+    "round": "第十轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "广州松日",
+      "id": "T035"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0022",
+        "player_name": "张凤梧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "张业端",
+        "id": "R459"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "林国荣",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "邹家尤",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0055",
+    "date": "1996-06-23",
+    "start_time": "16:30:00",
+    "attendance": "5000.0",
+    "round": "第十一轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "越秀山体育场",
+      "id": "S003"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "广州太阳神",
+      "id": "T014"
+    },
+    "team_b_score": 1,
+    "result": "平",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "彭昌颖",
+        "time": "27",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "朱六一",
+        "id": "R466"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "杨晓雄",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "王晓楚",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0056",
+    "date": "1996-06-30",
+    "start_time": "16:30:00",
+    "attendance": "0",
+    "round": "第一轮第一回合",
+    "league_level": "足协杯",
+    "home_away": "客",
+    "stadium": {
+      "name": "金州体育场",
+      "id": "S020"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "大连顺发",
+      "id": "T045"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0025",
+        "player_name": "马云岭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0029",
+        "player_name": "斯拉瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": []
+  },
+  {
+    "match_id": "M0057",
+    "date": "1996-07-03",
+    "start_time": "19:30:00",
+    "attendance": "0",
+    "round": "第一轮第二回合",
+    "league_level": "足协杯",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 7,
+    "team_b": {
+      "name": "大连顺发",
+      "id": "T045"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "常辉",
+        "time": "65",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0015",
+        "player_name": "裴锦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": []
+  },
+  {
+    "match_id": "M0058",
+    "date": "1996-07-07",
+    "start_time": "19:30:00",
+    "attendance": "0",
+    "round": "第一轮第一回合",
+    "league_level": "足协杯",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "大连万达",
+      "id": "T012"
+    },
+    "team_b_score": 1,
+    "result": "平",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "魏意民",
+        "time": "44",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "李少峰",
+        "id": "R457"
+      }
+    ]
+  },
+  {
+    "match_id": "M0059",
+    "date": "1996-07-10",
+    "start_time": "16:30:00",
+    "attendance": "0",
+    "round": "第一轮第二回合",
+    "league_level": "足协杯",
+    "home_away": "客",
+    "stadium": {
+      "name": "金州体育场",
+      "id": "S020"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "大连万达",
+      "id": "T012"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "王鹏",
+        "time": "72",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "斯文森",
+        "time": "89",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0015",
+        "player_name": "裴锦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": []
+  },
+  {
+    "match_id": "M0060",
+    "date": "1996-08-11",
+    "start_time": "16:30:00",
+    "attendance": "20000.0",
+    "round": "第十二轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "人民体育场",
+      "id": "S010"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "大连万达",
+      "id": "T012"
+    },
+    "team_b_score": 3,
+    "result": "负",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "孙伟",
+        "time": "30",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "孙伟",
+        "time": "44",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "王涛",
+        "time": "45",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "翟柏林",
+        "id": "R461"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "黄俊杰",
+        "id": "R469"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "林国荣",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0061",
+    "date": "1996-08-18",
+    "start_time": "19:30:00",
+    "attendance": "20000.0",
+    "round": "第十三轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "四川全兴",
+      "id": "T019"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "张业端",
+        "id": "R459"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘知生",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "陈超",
+        "id": "R127"
+      }
+    ]
+  },
+  {
+    "match_id": "M0062",
+    "date": "1996-09-01",
+    "start_time": "18:05:00",
+    "attendance": "27000.0",
+    "round": "第十四轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "虹口体育场",
+      "id": "S013"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "上海申花",
+      "id": "T002"
+    },
+    "team_b_score": 2,
+    "result": "平",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "刘军",
+        "time": "8",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "范志毅",
+        "time": "51",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陆俊",
+        "id": "R161"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "戴允仲",
+        "id": "R418"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘铁军",
+        "id": "R414"
+      }
+    ]
+  },
+  {
+    "match_id": "M0063",
+    "date": "1996-09-08",
+    "start_time": "18:05:00",
+    "attendance": "19800.0",
+    "round": "第十五轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "北京国安",
+      "id": "T003"
+    },
+    "team_b_score": 2,
+    "result": "平",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "杨晨",
+        "time": "67",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "杨晨",
+        "time": "82",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "朱六一",
+        "id": "R466"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "朱宏庆",
+        "id": "R425"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘知生",
+        "id": null
+      }
+    ]
+  },
+  {
+    "match_id": "M0064",
+    "date": "1996-09-15",
+    "start_time": "15:30:00",
+    "attendance": "10000.0",
+    "round": "第十六轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "昆明体育场",
+      "id": "S021"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "八一",
+      "id": "T025"
+    },
+    "team_b_score": 0,
+    "result": "平",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "李少峰",
+        "id": "R457"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "皮迪康",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "周伟新",
+        "id": "R171"
+      }
+    ]
+  },
+  {
+    "match_id": "M0065",
+    "date": "1996-09-22",
+    "start_time": "16:30:00",
+    "attendance": "48000.0",
+    "round": "第十七轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "山东省体育中心",
+      "id": "S015"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "济南泰山将军",
+      "id": "T004"
+    },
+    "team_b_score": 1,
+    "result": "负",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "于远伟",
+        "time": "60",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0021",
+        "player_name": "魏东",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "陆俊",
+        "id": "R161"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘铁军",
+        "id": "R414"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "王铁钢",
+        "id": "R420"
+      }
+    ]
+  },
+  {
+    "match_id": "M0066",
+    "date": "1996-09-29",
+    "start_time": "19:30:00",
+    "attendance": "15000.0",
+    "round": "第十八轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 3,
+    "team_b": {
+      "name": "深圳飞亚达",
+      "id": "T006"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "范育红",
+        "time": "67",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0017",
+        "player_name": "韩金铭",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "于敬崟",
+        "id": "R462"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘军",
+        "id": "R337"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "于铎",
+        "id": "R015"
+      }
+    ]
+  },
+  {
+    "match_id": "M0067",
+    "date": "1996-10-06",
+    "start_time": "15:30:00",
+    "attendance": "12000.0",
+    "round": "第十九轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "广东省人民体育场",
+      "id": "S014"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "广东宏远",
+      "id": "T034"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0015",
+        "player_name": "裴锦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "黄钢",
+        "id": "R465"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘雨涛",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "王恩久",
+        "id": "R409"
+      }
+    ]
+  },
+  {
+    "match_id": "M0068",
+    "date": "1996-10-13",
+    "start_time": "18:05:00",
+    "attendance": "15000.0",
+    "round": "第二十轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "延边现代",
+      "id": "T027"
+    },
+    "team_b_score": 1,
+    "result": "平",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "P金光柱",
+        "time": "80",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0008",
+        "player_name": "梁宇",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0025",
+        "player_name": "马云岭",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "于敬崟",
+        "id": "R462"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "于铎",
+        "id": "R015"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "王景东",
+        "id": "R156"
+      }
+    ]
+  },
+  {
+    "match_id": "M0069",
+    "date": "1996-10-20",
+    "start_time": "15:30:00",
+    "attendance": "10000.0",
+    "round": "第二十一轮",
+    "league_level": "甲A",
+    "home_away": "客",
+    "stadium": {
+      "name": "西河体育中心",
+      "id": "S022"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "广州松日",
+      "id": "T035"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "黎梓菲",
+        "time": "54",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "陈伟强",
+        "time": "89",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0018",
+        "player_name": "高玉勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0026",
+        "player_name": "伊利达尔",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0015",
+        "player_name": "裴锦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "魏吉鸿",
+        "id": "R464"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "朱宏庆",
+        "id": "R425"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "陈宝文",
+        "id": "R011"
+      }
+    ]
+  },
+  {
+    "match_id": "M0070",
+    "date": "1996-10-27",
+    "start_time": "16:35:00",
+    "attendance": "16000.0",
+    "round": "第二十二轮",
+    "league_level": "甲A",
+    "home_away": "主",
+    "stadium": {
+      "name": "民园体育场",
+      "id": "S001"
+    },
+    "team_a": {
+      "name": "天津三星",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "广州太阳神",
+      "id": "T014"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "左树生",
+      "id": "C012"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "胡志军",
+        "time": "89",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0007",
+        "player_name": "施连志",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0020",
+        "player_name": "高飞",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0028",
+        "player_name": "奥斯瓦尔多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0024",
+        "player_name": "邵庚",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0016",
+        "player_name": "霍建廷",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0005",
+        "player_name": "孙建军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0027",
+        "player_name": "卡洛斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0030",
+        "player_name": "罗纳多·席尔瓦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0014",
+        "player_name": "石勇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0002",
+        "player_name": "侯桐",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0001",
+        "player_name": "于根伟",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0010",
+        "player_name": "王俊",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "衡明华",
+        "id": "R301"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "杨晓雄",
+        "id": null
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "俞元聪",
+        "id": "R474"
+      }
+    ]
+  }
+]

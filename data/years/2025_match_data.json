@@ -1,0 +1,5939 @@
+[
+  {
+    "match_id": "M0941",
+    "date": "2025-02-23",
+    "start_time": "15:30:00",
+    "attendance": "21385",
+    "round": "第一轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "梅州客家",
+      "id": "T032"
+    },
+    "team_b_score": 2,
+    "result": "平",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "刘云",
+        "time": "6",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "廖均健",
+        "time": "64",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0312",
+        "player_name": "石炎",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "傅明",
+        "id": "R213"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "汤朝",
+        "id": "R113"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "杨洋",
+        "id": "R098"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "陈金栋",
+        "id": "R247"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "高山",
+        "id": "R343"
+      }
+    ]
+  },
+  {
+    "match_id": "M0942",
+    "date": "2025-03-02",
+    "start_time": "18:30:00",
+    "attendance": "40096",
+    "round": "第二轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "五粮液文化体育中心",
+      "id": "S119"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "成都蓉城",
+      "id": "T033"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "韦世豪",
+        "time": "25",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0312",
+        "player_name": "石炎",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "甘树然",
+        "id": "R254"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "曹奕",
+        "id": "R076"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "孔令达",
+        "id": "R131"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "贾志亮",
+        "id": "R243"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "刘洪山",
+        "id": "R327"
+      }
+    ]
+  },
+  {
+    "match_id": "M0943",
+    "date": "2025-03-29",
+    "start_time": "15:30:00",
+    "attendance": "22017",
+    "round": "第三轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "青岛海牛",
+      "id": "T040"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0312",
+        "player_name": "石炎",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "沈寅豪",
+        "id": "R219"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "邓波",
+        "id": "R080"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "王喜洪",
+        "id": "R112"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "孙盛宇",
+        "id": "R251"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "罗景文",
+        "id": "R399"
+      }
+    ]
+  },
+  {
+    "match_id": "M0944",
+    "date": "2025-04-02",
+    "start_time": "19:35:00",
+    "attendance": "30200",
+    "round": "第四轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "北京国安",
+      "id": "T003"
+    },
+    "team_b_score": 2,
+    "result": "平",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "李磊",
+        "time": "27",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "杨帆",
+        "time": "92",
+        "team": "team_b",
+        "is_own_goal": true,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0312",
+        "player_name": "石炎",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "杜建鑫",
+        "id": "R537"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "孙凯",
+        "id": "R085"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "胡成军",
+        "id": "R084"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "万涛",
+        "id": "R240"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "席兵",
+        "id": "R395"
+      }
+    ]
+  },
+  {
+    "match_id": "M0945",
+    "date": "2025-04-06",
+    "start_time": "19:35:00",
+    "attendance": "13336",
+    "round": "第五轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "青岛西海岸大学城体育场",
+      "id": "S120"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "青岛西海岸",
+      "id": "T042"
+    },
+    "team_b_score": 2,
+    "result": "平",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "张修维",
+        "time": "33",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "内尔松卢斯",
+        "time": "72",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0312",
+        "player_name": "石炎",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "甘树然",
+        "id": "R254"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "周飞",
+        "id": "R078"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "张铖",
+        "id": "R133"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "马云坤",
+        "id": "R265"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "罗明辉",
+        "id": "R384"
+      }
+    ]
+  },
+  {
+    "match_id": "M0946",
+    "date": "2025-04-12",
+    "start_time": "15:30:00",
+    "attendance": "58619",
+    "round": "第六轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "大连梭鱼湾足球场",
+      "id": "S121"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "大连英博",
+      "id": "T051"
+    },
+    "team_b_score": 1,
+    "result": "平",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "卡兰加",
+        "time": "82",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "戴弋戈",
+        "id": "R214"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "张美林",
+        "id": "R118"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "陈超",
+        "id": "R127"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "严立夫",
+        "id": "R266"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "王海波",
+        "id": "R379"
+      }
+    ]
+  },
+  {
+    "match_id": "M0947",
+    "date": "2025-04-16",
+    "start_time": "18:00:00",
+    "attendance": "15763",
+    "round": "第七轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "上海海港",
+      "id": "T016"
+    },
+    "team_b_score": 4,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "加布里埃尔",
+        "time": "16",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "谢维军",
+        "time": "39",
+        "team": "team_b",
+        "is_own_goal": true,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "44‘莱昂纳多",
+        "time": "",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "王燊超",
+        "time": "63",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0298",
+        "player_name": "钱宇淼",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0356",
+        "player_name": "张威",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "刘威",
+        "id": "R220"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "曹奕",
+        "id": "R076"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "邓鹏",
+        "id": "R135"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "王阳",
+        "id": "R267"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "徐磊",
+        "id": "R354"
+      }
+    ]
+  },
+  {
+    "match_id": "M0948",
+    "date": "2025-04-20",
+    "start_time": "19:35:00",
+    "attendance": "21083",
+    "round": "第八轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "浙江队",
+      "id": null
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": true,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "王迪",
+        "id": "R190"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "邓波",
+        "id": "R080"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "张哲",
+        "id": "R121"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "徐强强",
+        "id": "R258"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "于健",
+        "id": "R373"
+      }
+    ]
+  },
+  {
+    "match_id": "M0949",
+    "date": "2025-04-27",
+    "start_time": "19:00:00",
+    "attendance": "8697",
+    "round": "第九轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "武汉体育中心",
+      "id": "S076"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "武汉三镇",
+      "id": "T030"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "图多列",
+        "time": "61",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "郑浩乾",
+        "time": "77",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "邢琦",
+        "id": "R224"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "张铖",
+        "id": "R133"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘宗麒",
+        "id": "R128"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "苏子豪",
+        "id": "R236"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张毅",
+        "id": "R387"
+      }
+    ]
+  },
+  {
+    "match_id": "M0950",
+    "date": "2025-05-01",
+    "start_time": "18:30:00",
+    "attendance": "28354",
+    "round": "第十轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "深圳市体育中心体育场",
+      "id": "S122"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "深圳新鹏城",
+      "id": "T041"
+    },
+    "team_b_score": 1,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "杜加利奇",
+        "time": "31",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "艾堃",
+        "id": "R192"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "唐荣地",
+        "id": "R089"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "张雪森",
+        "id": "R115"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "高鹏",
+        "id": "R250"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张悦",
+        "id": "R400"
+      }
+    ]
+  },
+  {
+    "match_id": "M0951",
+    "date": "2025-05-05",
+    "start_time": "19:00:00",
+    "attendance": "13298",
+    "round": "第十一轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "航海体育场",
+      "id": "S057"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 4,
+    "team_b": {
+      "name": "河南队",
+      "id": null
+    },
+    "team_b_score": 3,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": true,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "纳萨里奥",
+        "time": "8",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "53+'纳萨里奥",
+        "time": "",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "卢卡斯马亚",
+        "time": "75",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0305",
+        "player_name": "方镜淇",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "沈寅豪",
+        "id": "R219"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "周飞",
+        "id": "R078"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "吕品",
+        "id": "R136"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "崔雍",
+        "id": "R262"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张文",
+        "id": "R401"
+      }
+    ]
+  },
+  {
+    "match_id": "M0952",
+    "date": "2025-05-11",
+    "start_time": "19:00:00",
+    "attendance": "20136",
+    "round": "第十二轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "云南玉昆",
+      "id": "T044"
+    },
+    "team_b_score": 1,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "韩子龙",
+        "time": "23",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "戴弋戈",
+        "id": "R214"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "国景涛",
+        "id": "R100"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "鲍梦晓",
+        "id": "R137"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "马运坤",
+        "id": "R268"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "屠希亮",
+        "id": "R335"
+      }
+    ]
+  },
+  {
+    "match_id": "M0953",
+    "date": "2025-05-17",
+    "start_time": "19:00:00",
+    "attendance": "8202",
+    "round": "第十三轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "体育中心体育场",
+      "id": "S108"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "长春亚泰",
+      "id": "T011"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "谭龙",
+        "time": "89",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "甘树然",
+        "id": "R254"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "邓波",
+        "id": "R080"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "杨楠",
+        "id": "R117"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "贾志亮",
+        "id": "R243"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "梁栋",
+        "id": "R402"
+      }
+    ]
+  },
+  {
+    "match_id": "M0954",
+    "date": "2025-05-21",
+    "start_time": "20:00:00",
+    "attendance": "11836",
+    "round": "第三轮",
+    "league_level": "足协杯",
+    "home_away": "客",
+    "stadium": {
+      "name": "贵阳奥体中心",
+      "id": null
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "贵州筑城竞技",
+      "id": "T062"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0326",
+        "player_name": "李岳峰",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0298",
+        "player_name": "钱宇淼",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0356",
+        "player_name": "张威",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "崔雍",
+        "id": "R262"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘宗麒",
+        "id": "R128"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "孙晋",
+        "id": "R119"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "王健",
+        "id": "R269"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "高山",
+        "id": "R343"
+      }
+    ]
+  },
+  {
+    "match_id": "M0955",
+    "date": "2025-06-14",
+    "start_time": "20:00:00",
+    "attendance": "29727",
+    "round": "第十四轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "山东泰山",
+      "id": "T004"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "杜建鑫",
+        "id": "R537"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "杨洋",
+        "id": "R098"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "何龙",
+        "id": "R116"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "孟祥昆",
+        "id": "R104"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张锐",
+        "id": "R392"
+      }
+    ]
+  },
+  {
+    "match_id": "M0956",
+    "date": "2025-06-21",
+    "start_time": "19:30:00",
+    "attendance": "3728",
+    "round": "第四轮",
+    "league_level": "足协杯",
+    "home_away": "客",
+    "stadium": {
+      "name": "越秀山体育场",
+      "id": "S003"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "广东广州豹",
+      "id": "T066"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "马俊亮",
+        "time": "61",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "若昂卡洛斯",
+        "time": "75",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0298",
+        "player_name": "钱宇淼",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0356",
+        "player_name": "张威",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "马云坤",
+        "id": "R265"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘星",
+        "id": "R108"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "席飞",
+        "id": "R083"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "熊星",
+        "id": "R270"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "陈小雨",
+        "id": "R372"
+      }
+    ]
+  },
+  {
+    "match_id": "M0957",
+    "date": "2025-06-25",
+    "start_time": "19:00:00",
+    "attendance": "39925",
+    "round": "第十五轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "上海体育场",
+      "id": "S046"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "上海申花",
+      "id": "T002"
+    },
+    "team_b_score": 3,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "陈晋一",
+        "time": "42",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "48+'蒋圣龙",
+        "time": "",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "安德烈路易斯",
+        "time": "95",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "金京元",
+        "id": "R233"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "胡成军",
+        "id": "R084"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "张彦斌",
+        "id": "R138"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "马云坤",
+        "id": "R265"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "薛俊",
+        "id": "R339"
+      }
+    ]
+  },
+  {
+    "match_id": "M0958",
+    "date": "2025-06-29",
+    "start_time": "19:00:00",
+    "attendance": "8214",
+    "round": "第十六轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "五华奥体中心",
+      "id": "S099"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "梅州客家",
+      "id": "T032"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "迈克尔",
+        "time": "76",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "高鹏",
+        "id": "R250"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "孙凯",
+        "id": "R085"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "王琢",
+        "id": "R139"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "陈金栋",
+        "id": "R247"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张文",
+        "id": "R401"
+      }
+    ]
+  },
+  {
+    "match_id": "M0959",
+    "date": "2025-07-18",
+    "start_time": "19:35:00",
+    "attendance": "30200",
+    "round": "第十七轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "成都蓉城",
+      "id": "T033"
+    },
+    "team_b_score": 1,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "韦世豪",
+        "time": "89",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "麦麦提江.艾合麦提",
+        "id": "R249"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘星",
+        "id": "R108"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "唐荣地",
+        "id": "R089"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "张超",
+        "id": "R264"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "蔡昆",
+        "id": "R364"
+      }
+    ]
+  },
+  {
+    "match_id": "M0960",
+    "date": "2025-07-27",
+    "start_time": "19:00:00",
+    "attendance": "18012",
+    "round": "第十八轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "青春足球场",
+      "id": "S113"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "青岛海牛",
+      "id": "T040"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "兰克尔泽",
+        "time": "16",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "席尔瓦",
+        "time": "99",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "徐强强",
+        "id": "R258"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "邓鹏",
+        "id": "R135"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "杨欣",
+        "id": "R140"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "陈金栋",
+        "id": "R247"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "高山",
+        "id": "R343"
+      }
+    ]
+  },
+  {
+    "match_id": "M0961",
+    "date": "2025-08-03",
+    "start_time": "19:35:00",
+    "attendance": "54649",
+    "round": "第十九轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "工人体育场",
+      "id": "S017"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "北京国安",
+      "id": "T003"
+    },
+    "team_b_score": 2,
+    "result": "平",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "达万",
+        "time": "43",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "法比奥",
+        "time": "70",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "戴弋戈",
+        "id": "R214"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "国景涛",
+        "id": "R100"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "吴明峰",
+        "id": "R111"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "高鹏",
+        "id": "R250"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张锐",
+        "id": "R392"
+      }
+    ]
+  },
+  {
+    "match_id": "M0962",
+    "date": "2025-08-10",
+    "start_time": "19:00:00",
+    "attendance": "26220",
+    "round": "第二十轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "青岛西海岸",
+      "id": "T042"
+    },
+    "team_b_score": 0,
+    "result": "平",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "黄翼",
+        "id": "R238"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "胡成军",
+        "id": "R084"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "孔令达",
+        "id": "R131"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "崔雍",
+        "id": "R262"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "李旭升",
+        "id": "R383"
+      }
+    ]
+  },
+  {
+    "match_id": "M0963",
+    "date": "2025-08-16",
+    "start_time": "18:30:00",
+    "attendance": "30200",
+    "round": "第二十一轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "大连英博",
+      "id": "T051"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "傅明",
+        "id": "R213"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "张美林",
+        "id": "R118"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "吕品",
+        "id": "R136"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "贾志亮",
+        "id": "R243"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张国君",
+        "id": "R403"
+      }
+    ]
+  },
+  {
+    "match_id": "M0964",
+    "date": "2025-08-20",
+    "start_time": "19:35:00",
+    "attendance": "21425",
+    "round": "第二十三轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "黄龙体育中心",
+      "id": "S117"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "浙江队",
+      "id": null
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "亚戈",
+        "time": "45",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "弗兰克",
+        "time": "95",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "沈寅豪",
+        "id": "R219"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "焦巍",
+        "id": "R132"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘宗麒",
+        "id": "R128"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "崔雍",
+        "id": "R262"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "徐磊",
+        "id": "R354"
+      }
+    ]
+  },
+  {
+    "match_id": "M0965",
+    "date": "2025-08-24",
+    "start_time": "19:00:00",
+    "attendance": "21930",
+    "round": "第二十二轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "上汽浦东体育场",
+      "id": "S112"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "上海海港",
+      "id": "T016"
+    },
+    "team_b_score": 1,
+    "result": "平",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "42",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "加布里埃尔",
+        "time": "12",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "阿扎姆 马哈德迈",
+        "id": "R540"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "施翔",
+        "id": "R075"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "刘星",
+        "id": "R108"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "苏子豪",
+        "id": "R236"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "于健",
+        "id": "R373"
+      }
+    ]
+  },
+  {
+    "match_id": "M0966",
+    "date": "2025-09-14",
+    "start_time": "19:35:00",
+    "attendance": "22057",
+    "round": "第二十四轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 4,
+    "team_b": {
+      "name": "武汉三镇",
+      "id": "T030"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "time": "29",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "48+'基莱斯",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "time": "73",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "time": "89",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0363",
+        "player_name": "陈哲宣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "李海新",
+        "id": "R234"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "邓波",
+        "id": "R080"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "席飞",
+        "id": "R083"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "孟祥昆",
+        "id": "R104"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "刘雪峰",
+        "id": "R404"
+      }
+    ]
+  },
+  {
+    "match_id": "M0967",
+    "date": "2025-09-21",
+    "start_time": "19:35:00",
+    "attendance": "21925",
+    "round": "第二十五轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "深圳新鹏城",
+      "id": "T041"
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "48+'阿代米",
+        "time": "",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0312",
+        "player_name": "石炎",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "王竞",
+        "id": "R244"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "何龙",
+        "id": "R116"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "苏晓飞",
+        "id": "R107"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "马云坤",
+        "id": "R265"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "杨炎柱",
+        "id": "R369"
+      }
+    ]
+  },
+  {
+    "match_id": "M0968",
+    "date": "2025-09-28",
+    "start_time": "19:00:00",
+    "attendance": "18703",
+    "round": "第二十六轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "河南队",
+      "id": null
+    },
+    "team_b_score": 0,
+    "result": "胜",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "time": "58",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0304",
+        "player_name": "巴顿",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0312",
+        "player_name": "石炎",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "王巍",
+        "id": "R255"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "张海军",
+        "id": "R126"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "周旭",
+        "id": "R129"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "张杨帆",
+        "id": "R260"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "颜中杰",
+        "id": "R341"
+      }
+    ]
+  },
+  {
+    "match_id": "M0969",
+    "date": "2025-10-18",
+    "start_time": "20:00:00",
+    "attendance": "22279",
+    "round": "第二十七轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "高原体育运动中心体育场",
+      "id": "S118"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 0,
+    "team_b": {
+      "name": "云南玉昆",
+      "id": "T044"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "奥斯卡",
+        "time": "36",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "恩里克",
+        "time": "84",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0362",
+        "player_name": "阮杨",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0351",
+        "player_name": "阿代米",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0312",
+        "player_name": "石炎",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "麦麦提江.艾合麦提",
+        "id": "R249"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "谢丽君",
+        "id": "R455"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "鲍梦晓",
+        "id": "R137"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "董方雨",
+        "id": "R271"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "张锐",
+        "id": "R392"
+      }
+    ]
+  },
+  {
+    "match_id": "M0970",
+    "date": "2025-10-25",
+    "start_time": "15:30:00",
+    "attendance": "18087",
+    "round": "第二十八轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "泰达足球场",
+      "id": "S048"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 2,
+    "team_b": {
+      "name": "长春亚泰",
+      "id": "T011"
+    },
+    "team_b_score": 2,
+    "result": "平",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": null,
+        "player_name": "",
+        "time": "91",
+        "team": "team_a",
+        "is_own_goal": true,
+        "is_penalty": false
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "time": "100",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "西普里安",
+        "time": "15",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "西普里安",
+        "time": "35",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0312",
+        "player_name": "石炎",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0363",
+        "player_name": "陈哲宣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "沈寅豪",
+        "id": "R219"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "刘星",
+        "id": "R108"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "阿力木江 阿不都卡地尔",
+        "id": "R134"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "单丹奥",
+        "id": "R261"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "王劼",
+        "id": "R385"
+      }
+    ]
+  },
+  {
+    "match_id": "M0971",
+    "date": "2025-11-01",
+    "start_time": "15:30:00",
+    "attendance": "25173",
+    "round": "第二十九轮",
+    "league_level": "中超",
+    "home_away": "客",
+    "stadium": {
+      "name": "济南奥体中心",
+      "id": null
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "山东泰山",
+      "id": "T004"
+    },
+    "team_b_score": 2,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "time": "88",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "卡扎伊什维利",
+        "time": "17",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "泽卡",
+        "time": "33",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0285",
+        "player_name": "王政豪",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0359",
+        "player_name": "李永佳",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0363",
+        "player_name": "陈哲宣",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "李海新",
+        "id": "R234"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "邓鹏",
+        "id": "R135"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "杨欣",
+        "id": "R140"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "王阳",
+        "id": "R267"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "王世杰",
+        "id": "R348"
+      }
+    ]
+  },
+  {
+    "match_id": "M0972",
+    "date": "2025-11-22",
+    "start_time": "15:30:00",
+    "attendance": "48753",
+    "round": "第三十轮",
+    "league_level": "中超",
+    "home_away": "主",
+    "stadium": {
+      "name": "天津奥体中心",
+      "id": "S049"
+    },
+    "team_a": {
+      "name": "天津津门虎",
+      "id": "T001"
+    },
+    "team_a_score": 1,
+    "team_b": {
+      "name": "上海申花",
+      "id": "T002"
+    },
+    "team_b_score": 3,
+    "result": "负",
+    "head_coach": {
+      "name": "于根伟",
+      "id": "C022"
+    },
+    "goal_scorers": [
+      {
+        "player_id": "P0358",
+        "player_name": "李嗣镕",
+        "time": "90",
+        "team": "team_a",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "阿苏埃",
+        "time": "12",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "53+'吴曦",
+        "time": "",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      },
+      {
+        "player_id": null,
+        "player_name": "安德烈路易斯",
+        "time": "78",
+        "team": "team_b",
+        "is_own_goal": false,
+        "is_penalty": false
+      }
+    ],
+    "players_on_field": [
+      {
+        "player_id": "P0333",
+        "player_name": "闫炳良",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0347",
+        "player_name": "王献钧",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0280",
+        "player_name": "谢维军",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0360",
+        "player_name": "胡安·罗斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0361",
+        "player_name": "萨尔瓦多",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0308",
+        "player_name": "杨梓豪",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0352",
+        "player_name": "黄嘉辉",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0229",
+        "player_name": "王秋明",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0286",
+        "player_name": "苏缘杰",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0344",
+        "player_name": "哈达斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0354",
+        "player_name": "基莱斯",
+        "is_starter": true,
+        "position": "Player"
+      },
+      {
+        "player_id": "P0343",
+        "player_name": "刘俊贤",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0277",
+        "player_name": "杨帆",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0355",
+        "player_name": "孙铭谦",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0232",
+        "player_name": "郭皓",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      },
+      {
+        "player_id": "P0358",
+        "player_name": "李嗣镕",
+        "is_starter": false,
+        "sub_in_time": "",
+        "position": "Player"
+      }
+    ],
+    "referees": [
+      {
+        "role": "main",
+        "role_display": "主裁判",
+        "name": "高崎航地（日本）",
+        "id": "R541"
+      },
+      {
+        "role": "assistant_1",
+        "role_display": "第一助理",
+        "name": "马济",
+        "id": "R081"
+      },
+      {
+        "role": "assistant_2",
+        "role_display": "第二助理",
+        "name": "杨洋",
+        "id": "R098"
+      },
+      {
+        "role": "fourth_official",
+        "role_display": "第四官员",
+        "name": "贺凯",
+        "id": "R259"
+      },
+      {
+        "role": "match_commissioner",
+        "role_display": "比赛监督",
+        "name": "席兵",
+        "id": "R395"
+      }
+    ]
+  }
+]
