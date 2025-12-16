@@ -1,0 +1,109 @@
+{
+  "id": "P0143",
+  "name": "白毅",
+  "english_name": "Bai Yi",
+  "birthday": "1979-06-23",
+  "position": "DF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 27,
+    "total_goals": 1,
+    "total_wins": 14,
+    "total_clean_sheets": 8,
+    "win_rate": 51.9,
+    "clean_sheet_rate": 29.6,
+    "goals_per_game": 0.04,
+    "active_years": "2007 - 2009"
+  },
+  "yearly_stats": [
+    {
+      "year": 2007,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 33.3,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 33.3,
+      "goals_per_game": 0.11,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 9,
+          "goals": 1,
+          "wins": 3,
+          "win_rate": 33.3,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.11
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 13,
+      "goals": 0,
+      "wins": 8,
+      "win_rate": 61.5,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 23.1,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 13,
+          "goals": 0,
+          "wins": 8,
+          "win_rate": 61.5,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 23.1,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 5,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 60.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 40.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "亚冠",
+          "apps": 4,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 50.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "中超",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

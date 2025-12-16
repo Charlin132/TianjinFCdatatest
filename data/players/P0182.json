@@ -1,0 +1,53 @@
+{
+  "id": "P0182",
+  "name": "法浩特·塔德吉耶夫",
+  "english_name": "Farkhod Tadjiyev",
+  "birthday": "1986-04-19",
+  "position": "FW",
+  "origin": "乌兹别克斯坦",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 4,
+    "total_goals": 0,
+    "total_wins": 0,
+    "total_clean_sheets": 1,
+    "win_rate": 0.0,
+    "clean_sheet_rate": 25.0,
+    "goals_per_game": 0.0,
+    "active_years": "2010 - 2010"
+  },
+  "yearly_stats": [
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 4,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 4,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

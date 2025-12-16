@@ -1,0 +1,63 @@
+{
+  "id": "P0133",
+  "name": "奥里欧",
+  "english_name": "Marcos Aurelio Fernandes da Silva",
+  "birthday": "1977-09-23",
+  "position": "MF",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 20,
+    "total_goals": 2,
+    "total_wins": 7,
+    "total_clean_sheets": 6,
+    "win_rate": 35.0,
+    "clean_sheet_rate": 30.0,
+    "goals_per_game": 0.1,
+    "active_years": "2006 - 2006"
+  },
+  "yearly_stats": [
+    {
+      "year": 2006,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 2,
+      "wins": 7,
+      "win_rate": 35.0,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 30.0,
+      "goals_per_game": 0.1,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 16,
+          "goals": 2,
+          "wins": 6,
+          "win_rate": 37.5,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 31.2,
+          "goals_per_game": 0.12
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 25.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

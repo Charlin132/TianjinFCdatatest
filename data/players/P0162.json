@@ -1,0 +1,63 @@
+{
+  "id": "P0162",
+  "name": "布里奇",
+  "english_name": "Mark Robert Bridge",
+  "birthday": "1985-11-07",
+  "position": "FW",
+  "origin": "澳大利亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 6,
+    "total_goals": 0,
+    "total_wins": 2,
+    "total_clean_sheets": 2,
+    "win_rate": 33.3,
+    "clean_sheet_rate": 33.3,
+    "goals_per_game": 0.0,
+    "active_years": "2009 - 2009"
+  },
+  "yearly_stats": [
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 33.3,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 33.3,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "亚冠",
+          "apps": 4,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 25.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "中超",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

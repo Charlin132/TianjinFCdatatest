@@ -1,0 +1,215 @@
+{
+  "id": "P0193",
+  "name": "李玮锋",
+  "english_name": "Li Weifeng",
+  "birthday": "1978-12-01",
+  "position": "DF",
+  "origin": "吉林长春",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 123,
+    "total_goals": 3,
+    "total_wins": 43,
+    "total_clean_sheets": 33,
+    "win_rate": 35.0,
+    "clean_sheet_rate": 26.8,
+    "goals_per_game": 0.02,
+    "active_years": "2011 - 2015"
+  },
+  "yearly_stats": [
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 34,
+      "goals": 1,
+      "wins": 13,
+      "win_rate": 38.2,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 23.5,
+      "goals_per_game": 0.03,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 24,
+          "goals": 1,
+          "wins": 7,
+          "win_rate": 29.2,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 16.7,
+          "goals_per_game": 0.04
+        },
+        {
+          "name": "亚冠",
+          "apps": 7,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 42.9,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 100.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 66.7,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "team": "天津泰达",
+      "apps": 34,
+      "goals": 0,
+      "wins": 9,
+      "win_rate": 26.5,
+      "clean_sheets": 12,
+      "clean_sheet_rate": 35.3,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 28,
+          "goals": 0,
+          "wins": 9,
+          "win_rate": 32.1,
+          "clean_sheets": 11,
+          "clean_sheet_rate": 39.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "亚冠",
+          "apps": 4,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "超级杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 28,
+      "goals": 1,
+      "wins": 11,
+      "win_rate": 39.3,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.04,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 27,
+          "goals": 1,
+          "wins": 10,
+          "win_rate": 37.0,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 25.9,
+          "goals_per_game": 0.04
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 1,
+      "wins": 8,
+      "win_rate": 40.0,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 20.0,
+      "goals_per_game": 0.05,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 19,
+          "goals": 1,
+          "wins": 8,
+          "win_rate": 42.1,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 21.1,
+          "goals_per_game": 0.05
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 7,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 28.6,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 28.6,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 7,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 28.6,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

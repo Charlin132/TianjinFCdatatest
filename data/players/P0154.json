@@ -1,0 +1,53 @@
+{
+  "id": "P0154",
+  "name": "若纳斯·桑托斯",
+  "english_name": "Jonhes Elias Pinto dos Santos",
+  "birthday": "1979-09-28",
+  "position": "FW",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 6,
+    "total_goals": 1,
+    "total_wins": 2,
+    "total_clean_sheets": 1,
+    "win_rate": 33.3,
+    "clean_sheet_rate": 16.7,
+    "goals_per_game": 0.17,
+    "active_years": "2008 - 2008"
+  },
+  "yearly_stats": [
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 33.3,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 16.7,
+      "goals_per_game": 0.17,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 6,
+          "goals": 1,
+          "wins": 2,
+          "win_rate": 33.3,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 16.7,
+          "goals_per_game": 0.17
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

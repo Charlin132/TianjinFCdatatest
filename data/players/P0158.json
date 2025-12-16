@@ -1,0 +1,63 @@
+{
+  "id": "P0158",
+  "name": "凯莱",
+  "english_name": "Jean-Philippe Caillet",
+  "birthday": "1977-06-24",
+  "position": "DF",
+  "origin": "法国",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 31,
+    "total_goals": 0,
+    "total_wins": 13,
+    "total_clean_sheets": 12,
+    "win_rate": 41.9,
+    "clean_sheet_rate": 38.7,
+    "goals_per_game": 0.0,
+    "active_years": "2009 - 2009"
+  },
+  "yearly_stats": [
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 31,
+      "goals": 0,
+      "wins": 13,
+      "win_rate": 41.9,
+      "clean_sheets": 12,
+      "clean_sheet_rate": 38.7,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 26,
+          "goals": 0,
+          "wins": 12,
+          "win_rate": 46.2,
+          "clean_sheets": 11,
+          "clean_sheet_rate": 42.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "亚冠",
+          "apps": 5,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 20.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 20.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

@@ -1,0 +1,73 @@
+{
+  "id": "P0117",
+  "name": "曲东",
+  "english_name": "Qu Dong",
+  "birthday": "1977-07-08",
+  "position": "DF",
+  "origin": "辽宁抚顺",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 13,
+    "total_goals": 0,
+    "total_wins": 0,
+    "total_clean_sheets": 2,
+    "win_rate": 0.0,
+    "clean_sheet_rate": 15.4,
+    "goals_per_game": 0.0,
+    "active_years": "2004 - 2004"
+  },
+  "yearly_stats": [
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 13,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 15.4,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 8,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 12.5,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "中超杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

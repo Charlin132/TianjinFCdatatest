@@ -1,0 +1,129 @@
+{
+  "id": "P0187",
+  "name": "陈涛",
+  "english_name": "Chen Tao",
+  "birthday": "1985-03-11",
+  "position": "MF",
+  "origin": "辽宁鞍山",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 65,
+    "total_goals": 9,
+    "total_wins": 29,
+    "total_clean_sheets": 18,
+    "win_rate": 44.6,
+    "clean_sheet_rate": 27.7,
+    "goals_per_game": 0.14,
+    "active_years": "2010 - 2012"
+  },
+  "yearly_stats": [
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 2,
+      "wins": 9,
+      "win_rate": 64.3,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 21.4,
+      "goals_per_game": 0.14,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 14,
+          "goals": 2,
+          "wins": 9,
+          "win_rate": 64.3,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 21.4,
+          "goals_per_game": 0.14
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 30,
+      "goals": 7,
+      "wins": 14,
+      "win_rate": 46.7,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 23.3,
+      "goals_per_game": 0.23,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 21,
+          "goals": 5,
+          "wins": 8,
+          "win_rate": 38.1,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 14.3,
+          "goals_per_game": 0.24
+        },
+        {
+          "name": "亚冠",
+          "apps": 6,
+          "goals": 2,
+          "wins": 3,
+          "win_rate": 50.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.33
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 100.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 66.7,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2012,
+      "team": "天津泰达",
+      "apps": 21,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 28.6,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 38.1,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 18,
+          "goals": 0,
+          "wins": 6,
+          "win_rate": 33.3,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 38.9,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "亚冠",
+          "apps": 3,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

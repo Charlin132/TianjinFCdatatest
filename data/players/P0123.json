@@ -1,0 +1,162 @@
+{
+  "id": "P0123",
+  "name": "佐里奇",
+  "english_name": "Marko Zoric",
+  "birthday": "1980-07-10",
+  "position": "DF",
+  "origin": "塞尔维亚和黑山",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 117,
+    "total_goals": 13,
+    "total_wins": 48,
+    "total_clean_sheets": 30,
+    "win_rate": 41.0,
+    "clean_sheet_rate": 25.6,
+    "goals_per_game": 0.11,
+    "active_years": "2005 - 2011"
+  },
+  "yearly_stats": [
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 3,
+      "wins": 14,
+      "win_rate": 53.8,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 26.9,
+      "goals_per_game": 0.12,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 24,
+          "goals": 3,
+          "wins": 13,
+          "win_rate": 54.2,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.12
+        },
+        {
+          "name": "中超杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "team": "天津泰达",
+      "apps": 30,
+      "goals": 3,
+      "wins": 10,
+      "win_rate": 33.3,
+      "clean_sheets": 9,
+      "clean_sheet_rate": 30.0,
+      "goals_per_game": 0.1,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 26,
+          "goals": 3,
+          "wins": 9,
+          "win_rate": 34.6,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 30.8,
+          "goals_per_game": 0.12
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 25.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 3,
+      "wins": 12,
+      "win_rate": 44.4,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 22.2,
+      "goals_per_game": 0.11,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 27,
+          "goals": 3,
+          "wins": 12,
+          "win_rate": 44.4,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 22.2,
+          "goals_per_game": 0.11
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 34,
+      "goals": 4,
+      "wins": 12,
+      "win_rate": 35.3,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 23.5,
+      "goals_per_game": 0.12,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 27,
+          "goals": 3,
+          "wins": 7,
+          "win_rate": 25.9,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 18.5,
+          "goals_per_game": 0.11
+        },
+        {
+          "name": "亚冠",
+          "apps": 4,
+          "goals": 1,
+          "wins": 2,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.25
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 100.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 66.7,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

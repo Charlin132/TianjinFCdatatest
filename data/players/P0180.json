@@ -1,0 +1,53 @@
+{
+  "id": "P0180",
+  "name": "李想",
+  "english_name": "Li Xiang",
+  "birthday": "1991-01-25",
+  "position": "FW",
+  "origin": "北京",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 4,
+    "total_goals": 0,
+    "total_wins": 0,
+    "total_clean_sheets": 1,
+    "win_rate": 0.0,
+    "clean_sheet_rate": 25.0,
+    "goals_per_game": 0.0,
+    "active_years": "2021 - 2021"
+  },
+  "yearly_stats": [
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 4,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 4,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

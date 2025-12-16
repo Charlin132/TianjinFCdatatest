@@ -1,0 +1,53 @@
+{
+  "id": "P0179",
+  "name": "拉多尔夫",
+  "english_name": "Rodolfo Federico Rodriguez Mojica",
+  "birthday": "1980-02-27",
+  "position": "MF",
+  "origin": "哥斯达黎加",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 19,
+    "total_goals": 0,
+    "total_wins": 8,
+    "total_clean_sheets": 5,
+    "win_rate": 42.1,
+    "clean_sheet_rate": 26.3,
+    "goals_per_game": 0.0,
+    "active_years": "2010 - 2010"
+  },
+  "yearly_stats": [
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 19,
+      "goals": 0,
+      "wins": 8,
+      "win_rate": 42.1,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 26.3,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 19,
+          "goals": 0,
+          "wins": 8,
+          "win_rate": 42.1,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 26.3,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

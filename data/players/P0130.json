@@ -1,0 +1,63 @@
+{
+  "id": "P0130",
+  "name": "蒙恩古尼",
+  "english_name": "Thabo Bernard Mnguni",
+  "birthday": "1974-03-18",
+  "position": "MF",
+  "origin": "南非",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 21,
+    "total_goals": 3,
+    "total_wins": 10,
+    "total_clean_sheets": 6,
+    "win_rate": 47.6,
+    "clean_sheet_rate": 28.6,
+    "goals_per_game": 0.14,
+    "active_years": "2005 - 2005"
+  },
+  "yearly_stats": [
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 21,
+      "goals": 3,
+      "wins": 10,
+      "win_rate": 47.6,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 28.6,
+      "goals_per_game": 0.14,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 19,
+          "goals": 3,
+          "wins": 9,
+          "win_rate": 47.4,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 26.3,
+          "goals_per_game": 0.16
+        },
+        {
+          "name": "中超杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

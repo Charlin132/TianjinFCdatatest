@@ -1,0 +1,139 @@
+{
+  "id": "P0121",
+  "name": "田旭",
+  "english_name": "Tian Xu",
+  "birthday": "1986-02-15",
+  "position": "GK",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 27,
+    "total_goals": 0,
+    "total_wins": 13,
+    "total_clean_sheets": 9,
+    "win_rate": 48.1,
+    "clean_sheet_rate": 33.3,
+    "goals_per_game": 0.0,
+    "active_years": "2004 - 2006"
+  },
+  "yearly_stats": [
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 40.0,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 30.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超杯",
+          "apps": 5,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 40.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 20.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "中超",
+          "apps": 5,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 40.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 40.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 8,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 50.0,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 50.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 5,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 60.0,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 60.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "中超杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 55.6,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 22.2,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 7,
+          "goals": 0,
+          "wins": 5,
+          "win_rate": 71.4,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

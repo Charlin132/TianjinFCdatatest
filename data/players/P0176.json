@@ -1,0 +1,86 @@
+{
+  "id": "P0176",
+  "name": "卢西亚诺",
+  "english_name": "Luciano Esteban Olguin",
+  "birthday": "1982-03-10",
+  "position": "FW",
+  "origin": "阿根廷",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 42,
+    "total_goals": 16,
+    "total_wins": 19,
+    "total_clean_sheets": 9,
+    "win_rate": 45.2,
+    "clean_sheet_rate": 21.4,
+    "goals_per_game": 0.38,
+    "active_years": "2010 - 2011"
+  },
+  "yearly_stats": [
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 6,
+      "wins": 9,
+      "win_rate": 64.3,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 28.6,
+      "goals_per_game": 0.43,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 14,
+          "goals": 6,
+          "wins": 9,
+          "win_rate": 64.3,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.43
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 28,
+      "goals": 10,
+      "wins": 10,
+      "win_rate": 35.7,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 17.9,
+      "goals_per_game": 0.36,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 22,
+          "goals": 9,
+          "wins": 7,
+          "win_rate": 31.8,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 13.6,
+          "goals_per_game": 0.41
+        },
+        {
+          "name": "亚冠",
+          "apps": 6,
+          "goals": 1,
+          "wins": 3,
+          "win_rate": 50.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.17
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

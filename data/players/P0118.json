@@ -1,0 +1,63 @@
+{
+  "id": "P0118",
+  "name": "杜尔桑",
+  "english_name": "Ahmet Dursun",
+  "birthday": "1978-01-25",
+  "position": "FW",
+  "origin": "土耳其",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 4,
+    "total_goals": 0,
+    "total_wins": 0,
+    "total_clean_sheets": 1,
+    "win_rate": 0.0,
+    "clean_sheet_rate": 25.0,
+    "goals_per_game": 0.0,
+    "active_years": "2004 - 2004"
+  },
+  "yearly_stats": [
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 4,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 3,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

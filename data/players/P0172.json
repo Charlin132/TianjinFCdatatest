@@ -1,0 +1,53 @@
+{
+  "id": "P0172",
+  "name": "伊姆耶拉耶",
+  "english_name": "Alfred Emoefe Emuejeraye",
+  "birthday": "1983-01-13",
+  "position": "FW",
+  "origin": "尼日利亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 7,
+    "total_goals": 1,
+    "total_wins": 2,
+    "total_clean_sheets": 1,
+    "win_rate": 28.6,
+    "clean_sheet_rate": 14.3,
+    "goals_per_game": 0.14,
+    "active_years": "2010 - 2010"
+  },
+  "yearly_stats": [
+    {
+      "year": 2010,
+      "team": "天津泰达",
+      "apps": 7,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 28.6,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 14.3,
+      "goals_per_game": 0.14,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 7,
+          "goals": 1,
+          "wins": 2,
+          "win_rate": 28.6,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 14.3,
+          "goals_per_game": 0.14
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}
