@@ -1,0 +1,96 @@
+{
+  "id": "P0218",
+  "name": "埃德尔·利马",
+  "english_name": "Eder Lima dos Santos",
+  "birthday": "1986-02-05",
+  "position": "DF",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 59,
+    "total_goals": 3,
+    "total_wins": 22,
+    "total_clean_sheets": 15,
+    "win_rate": 37.3,
+    "clean_sheet_rate": 25.4,
+    "goals_per_game": 0.05,
+    "active_years": "2013 - 2014"
+  },
+  "yearly_stats": [
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 1,
+      "wins": 12,
+      "win_rate": 41.4,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 27.6,
+      "goals_per_game": 0.03,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 28,
+          "goals": 1,
+          "wins": 11,
+          "win_rate": 39.3,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.04
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "team": "天津泰达",
+      "apps": 30,
+      "goals": 2,
+      "wins": 10,
+      "win_rate": 33.3,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 23.3,
+      "goals_per_game": 0.07,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 29,
+          "goals": 2,
+          "wins": 10,
+          "win_rate": 34.5,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 24.1,
+          "goals_per_game": 0.07
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

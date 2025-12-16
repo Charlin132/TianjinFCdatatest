@@ -1,0 +1,96 @@
+{
+  "id": "P0211",
+  "name": "约万西奇",
+  "english_name": "Vladimir Jovancic",
+  "birthday": "1987-05-31",
+  "position": "FW",
+  "origin": "塞尔维亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 29,
+    "total_goals": 5,
+    "total_wins": 8,
+    "total_clean_sheets": 7,
+    "win_rate": 27.6,
+    "clean_sheet_rate": 24.1,
+    "goals_per_game": 0.17,
+    "active_years": "2012 - 2013"
+  },
+  "yearly_stats": [
+    {
+      "year": 2012,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 3,
+      "wins": 5,
+      "win_rate": 33.3,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 33.3,
+      "goals_per_game": 0.2,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 14,
+          "goals": 3,
+          "wins": 5,
+          "win_rate": 35.7,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 35.7,
+          "goals_per_game": 0.21
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 2,
+      "wins": 3,
+      "win_rate": 21.4,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 14.3,
+      "goals_per_game": 0.14,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 13,
+          "goals": 1,
+          "wins": 2,
+          "win_rate": 15.4,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 15.4,
+          "goals_per_game": 0.08
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 1,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 1.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

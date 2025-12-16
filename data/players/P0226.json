@@ -1,0 +1,76 @@
+{
+  "id": "P0226",
+  "name": "王一",
+  "english_name": "Wang Yi",
+  "birthday": "1993-08-22",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 2,
+    "total_goals": 0,
+    "total_wins": 0,
+    "total_clean_sheets": 0,
+    "win_rate": 0.0,
+    "clean_sheet_rate": 0.0,
+    "goals_per_game": 0.0,
+    "active_years": "2013 - 2015"
+  },
+  "yearly_stats": [
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

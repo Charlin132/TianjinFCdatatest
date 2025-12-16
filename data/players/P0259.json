@@ -1,0 +1,129 @@
+{
+  "id": "P0259",
+  "name": "木热合买提江",
+  "english_name": "Murahmetjan Muzepper",
+  "birthday": "1991-01-14",
+  "position": "MF",
+  "origin": "新疆喀什",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 80,
+    "total_goals": 2,
+    "total_wins": 27,
+    "total_clean_sheets": 16,
+    "win_rate": 33.8,
+    "clean_sheet_rate": 20.0,
+    "goals_per_game": 0.03,
+    "active_years": "2017 - 2019"
+  },
+  "yearly_stats": [
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 0,
+      "wins": 8,
+      "win_rate": 29.6,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 22.2,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 26,
+          "goals": 0,
+          "wins": 8,
+          "win_rate": 30.8,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 23.1,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 28,
+      "goals": 1,
+      "wins": 8,
+      "win_rate": 28.6,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 10.7,
+      "goals_per_game": 0.04,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 27,
+          "goals": 1,
+          "wins": 8,
+          "win_rate": 29.6,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 11.1,
+          "goals_per_game": 0.04
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 25,
+      "goals": 1,
+      "wins": 11,
+      "win_rate": 44.0,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 28.0,
+      "goals_per_game": 0.04,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 24,
+          "goals": 1,
+          "wins": 11,
+          "win_rate": 45.8,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 29.2,
+          "goals_per_game": 0.04
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

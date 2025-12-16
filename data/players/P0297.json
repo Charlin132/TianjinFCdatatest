@@ -1,0 +1,63 @@
+{
+  "id": "P0297",
+  "name": "车世伟",
+  "english_name": "Che Shiwei",
+  "birthday": "1996-10-30",
+  "position": "MF",
+  "origin": "辽宁大连",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 11,
+    "total_goals": 0,
+    "total_wins": 4,
+    "total_clean_sheets": 5,
+    "win_rate": 36.4,
+    "clean_sheet_rate": 45.5,
+    "goals_per_game": 0.0,
+    "active_years": "2020 - 2020"
+  },
+  "yearly_stats": [
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 11,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 36.4,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 45.5,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 8,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 12.5,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 37.5,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 100.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 66.7,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

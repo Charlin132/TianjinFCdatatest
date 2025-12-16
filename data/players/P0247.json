@@ -1,0 +1,53 @@
+{
+  "id": "P0247",
+  "name": "埃武纳",
+  "english_name": "Malick Evouna",
+  "birthday": "1992-11-28",
+  "position": "FW",
+  "origin": "加蓬",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 10,
+    "total_goals": 3,
+    "total_wins": 4,
+    "total_clean_sheets": 1,
+    "win_rate": 40.0,
+    "clean_sheet_rate": 10.0,
+    "goals_per_game": 0.3,
+    "active_years": "2016 - 2016"
+  },
+  "yearly_stats": [
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 3,
+      "wins": 4,
+      "win_rate": 40.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 10.0,
+      "goals_per_game": 0.3,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 10,
+          "goals": 3,
+          "wins": 4,
+          "win_rate": 40.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 10.0,
+          "goals_per_game": 0.3
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

@@ -1,0 +1,175 @@
+{
+  "id": "P0240",
+  "name": "周通",
+  "english_name": "Zhou Tong",
+  "birthday": "1990-01-12",
+  "position": "MF",
+  "origin": "山东淄博",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 58,
+    "total_goals": 3,
+    "total_wins": 18,
+    "total_clean_sheets": 17,
+    "win_rate": 31.0,
+    "clean_sheet_rate": 29.3,
+    "goals_per_game": 0.05,
+    "active_years": "2015 - 2022"
+  },
+  "yearly_stats": [
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 7,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 28.6,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 28.6,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 7,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 28.6,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 18,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 27.8,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 27.8,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 16,
+          "goals": 0,
+          "wins": 4,
+          "win_rate": 25.0,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 31.2,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 16,
+      "goals": 1,
+      "wins": 4,
+      "win_rate": 25.0,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 31.2,
+      "goals_per_game": 0.06,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 15,
+          "goals": 1,
+          "wins": 4,
+          "win_rate": 26.7,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.07
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 16,
+      "goals": 2,
+      "wins": 7,
+      "win_rate": 43.8,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 31.2,
+      "goals_per_game": 0.12,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 15,
+          "goals": 2,
+          "wins": 6,
+          "win_rate": 40.0,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 26.7,
+          "goals_per_game": 0.13
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

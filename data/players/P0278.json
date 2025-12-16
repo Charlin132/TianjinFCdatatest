@@ -1,0 +1,119 @@
+{
+  "id": "P0278",
+  "name": "毛昊禹",
+  "english_name": "Mao Haoyu",
+  "birthday": "1996-10-17",
+  "position": "FW",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 25,
+    "total_goals": 2,
+    "total_wins": 11,
+    "total_clean_sheets": 5,
+    "win_rate": 44.0,
+    "clean_sheet_rate": 20.0,
+    "goals_per_game": 0.08,
+    "active_years": "2018 - 2020"
+  },
+  "yearly_stats": [
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 33.3,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 16.7,
+      "goals_per_game": 0.17,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 4,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.5
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 18,
+      "goals": 1,
+      "wins": 8,
+      "win_rate": 44.4,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 16.7,
+      "goals_per_game": 0.06,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 16,
+          "goals": 0,
+          "wins": 6,
+          "win_rate": 37.5,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 18.8,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 1,
+          "wins": 2,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.5
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 100.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 100.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

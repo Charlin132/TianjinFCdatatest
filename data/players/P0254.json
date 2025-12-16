@@ -1,0 +1,86 @@
+{
+  "id": "P0254",
+  "name": "迪亚涅",
+  "english_name": "Mbaye Diagne",
+  "birthday": "1991-10-28",
+  "position": "FW",
+  "origin": "塞内加尔",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 45,
+    "total_goals": 15,
+    "total_wins": 16,
+    "total_clean_sheets": 13,
+    "win_rate": 35.6,
+    "clean_sheet_rate": 28.9,
+    "goals_per_game": 0.33,
+    "active_years": "2016 - 2017"
+  },
+  "yearly_stats": [
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 28,
+      "goals": 9,
+      "wins": 9,
+      "win_rate": 32.1,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 28.6,
+      "goals_per_game": 0.32,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 27,
+          "goals": 9,
+          "wins": 9,
+          "win_rate": 33.3,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 29.6,
+          "goals_per_game": 0.33
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 17,
+      "goals": 6,
+      "wins": 7,
+      "win_rate": 41.2,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 29.4,
+      "goals_per_game": 0.35,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 17,
+          "goals": 6,
+          "wins": 7,
+          "win_rate": 41.2,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 29.4,
+          "goals_per_game": 0.35
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

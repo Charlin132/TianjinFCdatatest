@@ -1,0 +1,96 @@
+{
+  "id": "P0287",
+  "name": "荣昊",
+  "english_name": "Rong Hao",
+  "birthday": "1987-04-07",
+  "position": "DF",
+  "origin": "湖北武汉",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 37,
+    "total_goals": 4,
+    "total_wins": 13,
+    "total_clean_sheets": 8,
+    "win_rate": 35.1,
+    "clean_sheet_rate": 21.6,
+    "goals_per_game": 0.11,
+    "active_years": "2019 - 2020"
+  },
+  "yearly_stats": [
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 25,
+      "goals": 1,
+      "wins": 11,
+      "win_rate": 44.0,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 24.0,
+      "goals_per_game": 0.04,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 24,
+          "goals": 0,
+          "wins": 10,
+          "win_rate": 41.7,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 1,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 1.0
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 12,
+      "goals": 3,
+      "wins": 2,
+      "win_rate": 16.7,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 16.7,
+      "goals_per_game": 0.25,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 11,
+          "goals": 3,
+          "wins": 1,
+          "win_rate": 9.1,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 9.1,
+          "goals_per_game": 0.27
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

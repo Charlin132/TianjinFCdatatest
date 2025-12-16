@@ -1,0 +1,119 @@
+{
+  "id": "P0290",
+  "name": "宋岳",
+  "english_name": "Song Yue",
+  "birthday": "1991-11-20",
+  "position": "DF",
+  "origin": "江苏镇江",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 56,
+    "total_goals": 2,
+    "total_wins": 20,
+    "total_clean_sheets": 19,
+    "win_rate": 35.7,
+    "clean_sheet_rate": 33.9,
+    "goals_per_game": 0.04,
+    "active_years": "2020 - 2022"
+  },
+  "yearly_stats": [
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 19,
+      "goals": 2,
+      "wins": 4,
+      "win_rate": 21.1,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 26.3,
+      "goals_per_game": 0.11,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 15,
+          "goals": 2,
+          "wins": 2,
+          "win_rate": 13.3,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 20.0,
+          "goals_per_game": 0.13
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 50.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 12,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 25.0,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 41.7,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 10,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 20.0,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 40.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 25,
+      "goals": 0,
+      "wins": 13,
+      "win_rate": 52.0,
+      "clean_sheets": 9,
+      "clean_sheet_rate": 36.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 25,
+          "goals": 0,
+          "wins": 13,
+          "win_rate": 52.0,
+          "clean_sheets": 9,
+          "clean_sheet_rate": 36.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

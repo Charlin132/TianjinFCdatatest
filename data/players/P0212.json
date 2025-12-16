@@ -1,0 +1,83 @@
+{
+  "id": "P0212",
+  "name": "苏穆利科斯基",
+  "english_name": "Velice Sumulikoski",
+  "birthday": "1981-04-24",
+  "position": "MF",
+  "origin": "马其顿",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 36,
+    "total_goals": 0,
+    "total_wins": 10,
+    "total_clean_sheets": 13,
+    "win_rate": 27.8,
+    "clean_sheet_rate": 36.1,
+    "goals_per_game": 0.0,
+    "active_years": "2012 - 2012"
+  },
+  "yearly_stats": [
+    {
+      "year": 2012,
+      "team": "天津泰达",
+      "apps": 36,
+      "goals": 0,
+      "wins": 10,
+      "win_rate": 27.8,
+      "clean_sheets": 13,
+      "clean_sheet_rate": 36.1,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 28,
+          "goals": 0,
+          "wins": 10,
+          "win_rate": 35.7,
+          "clean_sheets": 11,
+          "clean_sheet_rate": 39.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "亚冠",
+          "apps": 6,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "超级杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

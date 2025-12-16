@@ -1,0 +1,119 @@
+{
+  "id": "P0270",
+  "name": "乔纳森",
+  "english_name": "Johnathan Aparecido da Silva Vilela",
+  "birthday": "1990-03-29",
+  "position": "FW",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 43,
+    "total_goals": 24,
+    "total_wins": 11,
+    "total_clean_sheets": 7,
+    "win_rate": 25.6,
+    "clean_sheet_rate": 16.3,
+    "goals_per_game": 0.56,
+    "active_years": "2018 - 2020"
+  },
+  "yearly_stats": [
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 16,
+      "goals": 9,
+      "wins": 3,
+      "win_rate": 18.8,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 12.5,
+      "goals_per_game": 0.56,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 14,
+          "goals": 8,
+          "wins": 3,
+          "win_rate": 21.4,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 14.3,
+          "goals_per_game": 0.57
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.5
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 23,
+      "goals": 14,
+      "wins": 8,
+      "win_rate": 34.8,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 21.7,
+      "goals_per_game": 0.61,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 22,
+          "goals": 13,
+          "wins": 8,
+          "win_rate": 36.4,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 22.7,
+          "goals_per_game": 0.59
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 1.0
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 4,
+      "goals": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.25,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 4,
+          "goals": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.25
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

@@ -1,0 +1,86 @@
+{
+  "id": "P0274",
+  "name": "张池明",
+  "english_name": "Zhang Chiming",
+  "birthday": "1989-01-07",
+  "position": "MF",
+  "origin": "四川成都",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 15,
+    "total_goals": 2,
+    "total_wins": 4,
+    "total_clean_sheets": 0,
+    "win_rate": 26.7,
+    "clean_sheet_rate": 0.0,
+    "goals_per_game": 0.13,
+    "active_years": "2018 - 2019"
+  },
+  "yearly_stats": [
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 22.2,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 9,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 22.2,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 2,
+      "wins": 2,
+      "win_rate": 33.3,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.33,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 3,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 2,
+          "wins": 2,
+          "win_rate": 66.7,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.67
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

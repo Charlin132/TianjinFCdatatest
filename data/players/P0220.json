@@ -1,0 +1,109 @@
+{
+  "id": "P0220",
+  "name": "安德烈齐尼奥",
+  "english_name": "Andre Luiz Tavares“Andrezinho”",
+  "birthday": "1983-07-30",
+  "position": "MF",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 58,
+    "total_goals": 11,
+    "total_wins": 23,
+    "total_clean_sheets": 18,
+    "win_rate": 39.7,
+    "clean_sheet_rate": 31.0,
+    "goals_per_game": 0.19,
+    "active_years": "2013 - 2015"
+  },
+  "yearly_stats": [
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 1,
+      "wins": 8,
+      "win_rate": 57.1,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 35.7,
+      "goals_per_game": 0.07,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 14,
+          "goals": 1,
+          "wins": 8,
+          "win_rate": 57.1,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 35.7,
+          "goals_per_game": 0.07
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 7,
+      "wins": 10,
+      "win_rate": 34.5,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 24.1,
+      "goals_per_game": 0.24,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 28,
+          "goals": 7,
+          "wins": 10,
+          "win_rate": 35.7,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.25
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 3,
+      "wins": 5,
+      "win_rate": 33.3,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 40.0,
+      "goals_per_game": 0.2,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 15,
+          "goals": 3,
+          "wins": 5,
+          "win_rate": 33.3,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 40.0,
+          "goals_per_game": 0.2
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

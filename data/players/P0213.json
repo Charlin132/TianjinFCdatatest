@@ -1,0 +1,83 @@
+{
+  "id": "P0213",
+  "name": "苏萨克",
+  "english_name": "Milan Susak",
+  "birthday": "1984-01-29",
+  "position": "DF",
+  "origin": "澳大利亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 23,
+    "total_goals": 1,
+    "total_wins": 5,
+    "total_clean_sheets": 9,
+    "win_rate": 21.7,
+    "clean_sheet_rate": 39.1,
+    "goals_per_game": 0.04,
+    "active_years": "2012 - 2012"
+  },
+  "yearly_stats": [
+    {
+      "year": 2012,
+      "team": "天津泰达",
+      "apps": 23,
+      "goals": 1,
+      "wins": 5,
+      "win_rate": 21.7,
+      "clean_sheets": 9,
+      "clean_sheet_rate": 39.1,
+      "goals_per_game": 0.04,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 16,
+          "goals": 1,
+          "wins": 5,
+          "win_rate": 31.2,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 43.8,
+          "goals_per_game": 0.06
+        },
+        {
+          "name": "亚冠",
+          "apps": 5,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 40.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "超级杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

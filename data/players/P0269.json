@@ -1,0 +1,46 @@
+{
+  "id": "P0269",
+  "name": "雷永驰",
+  "english_name": "Lei Yongchi",
+  "birthday": "1989.01.02",
+  "position": "Player",
+  "origin": "辽宁沈阳",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 24,
+    "total_goals": 1,
+    "total_wins": 5,
+    "win_rate": 20.8,
+    "active_years": "2017 - 2019",
+    "goals_per_game": 0.04
+  },
+  "yearly_stats": [
+    {
+      "year": 2017,
+      "team": "天津津门虎",
+      "apps": 17,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 17.6,
+      "goals_per_game": 0.06
+    },
+    {
+      "year": 2019,
+      "team": "天津津门虎",
+      "apps": 7,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 28.6,
+      "goals_per_game": 0.0
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

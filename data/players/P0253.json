@@ -1,0 +1,53 @@
+{
+  "id": "P0253",
+  "name": "赞纳迪内",
+  "english_name": "Zainadine Abdula Chavango Junior",
+  "birthday": "1988-06-24",
+  "position": "DF",
+  "origin": "莫桑比克",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 26,
+    "total_goals": 2,
+    "total_wins": 8,
+    "total_clean_sheets": 6,
+    "win_rate": 30.8,
+    "clean_sheet_rate": 23.1,
+    "goals_per_game": 0.08,
+    "active_years": "2016 - 2016"
+  },
+  "yearly_stats": [
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 2,
+      "wins": 8,
+      "win_rate": 30.8,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 23.1,
+      "goals_per_game": 0.08,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 26,
+          "goals": 2,
+          "wins": 8,
+          "win_rate": 30.8,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 23.1,
+          "goals_per_game": 0.08
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

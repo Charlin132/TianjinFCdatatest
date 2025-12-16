@@ -1,0 +1,86 @@
+{
+  "id": "P0230",
+  "name": "瓦伦西亚",
+  "english_name": "Carmelo Enrique Valencia Chaverra",
+  "birthday": "1984-07-13",
+  "position": "FW",
+  "origin": "哥伦比亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 56,
+    "total_goals": 24,
+    "total_wins": 20,
+    "total_clean_sheets": 14,
+    "win_rate": 35.7,
+    "clean_sheet_rate": 25.0,
+    "goals_per_game": 0.43,
+    "active_years": "2013 - 2014"
+  },
+  "yearly_stats": [
+    {
+      "year": 2013,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 16,
+      "wins": 11,
+      "win_rate": 37.9,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 24.1,
+      "goals_per_game": 0.55,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 29,
+          "goals": 16,
+          "wins": 11,
+          "win_rate": 37.9,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 24.1,
+          "goals_per_game": 0.55
+        }
+      ]
+    },
+    {
+      "year": 2014,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 8,
+      "wins": 9,
+      "win_rate": 33.3,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 25.9,
+      "goals_per_game": 0.3,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 26,
+          "goals": 7,
+          "wins": 9,
+          "win_rate": 34.6,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 26.9,
+          "goals_per_game": 0.27
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 1.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

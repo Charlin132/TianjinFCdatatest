@@ -1,0 +1,63 @@
+{
+  "id": "P0291",
+  "name": "桑德罗·利马",
+  "english_name": "Sandro Cesar Cordovil de Lima",
+  "birthday": "1990-10-28",
+  "position": "FW",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 14,
+    "total_goals": 3,
+    "total_wins": 3,
+    "total_clean_sheets": 4,
+    "win_rate": 21.4,
+    "clean_sheet_rate": 28.6,
+    "goals_per_game": 0.21,
+    "active_years": "2020 - 2020"
+  },
+  "yearly_stats": [
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 3,
+      "wins": 3,
+      "win_rate": 21.4,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 28.6,
+      "goals_per_game": 0.21,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 10,
+          "goals": 1,
+          "wins": 1,
+          "win_rate": 10.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 20.0,
+          "goals_per_game": 0.1
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 2,
+          "wins": 2,
+          "win_rate": 50.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.5
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

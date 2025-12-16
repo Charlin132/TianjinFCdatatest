@@ -1,0 +1,63 @@
+{
+  "id": "P0243",
+  "name": "普拉利甘吉",
+  "english_name": "Morteza Pouraliganji",
+  "birthday": "1992-04-19",
+  "position": "DF",
+  "origin": "伊朗",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 27,
+    "total_goals": 2,
+    "total_wins": 6,
+    "total_clean_sheets": 6,
+    "win_rate": 22.2,
+    "clean_sheet_rate": 22.2,
+    "goals_per_game": 0.07,
+    "active_years": "2015 - 2015"
+  },
+  "yearly_stats": [
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 2,
+      "wins": 6,
+      "win_rate": 22.2,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 22.2,
+      "goals_per_game": 0.07,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 26,
+          "goals": 2,
+          "wins": 5,
+          "win_rate": 19.2,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 23.1,
+          "goals_per_game": 0.08
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

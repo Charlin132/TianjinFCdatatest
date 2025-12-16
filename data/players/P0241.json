@@ -1,0 +1,53 @@
+{
+  "id": "P0241",
+  "name": "塔纳塞",
+  "english_name": "Cristian Tanase",
+  "birthday": "1987-02-18",
+  "position": "MF",
+  "origin": "罗马尼亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 10,
+    "total_goals": 2,
+    "total_wins": 2,
+    "total_clean_sheets": 2,
+    "win_rate": 20.0,
+    "clean_sheet_rate": 20.0,
+    "goals_per_game": 0.2,
+    "active_years": "2015 - 2015"
+  },
+  "yearly_stats": [
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 2,
+      "wins": 2,
+      "win_rate": 20.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 20.0,
+      "goals_per_game": 0.2,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 10,
+          "goals": 2,
+          "wins": 2,
+          "win_rate": 20.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 20.0,
+          "goals_per_game": 0.2
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

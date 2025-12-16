@@ -1,0 +1,53 @@
+{
+  "id": "P0284",
+  "name": "桑德罗·瓦格纳",
+  "english_name": "Sandro Wagner",
+  "birthday": "1987-11-29",
+  "position": "FW",
+  "origin": "德国",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 26,
+    "total_goals": 12,
+    "total_wins": 11,
+    "total_clean_sheets": 7,
+    "win_rate": 42.3,
+    "clean_sheet_rate": 26.9,
+    "goals_per_game": 0.46,
+    "active_years": "2019 - 2019"
+  },
+  "yearly_stats": [
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 26,
+      "goals": 12,
+      "wins": 11,
+      "win_rate": 42.3,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 26.9,
+      "goals_per_game": 0.46,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 26,
+          "goals": 12,
+          "wins": 11,
+          "win_rate": 42.3,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 26.9,
+          "goals_per_game": 0.46
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

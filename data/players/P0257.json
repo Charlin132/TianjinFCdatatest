@@ -1,0 +1,63 @@
+{
+  "id": "P0257",
+  "name": "伊德耶",
+  "english_name": "Aide Brown Ideye",
+  "birthday": "1988-10-10",
+  "position": "FW",
+  "origin": "尼日利亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 15,
+    "total_goals": 4,
+    "total_wins": 3,
+    "total_clean_sheets": 4,
+    "win_rate": 20.0,
+    "clean_sheet_rate": 26.7,
+    "goals_per_game": 0.27,
+    "active_years": "2017 - 2017"
+  },
+  "yearly_stats": [
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 4,
+      "wins": 3,
+      "win_rate": 20.0,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 26.7,
+      "goals_per_game": 0.27,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 14,
+          "goals": 4,
+          "wins": 3,
+          "win_rate": 21.4,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.29
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

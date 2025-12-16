@@ -1,0 +1,96 @@
+{
+  "id": "P0250",
+  "name": "潘喜明",
+  "english_name": "Pan Ximing",
+  "birthday": "1993-01-11",
+  "position": "DF",
+  "origin": "黑龙江双鸭山",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 35,
+    "total_goals": 1,
+    "total_wins": 9,
+    "total_clean_sheets": 7,
+    "win_rate": 25.7,
+    "clean_sheet_rate": 20.0,
+    "goals_per_game": 0.03,
+    "active_years": "2016 - 2017"
+  },
+  "yearly_stats": [
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 20.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 13.3,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 13,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 15.4,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 15.4,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 1,
+      "wins": 6,
+      "win_rate": 30.0,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.05,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 19,
+          "goals": 1,
+          "wins": 5,
+          "win_rate": 26.3,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 21.1,
+          "goals_per_game": 0.05
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

@@ -1,0 +1,76 @@
+{
+  "id": "P0245",
+  "name": "瓦格纳·费雷拉",
+  "english_name": "Wagner Ferreira dos Santos",
+  "birthday": "1985-01-29",
+  "position": "MF",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 20,
+    "total_goals": 2,
+    "total_wins": 4,
+    "total_clean_sheets": 7,
+    "win_rate": 20.0,
+    "clean_sheet_rate": 35.0,
+    "goals_per_game": 0.1,
+    "active_years": "2015 - 2016"
+  },
+  "yearly_stats": [
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 1,
+      "wins": 1,
+      "win_rate": 11.1,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 22.2,
+      "goals_per_game": 0.11,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 9,
+          "goals": 1,
+          "wins": 1,
+          "win_rate": 11.1,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 22.2,
+          "goals_per_game": 0.11
+        }
+      ]
+    },
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 11,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 27.3,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 45.5,
+      "goals_per_game": 0.09,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 11,
+          "goals": 1,
+          "wins": 3,
+          "win_rate": 27.3,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 45.5,
+          "goals_per_game": 0.09
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

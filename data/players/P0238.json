@@ -1,0 +1,53 @@
+{
+  "id": "P0238",
+  "name": "乔丹·吉尔",
+  "english_name": "Wilmar Jordan Gil",
+  "birthday": "1990-10-17",
+  "position": "FW",
+  "origin": "哥伦比亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 11,
+    "total_goals": 1,
+    "total_wins": 2,
+    "total_clean_sheets": 2,
+    "win_rate": 18.2,
+    "clean_sheet_rate": 18.2,
+    "goals_per_game": 0.09,
+    "active_years": "2015 - 2015"
+  },
+  "yearly_stats": [
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 11,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 18.2,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 18.2,
+      "goals_per_game": 0.09,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 11,
+          "goals": 1,
+          "wins": 2,
+          "win_rate": 18.2,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 18.2,
+          "goals_per_game": 0.09
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

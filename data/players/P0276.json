@@ -1,0 +1,132 @@
+{
+  "id": "P0276",
+  "name": "杨万顺",
+  "english_name": "Yang Wanshun",
+  "birthday": "1996-01-16",
+  "position": "MF",
+  "origin": "山东济南",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 22,
+    "total_goals": 0,
+    "total_wins": 3,
+    "total_clean_sheets": 1,
+    "win_rate": 13.6,
+    "clean_sheet_rate": 4.5,
+    "goals_per_game": 0.0,
+    "active_years": "2018 - 2022"
+  },
+  "yearly_stats": [
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 13.3,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 13,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 15.4,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 5,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 5,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 1,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 100.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 100.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

@@ -1,0 +1,86 @@
+{
+  "id": "P0282",
+  "name": "刘洋",
+  "english_name": "Liu Yang",
+  "birthday": "1991-02-09",
+  "position": "DF",
+  "origin": "安徽蚌埠",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 48,
+    "total_goals": 0,
+    "total_wins": 17,
+    "total_clean_sheets": 13,
+    "win_rate": 35.4,
+    "clean_sheet_rate": 27.1,
+    "goals_per_game": 0.0,
+    "active_years": "2019 - 2020"
+  },
+  "yearly_stats": [
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 0,
+      "wins": 12,
+      "win_rate": 44.4,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 25.9,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 27,
+          "goals": 0,
+          "wins": 12,
+          "win_rate": 44.4,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 25.9,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 21,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 23.8,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 28.6,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 16,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 12.5,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 18.8,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 5,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 60.0,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 60.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

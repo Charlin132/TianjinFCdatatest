@@ -1,0 +1,53 @@
+{
+  "id": "P0242",
+  "name": "巴尔克斯",
+  "english_name": "Hernan Barcos",
+  "birthday": "1984-04-11",
+  "position": "FW",
+  "origin": "阿根廷",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 29,
+    "total_goals": 14,
+    "total_wins": 7,
+    "total_clean_sheets": 8,
+    "win_rate": 24.1,
+    "clean_sheet_rate": 27.6,
+    "goals_per_game": 0.48,
+    "active_years": "2015 - 2015"
+  },
+  "yearly_stats": [
+    {
+      "year": 2015,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 14,
+      "wins": 7,
+      "win_rate": 24.1,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 27.6,
+      "goals_per_game": 0.48,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 29,
+          "goals": 14,
+          "wins": 7,
+          "win_rate": 24.1,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 27.6,
+          "goals_per_game": 0.48
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

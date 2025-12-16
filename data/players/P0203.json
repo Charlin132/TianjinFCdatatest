@@ -1,0 +1,284 @@
+{
+  "id": "P0203",
+  "name": "赵英杰",
+  "english_name": "Zhao Yingjie",
+  "birthday": "1992-08-02",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 101,
+    "total_goals": 6,
+    "total_wins": 35,
+    "total_clean_sheets": 30,
+    "win_rate": 34.7,
+    "clean_sheet_rate": 29.7,
+    "goals_per_game": 0.06,
+    "active_years": "2016 - 2023"
+  },
+  "yearly_stats": [
+    {
+      "year": 2016,
+      "team": "天津泰达",
+      "apps": 2,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 50.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 20.0,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 30.0,
+      "goals_per_game": 0.1,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 8,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 12.5,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 1,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.5
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "team": "天津泰达",
+      "apps": 18,
+      "goals": 1,
+      "wins": 5,
+      "win_rate": 27.8,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 11.1,
+      "goals_per_game": 0.06,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 16,
+          "goals": 1,
+          "wins": 5,
+          "win_rate": 31.2,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 12.5,
+          "goals_per_game": 0.06
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 44.4,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 22.2,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 7,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 28.6,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 30.0,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 40.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 7,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 100.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 66.7,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 19,
+      "goals": 1,
+      "wins": 5,
+      "win_rate": 26.3,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 26.3,
+      "goals_per_game": 0.05,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 17,
+          "goals": 1,
+          "wins": 4,
+          "win_rate": 23.5,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 23.5,
+          "goals_per_game": 0.06
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 23,
+      "goals": 3,
+      "wins": 12,
+      "win_rate": 52.2,
+      "clean_sheets": 11,
+      "clean_sheet_rate": 47.8,
+      "goals_per_game": 0.13,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 22,
+          "goals": 2,
+          "wins": 11,
+          "win_rate": 50.0,
+          "clean_sheets": 10,
+          "clean_sheet_rate": 45.5,
+          "goals_per_game": 0.09
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 1,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 1.0
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 10,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 30.0,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 30.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 8,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 25.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 12.5,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}
