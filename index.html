@@ -471,41 +471,82 @@
         </div>
     </div>
     
-    <div x-show="selectedProfile" x-cloak class="fixed inset-0 z-[200] flex items-center justify-center px-4 transform-gpu">
-         <div x-show="selectedProfile" x-transition.opacity class="fixed inset-0 bg-gray-900/60 backdrop-blur-md" @click="selectedProfile = null"></div>
+   <div x-show="selectedProfile" x-cloak class="fixed inset-0 z-[200] flex items-center justify-center px-4 transform-gpu">
+     <div x-show="selectedProfile" x-transition.opacity class="fixed inset-0 bg-gray-900/60 backdrop-blur-md" @click="selectedProfile = null"></div>
+     
+     <div x-show="selectedProfile" 
+          x-transition:enter="ease-out duration-300" x-transition:enter-start="opacity-0 translate-y-8 scale-95" x-transition:enter-end="opacity-100 translate-y-0 scale-100" 
+          class="bg-white rounded-[32px] shadow-2xl w-full max-w-md relative z-10 overflow-hidden flex flex-col transform-gpu min-h-[400px]">
          
-         <div x-show="selectedProfile" 
-              x-transition:enter="ease-out duration-300" x-transition:enter-start="opacity-0 translate-y-8 scale-95" x-transition:enter-end="opacity-100 translate-y-0 scale-100" 
-              class="bg-white rounded-[32px] shadow-2xl w-full max-w-md relative z-10 overflow-hidden flex flex-col transform-gpu">
-             
-             <button @click="selectedProfile = null" class="absolute top-4 right-4 z-20 w-8 h-8 bg-black/5 hover:bg-black/10 rounded-full flex items-center justify-center text-gray-500 transition-colors">✕</button>
-             
-             <div class="pt-10 pb-6 px-6 flex flex-col items-center bg-gradient-to-b from-blue-50/50 to-white">
-                 <div class="relative mb-4 group">
-                     <div class="w-24 h-24 rounded-full p-1 bg-white border border-gray-100 shadow-md"><img :src="selectedProfile?.Headshot" class="w-full h-full rounded-full object-cover"></div>
-                     <div class="absolute -bottom-1 -right-1 w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center text-xs font-bold border-2 border-white shadow-sm" x-text="selectedProfile?.Number"></div>
+         <button @click="selectedProfile = null" class="absolute top-4 right-4 z-20 w-8 h-8 bg-black/5 hover:bg-black/10 rounded-full flex items-center justify-center text-gray-500 transition-colors">✕</button>
+         
+         <div class="pt-10 pb-6 px-6 flex flex-col items-center bg-gradient-to-b from-blue-50/50 to-white">
+             <div class="relative mb-4 group">
+                 <div class="w-24 h-24 rounded-full p-1 bg-white border border-gray-100 shadow-md">
+                     <img :src="selectedProfile?.Headshot || 'images/players/default.jpg'" class="w-full h-full rounded-full object-cover">
                  </div>
-                 <h2 class="text-2xl font-bold text-gray-900 mb-1" x-text="selectedProfile?.Name"></h2>
-                 <span class="px-2 py-0.5 bg-gray-100 text-gray-500 rounded text-[10px] font-bold uppercase tracking-wider" x-text="selectedProfile?.Position"></span>
+                 <div class="absolute -bottom-1 -right-1 w-8 h-8 bg-blue-600 text-white rounded-full flex items-center justify-center text-xs font-bold border-2 border-white shadow-sm" x-text="selectedProfile?.Number"></div>
              </div>
-             
-             <div class="px-6 pb-6" x-show="selectedProfile?.type === 'player'">
-                 <div class="bg-slate-50 rounded-2xl p-4 border border-gray-100">
-                     <div class="flex items-center justify-between mb-4"><h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest flex items-center gap-1"><span x-text="currentYear"></span> 赛季表现</h3></div>
-                     <div class="grid grid-cols-3 gap-2 text-center">
-                         <div class="bg-white rounded-xl p-3 shadow-sm border border-gray-100/50"><div class="text-2xl font-black text-gray-900 tabular-nums" x-text="selectedProfile?.YearStats?.Apps"></div><div class="text-[10px] text-gray-400 mt-1">出场</div></div>
-                         <div class="bg-white rounded-xl p-3 shadow-sm border border-gray-100/50">
-                             <template x-if="selectedProfile?.Position === 'GK'"><div><div class="text-2xl font-black text-gray-900 tabular-nums" x-text="selectedProfile?.YearStats?.CleanSheets"></div><div class="text-[10px] text-gray-400 mt-1">零封</div></div></template>
-                             <template x-if="selectedProfile?.Position !== 'GK'"><div><div class="text-2xl font-black text-blue-600 tabular-nums" x-text="selectedProfile?.YearStats?.Goals"></div><div class="text-[10px] text-gray-400 mt-1">进球</div></div></template>
-                         </div>
-                         <div class="bg-white rounded-xl p-3 shadow-sm border border-gray-100/50"><div class="text-2xl font-black text-gray-900 tabular-nums" x-text="selectedProfile?.YearStats?.Wins"></div><div class="text-[10px] text-gray-400 mt-1">胜场</div></div>
+             <h2 class="text-2xl font-bold text-gray-900 mb-1" x-text="selectedProfile?.Name"></h2>
+             <span class="px-2 py-0.5 bg-gray-100 text-gray-500 rounded text-[10px] font-bold uppercase tracking-wider" x-text="selectedProfile?.Position"></span>
+         </div>
+         
+         <div class="px-6 pb-6" x-show="selectedProfile?.type === 'player'">
+             <div class="bg-slate-50 rounded-2xl p-4 border border-gray-100">
+                 <div class="flex items-center justify-between mb-4">
+                     <h3 class="text-xs font-bold text-gray-400 uppercase tracking-widest flex items-center gap-1">
+                         <span x-text="currentYear"></span> 赛季表现
+                     </h3>
+                 </div>
+                 
+                 <div class="grid grid-cols-3 gap-2 text-center">
+                     <div class="bg-white rounded-xl p-3 shadow-sm border border-gray-100/50">
+                         <div class="text-2xl font-black text-gray-900 tabular-nums" x-text="selectedProfile?.YearStats?.Apps"></div>
+                         <div class="text-[10px] text-gray-400 mt-1">出场</div>
+                     </div>
+                     
+                     <div class="bg-white rounded-xl p-3 shadow-sm border border-gray-100/50">
+                         <template x-if="selectedProfile?.Position === 'GK'">
+                             <div>
+                                 <div class="text-2xl font-black text-gray-900 tabular-nums" x-text="selectedProfile?.YearStats?.CleanSheets"></div>
+                                 <div class="text-[10px] text-gray-400 mt-1">零封</div>
+                             </div>
+                         </template>
+                         <template x-if="selectedProfile?.Position !== 'GK'">
+                             <div>
+                                 <div class="text-2xl font-black text-blue-600 tabular-nums" x-text="selectedProfile?.YearStats?.Goals"></div>
+                                 <div class="text-[10px] text-gray-400 mt-1">进球</div>
+                             </div>
+                         </template>
+                     </div>
+                     
+                     <div class="bg-white rounded-xl p-3 shadow-sm border border-gray-100/50">
+                         <template x-if="selectedProfile?.Position === 'GK'">
+                             <div>
+                                 <div class="text-2xl font-black text-red-500 tabular-nums" x-text="selectedProfile?.YearStats?.AvgConceded"></div>
+                                 <div class="text-[10px] text-gray-400 mt-1">场均丢球</div>
+                             </div>
+                         </template>
+                         <template x-if="selectedProfile?.Position !== 'GK'">
+                             <div>
+                                 <div class="text-2xl font-black text-gray-900 tabular-nums" x-text="selectedProfile?.YearStats?.AvgGoals"></div>
+                                 <div class="text-[10px] text-gray-400 mt-1">场均进球</div>
+                             </div>
+                         </template>
                      </div>
                  </div>
              </div>
-             
-             <div class="p-6 pt-0 mt-auto"><a :href="'player.html?key=' + btoa(selectedProfile?.id) + '&name=' + encodeURIComponent(selectedProfile?.Name)" class="block w-full bg-black text-white text-center py-3.5 rounded-xl font-bold text-sm hover:bg-gray-800 transition-transform active:scale-95 shadow-lg shadow-gray-200">查看完整生涯档案 →</a></div>
          </div>
-    </div>
+         
+         <div class="p-6 pt-0 mt-auto">
+             <a :href="'player.html?key=' + btoa(selectedProfile?.id) + '&name=' + encodeURIComponent(selectedProfile?.Name)" 
+                class="block w-full bg-black text-white text-center py-3.5 rounded-xl font-bold text-sm hover:bg-gray-800 transition-transform active:scale-95 shadow-lg shadow-gray-200">
+                 查看完整生涯档案 →
+             </a>
+         </div>
+
+     </div>
+</div>
     
     <script>
     function footballApp() {
@@ -605,93 +646,120 @@
                 const coachObj = summary.coach || {};
                 
                 this.currentYearRosterMap = {};
-                let squadArray = [];
+            let squadArray = [];
+            
+            // 1. 初始化阵容列表 (增加了 Conceded 和 CleanSheets 字段初始化)
+            if (summary.team_roster) {
+                summary.team_roster.forEach(p => {
+                    const pid = p.player_id || p.id;
+                    const pname = p.player_name || p.name || this.playerMap[pid] || 'Unknown';
+                    
+                    this.currentYearRosterMap[pid] = { 
+                        Number: p.number || '-', 
+                        Position: p.position || 'MF', 
+                        Name: pname 
+                    };
+                    
+                    squadArray.push({ 
+                        id: pid, ...p, Name: pname, 
+                        Number: p.number || '-', Position: p.position || 'MF',
+                        // 🔥 核心修复：初始化统计数据
+                        Apps: 0, 
+                        Goals: 0, 
+                        CleanSheets: 0, // 门将零封
+                        Conceded: 0     // 门将丢球
+                    });
+                });
+            }
+
+            let cleanSheets = 0; 
+            const uniqueTypes = new Set(); 
+
+            // 2. 遍历比赛，进行动态计算
+            const formattedMatches = (matches || []).map(m => {
+                const isTeamA_Home = m.home_away === '主' || m.home_away === 'H';
+                const isTianjinTeamA = (m.team_a?.id === 'T001') || (m.team_a?.name && m.team_a.name.includes('天津'));
+                const isTianjinHome = isTianjinTeamA ? isTeamA_Home : !isTeamA_Home;
                 
-                if (summary.team_roster) {
-                    summary.team_roster.forEach(p => {
-                        const pid = p.player_id || p.id;
-                        const pname = p.player_name || p.name || this.playerMap[pid] || 'Unknown';
-                        
-                        this.currentYearRosterMap[pid] = { 
-                            Number: p.number || '-', 
-                            Position: p.position || 'MF', 
-                            Name: pname 
-                        };
-                        
-                        squadArray.push({ 
-                            id: pid, ...p, Name: pname, Apps: 0, Goals: 0, 
-                            Number: p.number || '-', Position: p.position || 'MF'
-                        });
+                uniqueTypes.add(m.league_level || m.Type || '比赛');
+                
+                // 本场比赛对手的进球数 (即我方丢球数)
+                const opponentScore = isTianjinHome ? m.team_b_score : m.team_a_score;
+
+                // 统计全队零封
+                if (opponentScore === 0) cleanSheets++;
+                
+                // 🔥 核心修复：统计球员个人数据
+                if (m.players_on_field) {
+                    m.players_on_field.forEach(p => { 
+                        // 找到阵容里的这个人
+                        const t = squadArray.find(s => String(s.id) === String(p.player_id)); 
+                        if(t) {
+                            t.Apps++; // 增加出场数
+                            
+                            // 如果是门将，且本场出现在场上 (这里简化处理，假设门将上了就是主力门将)
+                            // 更严谨的逻辑是判断 is_starter 或者是 GK 位置
+                            if (t.Position === 'GK') {
+                                t.Conceded += opponentScore; // 累加丢球
+                                if (opponentScore === 0) {
+                                    t.CleanSheets++; // 累加个人零封
+                                }
+                            }
+                        }
                     });
                 }
-    
-                let cleanSheets = 0; 
-                const uniqueTypes = new Set(); 
-    
-                const formattedMatches = (matches || []).map(m => {
-                    const isTeamA_Home = m.home_away === '主' || m.home_away === 'H';
-                    const isTianjinTeamA = (m.team_a?.id === 'T001') || (m.team_a?.name && m.team_a.name.includes('天津'));
-                    const isTianjinHome = isTianjinTeamA ? isTeamA_Home : !isTeamA_Home;
-                    
-                    uniqueTypes.add(m.league_level || m.Type || '比赛');
-                    
-                    if ((isTianjinHome && m.team_b_score == 0) || (!isTianjinHome && m.team_a_score == 0)) cleanSheets++;
-                    
-                    if (m.players_on_field) {
-                        m.players_on_field.forEach(p => { 
-                            // 关键修复：用 String() 确保 ID 类型匹配
-                            const t = squadArray.find(s => String(s.id) === String(p.player_id)); 
-                            if(t) { t.Apps++; }
-                        });
-                    }
-                     if (m.goal_scorers) {
-                        m.goal_scorers.forEach(g => {
-                            const t = squadArray.find(s => String(s.id) === String(g.player_id)); 
-                            if(t && !g.is_own_goal) t.Goals++;
-                        });
-                    }
-    
-                    const teamAId = m.team_a?.id || null;
-                    const teamBId = m.team_b?.id || null;
-    
-                    let processedGoals = (m.goal_scorers || []).map(g => {
-                        const isGoalByTeamA = g.team === 'team_a';
-                        const isHomeGoal = (isGoalByTeamA && isTeamA_Home) || (!isGoalByTeamA && !isTeamA_Home);
-                        return { ...g, side: isHomeGoal ? 'home' : 'away' };
-                    });
-    
-                    return { 
-                        ...m, 
-                        Date: m.date, 
-                        Round: m.round || '', 
-                        HomeTeam: isTeamA_Home ? (m.team_a?.name || m.team_a) : (m.team_b?.name || m.team_b),
-                        AwayTeam: isTeamA_Home ? (m.team_b?.name || m.team_b) : (m.team_a?.name || m.team_a),
-                        HomeTeamId: isTeamA_Home ? teamAId : teamBId,
-                        AwayTeamId: isTeamA_Home ? teamBId : teamAId,
-                        HomeScore: isTeamA_Home ? m.team_a_score : m.team_b_score,
-                        AwayScore: isTeamA_Home ? m.team_b_score : m.team_a_score,
-                        DisplayScore: isTeamA_Home ? `${m.team_a_score} - ${m.team_b_score}` : `${m.team_b_score} - ${m.team_a_score}`,
-                        Result: this.normalizeResult(m.result),
-                        Type: m.league_level || '比赛', 
-                        isTianjinHome, 
-                        Stadium: m.stadium ? (typeof m.stadium === 'object' ? m.stadium.name : m.stadium) : '未知球场',
-                        Referees: m.referees || [],
-                        attendance: (m.attendance !== null && m.attendance !== undefined) ? m.attendance : '-',
-                        goal_scorers: processedGoals
-                    };
-                });
-    
-                this.currentYearData = {
-                    matches: formattedMatches,
-                    summaryInfo: summary,
-                    squad: squadArray,
-                    staff: summary.staff || [],
-                    photos: summary.photos || [],
-                    insights: summary.insights || {}
-                };
                 
-                this.matchTypes = Array.from(uniqueTypes);
-            },
+                // 统计进球
+                if (m.goal_scorers) {
+                    m.goal_scorers.forEach(g => {
+                        const t = squadArray.find(s => String(s.id) === String(g.player_id)); 
+                        // 只有非乌龙球才算个人进球
+                        if(t && !g.is_own_goal) t.Goals++;
+                    });
+                }
+
+                // ... (下半部分保持不变：ID处理、Score处理、Round处理等) ...
+                const teamAId = m.team_a?.id || null;
+                const teamBId = m.team_b?.id || null;
+
+                let processedGoals = (m.goal_scorers || []).map(g => {
+                    const isGoalByTeamA = g.team === 'team_a';
+                    const isHomeGoal = (isGoalByTeamA && isTeamA_Home) || (!isGoalByTeamA && !isTeamA_Home);
+                    return { ...g, side: isHomeGoal ? 'home' : 'away' };
+                });
+
+                return { 
+                    ...m, 
+                    Date: m.date, 
+                    Round: m.round || '', 
+                    HomeTeam: isTeamA_Home ? (m.team_a?.name || m.team_a) : (m.team_b?.name || m.team_b),
+                    AwayTeam: isTeamA_Home ? (m.team_b?.name || m.team_b) : (m.team_a?.name || m.team_a),
+                    HomeTeamId: isTeamA_Home ? teamAId : teamBId,
+                    AwayTeamId: isTeamA_Home ? teamBId : teamAId,
+                    HomeScore: isTeamA_Home ? m.team_a_score : m.team_b_score,
+                    AwayScore: isTeamA_Home ? m.team_b_score : m.team_a_score,
+                    DisplayScore: isTeamA_Home ? `${m.team_a_score} - ${m.team_b_score}` : `${m.team_b_score} - ${m.team_a_score}`,
+                    Result: this.normalizeResult(m.result),
+                    Type: m.league_level || '比赛', 
+                    isTianjinHome, 
+                    Stadium: m.stadium ? (typeof m.stadium === 'object' ? m.stadium.name : m.stadium) : '未知球场',
+                    Referees: m.referees || [],
+                    attendance: (m.attendance !== null && m.attendance !== undefined) ? m.attendance : '-',
+                    goal_scorers: processedGoals
+                };
+            });
+
+            this.currentYearData = {
+                matches: formattedMatches,
+                summaryInfo: summary,
+                squad: squadArray, // 现在这里的 squad 包含了计算好的 Apps, Goals, CleanSheets, Conceded
+                staff: summary.staff || [],
+                photos: summary.photos || [],
+                insights: summary.insights || {}
+            };
+            
+            this.matchTypes = Array.from(uniqueTypes);
+        },
     
             openMatchModal(match) {
                 if (!match) return;
@@ -760,31 +828,37 @@
     
             // 🔥 修复：增强数据匹配逻辑
             openProfile(id, type, data) { 
-                if (!id) return; 
+            if (!id) return; 
+            
+            // 1. 尝试从阵容里找完整数据
+            let fullData = {};
+            if (type === 'player' && this.currentYearData.squad) {
+                fullData = this.currentYearData.squad.find(s => String(s.id) === String(id)) || {};
+            }
+
+            // 2. 计算场均数据
+            let matchesPlayed = fullData.Apps || 0;
+            let avgGoals = matchesPlayed > 0 ? (fullData.Goals / matchesPlayed).toFixed(2) : "0.00";
+            let avgConceded = matchesPlayed > 0 ? (fullData.Conceded / matchesPlayed).toFixed(2) : "0.00";
+
+            this.selectedProfile = { 
+                id, 
+                type, 
+                Name: this.resolveName(id, fullData.Name || data?.name || data?.player_name), 
+                Headshot: 'images/players/default.jpg',
+                Position: fullData.Position || data?.position || 'Player', 
+                Number: fullData.Number || data?.number || '-', 
                 
-                // 1. 尝试从阵容里找完整数据
-                let fullData = {};
-                // 确保 ID 类型一致 (转字符串)
-                if (type === 'player' && this.currentYearData.squad) {
-                    fullData = this.currentYearData.squad.find(s => String(s.id) === String(id)) || {};
-                }
-    
-                // 2. 如果没找到，用 data 兜底
-                this.selectedProfile = { 
-                    id, 
-                    type, 
-                    Name: this.resolveName(id, fullData.Name || data?.name || data?.player_name), 
-                    Headshot: 'images/players/default.jpg',
-                    Position: fullData.Position || data?.position || 'Player', 
-                    Number: fullData.Number || data?.number || '-', 
-                    YearStats: { 
-                        Apps: fullData.Apps || 0, 
-                        Goals: fullData.Goals || 0, 
-                        Wins: 0, 
-                        CleanSheets: 0 
-                    } 
-                }; 
-            },
+                // 🔥 核心修复：把所有统计数据都打包放进去
+                YearStats: { 
+                    Apps: matchesPlayed, 
+                    Goals: fullData.Goals || 0, 
+                    CleanSheets: fullData.CleanSheets || 0,
+                    AvgGoals: avgGoals,       // 场均进球
+                    AvgConceded: avgConceded  // 场均丢球
+                } 
+            }; 
+        },
     
             getFilteredMatches() { if (!this.currentYearData.matches) return []; if (this.matchFilter === 'all') return this.currentYearData.matches; return this.currentYearData.matches.filter(m => m.Type === this.matchFilter); },
             getPlayersByPos(code) { if (!this.currentYearData.squad) return []; return this.currentYearData.squad.filter(p => { if (code === 'MF') return !['GK', 'DF', 'FW'].includes(p.Position); return p.Position === code; }); },
