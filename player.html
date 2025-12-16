@@ -23,32 +23,62 @@
         .hide-scrollbar::-webkit-scrollbar { display: none; }
         .hide-scrollbar { -ms-overflow-style: none; scrollbar-width: none; }
         .glass-nav { background-color: rgba(255, 255, 255, 0.85); backdrop-filter: saturate(180%) blur(20px); border-bottom: 1px solid rgba(0,0,0,0.05); position: sticky; top: 0; z-index: 50; }
-        .apple-card { background: #FFFFFF; transition: all 0.3s cubic-bezier(0.25, 0.8, 0.25, 1); border: 1px solid rgba(0,0,0,0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03); }
+        
+        .apple-card { background: #FFFFFF; transition: all 0.4s cubic-bezier(0.25, 0.8, 0.25, 1); border: 1px solid rgba(0,0,0,0.04); box-shadow: 0 4px 12px rgba(0, 0, 0, 0.03); }
+        .apple-card:hover { transform: translateY(-2px); box-shadow: 0 12px 24px rgba(0, 0, 0, 0.06); }
+        
         .cursor-grab { cursor: grab; }
         .cursor-grabbing { cursor: grabbing; }
         [x-cloak] { display: none !important; }
+
+        .hero-blur-bg {
+            position: absolute;
+            top: -50px;
+            left: -50px;
+            right: -50px;
+            height: 500px;
+            background-size: cover;
+            background-position: center;
+            filter: blur(80px) saturate(150%) brightness(1.2);
+            opacity: 0.15;
+            z-index: 0;
+            mask-image: linear-gradient(to bottom, black, transparent);
+            -webkit-mask-image: linear-gradient(to bottom, black, transparent);
+            pointer-events: none;
+        }
+
+        .honor-badge {
+            background: linear-gradient(135deg, #FFF7ED 0%, #FFEDD5 100%);
+            color: #9A3412;
+            border: 1px solid #FED7AA;
+        }
+
+        .sort-icon { display: inline-block; width: 0; height: 0; margin-left: 4px; vertical-align: middle; border-left: 4px solid transparent; border-right: 4px solid transparent; opacity: 0.3; }
+        .sort-asc { border-bottom: 4px solid currentColor; }
+        .sort-desc { border-top: 4px solid currentColor; }
+        .sort-active { opacity: 1; color: #2563EB; }
     </style>
 </head>
 
 <body x-data="playerProfile()" x-init="initProfile(); initInteractions()" 
-      class="flex flex-col min-h-screen selection:bg-blue-100 selection:text-blue-900">
+      class="flex flex-col min-h-screen selection:bg-blue-100 selection:text-blue-900 relative overflow-x-hidden">
+
+    <div class="hero-blur-bg" :style="`background-image: url('${playerData?.headshot || 'images/players/default.jpg'}')`"></div>
 
     <nav class="glass-nav flex-none sticky top-0 z-50">
         <div class="max-w-7xl mx-auto px-4 lg:px-12 h-16 flex items-center justify-between gap-4">
-            
-            <a href="index.html" class="flex items-center gap-3 shrink-0 group">
+            <a href="index.html" class="flex items-center gap-3 shrink-0 group z-10">
                 <img src="images/logo.png" alt="TJ" class="w-8 h-8 rounded-lg object-contain shadow-sm group-hover:scale-105 transition-transform">
                 <span class="font-semibold text-lg tracking-tight text-gray-900 hidden md:block">天津足球数据中心</span>
             </a>
-
-            <div class="flex-1 max-w-lg relative group">
+            <div class="flex-1 max-w-lg relative group z-10">
                 <div class="relative">
                     <div class="absolute inset-y-0 left-0 pl-3 flex items-center pointer-events-none">
                         <svg class="h-4 w-4 text-gray-400" fill="none" viewBox="0 0 24 24" stroke="currentColor"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M21 21l-6-6m2-5a7 7 0 11-14 0 7 7 0 0114 0z" /></svg>
                     </div>
                     <input type="text" x-model="searchQuery" @input="performSearch()" @click.outside="searchResults = []"
                            class="block w-full pl-9 pr-3 py-2 border-none rounded-full bg-gray-100/80 text-gray-900 text-sm placeholder-gray-500 focus:outline-none focus:ring-2 focus:ring-blue-500/20 focus:bg-white transition-all" 
-                           placeholder="搜索球员或教练...">
+                           placeholder="搜索球员...">
                 </div>
                 <div x-show="searchResults.length > 0" x-transition class="absolute top-full left-0 right-0 mt-2 bg-white/90 backdrop-blur-xl rounded-2xl shadow-xl border border-gray-100 overflow-hidden z-50 max-h-80 overflow-y-auto">
                     <template x-for="res in searchResults" :key="res.id">
@@ -64,21 +94,16 @@
                     </template>
                 </div>
             </div>
-
-            <div class="flex items-center gap-2 shrink-0">
-                <a href="dataindex.html" class="flex items-center gap-2 px-4 py-2 text-xs font-bold text-gray-600 hover:text-blue-600 bg-gray-100 hover:bg-blue-50 rounded-full transition-all">
-                    <span>📊</span> <span class="hidden md:inline">历史统计</span>
-                </a>
+            <div class="flex items-center gap-2 shrink-0 z-10">
                 <a href="index.html" class="bg-gray-900 hover:bg-black text-white px-4 py-2 rounded-full text-xs font-bold transition-all shadow-md">
                     返回首页
                 </a>
             </div>
         </div>
-
         <div class="border-t border-gray-200/50 bg-white/60 backdrop-blur-md">
             <div class="max-w-7xl mx-auto">
                 <div id="timeline-scroll" class="flex items-center gap-6 lg:gap-8 overflow-x-auto hide-scrollbar py-3 px-4 lg:px-12 text-center whitespace-nowrap cursor-grab active:cursor-grabbing select-none">
-                    <a href="index.html" class="flex-shrink-0 transition-all px-2 font-bold text-xs uppercase tracking-wider text-gray-400 hover:text-gray-600 cursor-pointer">Overview</a>
+                    <a href="index.html" class="flex-shrink-0 transition-all px-2 font-bold text-xs uppercase tracking-wider text-gray-400 hover:text-gray-600 cursor-pointer">总览</a>
                     <template x-for="year in years" :key="year">
                         <div @click="handleYearClick(year)" class="flex-shrink-0 transition-all duration-300 group flex flex-col items-center gap-1 w-10 lg:w-12 pt-1 cursor-pointer hover:opacity-100" 
                              :class="isPlayerActiveYear(year) ? 'opacity-100 scale-110' : 'opacity-40'">
@@ -93,7 +118,7 @@
         </div>
     </nav>
 
-    <main class="flex-grow max-w-5xl w-full mx-auto px-4 sm:px-6 lg:px-8 pt-8 lg:pt-12">
+    <main class="flex-grow max-w-7xl w-full mx-auto px-4 sm:px-6 lg:px-8 pt-8 lg:pt-12 relative z-10">
         
         <div x-show="isLoading" class="fixed inset-0 z-40 bg-white/80 backdrop-blur-sm flex items-center justify-center">
             <div class="flex flex-col items-center gap-3">
@@ -104,120 +129,268 @@
 
         <div x-show="!isLoading && playerData" x-cloak x-transition.opacity>
             
-            <div class="apple-card rounded-[32px] p-6 lg:p-10 mb-8 flex flex-col md:flex-row items-center md:items-start gap-8">
+            <div class="apple-card rounded-[32px] p-6 lg:p-10 mb-8 flex flex-col md:flex-row items-center md:items-start gap-8 border-t-4 border-t-blue-600">
                 <div class="shrink-0 relative group">
-                    <div class="w-32 h-32 lg:w-40 lg:h-40 rounded-full p-1.5 bg-white border border-gray-100 shadow-lg">
-                        <img :src="playerData?.headshot || 'images/players/default.jpg'" class="w-full h-full rounded-full object-cover bg-gray-50">
+                    <div class="w-32 h-32 lg:w-44 lg:h-44 rounded-full p-1.5 bg-white border-2 border-gray-100 shadow-2xl overflow-hidden">
+                        <img :src="playerData?.headshot || 'images/players/default.jpg'" class="w-full h-full rounded-full object-cover bg-gray-50 transition-transform duration-700 group-hover:scale-110">
                     </div>
-                    <div class="absolute bottom-1 right-1 bg-blue-600 text-white w-10 h-10 rounded-full flex items-center justify-center font-bold text-lg border-4 border-white shadow-md tabular-nums" x-show="playerData?.position" x-text="playerData?.number || '-'"></div>
+                    <div class="absolute bottom-1 right-1 bg-gradient-to-br from-blue-600 to-blue-800 text-white w-12 h-12 rounded-full flex items-center justify-center font-black text-xl border-[3px] border-white shadow-lg tabular-nums transform group-hover:rotate-12 transition-transform" x-show="playerData?.position" x-text="playerData?.number || '-'"></div>
                 </div>
 
-                <div class="flex-1 text-center md:text-left">
-                    <div class="mb-1 text-xs font-bold text-blue-600 uppercase tracking-widest" x-text="playerData?.english_name"></div>
-                    <h1 class="text-4xl lg:text-5xl font-black text-gray-900 tracking-tight mb-4" x-text="playerData?.name"></h1>
-                    
-                    <div class="flex flex-wrap justify-center md:justify-start gap-3 mb-6">
-                        <div class="px-3 py-1.5 bg-gray-50 rounded-full text-xs font-bold text-gray-500 border border-gray-100">
-                            🎂 <span x-text="playerData?.birthday"></span>
-                        </div>
-                        <div class="px-3 py-1.5 bg-gray-50 rounded-full text-xs font-bold text-gray-500 border border-gray-100">
-                            📍 <span x-text="playerData?.origin"></span>
-                        </div>
-                        <div class="px-3 py-1.5 bg-gray-50 rounded-full text-xs font-bold text-gray-500 border border-gray-100">
-                            ⚽ 位置: <span x-text="playerData?.position"></span>
+                <div class="flex-1 text-center md:text-left w-full">
+                    <div class="flex flex-col md:flex-row md:items-center justify-between gap-4">
+                        <div>
+                            <div class="mb-1 text-xs font-bold text-blue-600 uppercase tracking-widest flex items-center justify-center md:justify-start gap-2">
+                                <span x-text="playerData?.english_name"></span>
+                            </div>
+                            <h1 class="text-4xl lg:text-6xl font-black text-gray-900 tracking-tight mb-2" x-text="playerData?.name"></h1>
                         </div>
                     </div>
 
-                    <p class="text-gray-500 text-sm leading-relaxed max-w-2xl font-medium" x-text="playerData?.short_description"></p>
+                    <div class="flex flex-wrap gap-2 mb-4 justify-center md:justify-start" x-show="playerData?.honors && playerData?.honors.length > 0">
+                        <template x-for="honor in playerData?.honors" :key="honor">
+                            <div class="honor-badge px-3 py-1 rounded-full text-xs font-bold flex items-center gap-1.5 shadow-sm">
+                                <span>🏆</span>
+                                <span x-text="honor"></span>
+                            </div>
+                        </template>
+                    </div>
+                    
+                    <div class="flex flex-wrap justify-center md:justify-start gap-3 mb-6 mt-2">
+                        <div class="px-4 py-2 bg-white rounded-xl text-xs font-bold text-gray-600 shadow-sm border border-gray-100 flex items-center gap-2">
+                            <span>🎂</span> <span x-text="playerData?.birthday"></span>
+                        </div>
+                        <div class="px-4 py-2 bg-white rounded-xl text-xs font-bold text-gray-600 shadow-sm border border-gray-100 flex items-center gap-2">
+                            <span>📍</span> <span x-text="playerData?.origin"></span>
+                        </div>
+                        <div class="px-4 py-2 bg-white rounded-xl text-xs font-bold text-gray-600 shadow-sm border border-gray-100 flex items-center gap-2">
+                            <span>⚽</span> <span x-text="getPositionFullName(playerData?.position)"></span>
+                        </div>
+                    </div>
+
+                    <p class="text-gray-500 text-sm leading-relaxed max-w-3xl font-medium bg-gray-50/80 p-4 rounded-2xl border border-gray-100/50" x-text="playerData?.short_description || '暂无详细介绍'"></p>
                 </div>
             </div>
 
-            <div class="grid grid-cols-2 md:grid-cols-4 gap-4 mb-12">
-                <div class="apple-card p-6 rounded-2xl flex flex-col justify-center">
-                    <div class="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">总出场</div>
-                    <div class="text-3xl lg:text-4xl font-black text-gray-900 tabular-nums tracking-tight" x-text="playerData?.career_summary?.total_apps"></div>
-                </div>
-                <div class="apple-card p-6 rounded-2xl flex flex-col justify-center">
-                    <div class="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">胜场数</div>
-                    <div class="text-3xl lg:text-4xl font-black text-gray-900 tabular-nums tracking-tight" x-text="playerData?.career_summary?.total_wins"></div>
-                    <div class="text-[10px] text-blue-600 font-bold mt-1 bg-blue-50 inline-block px-1.5 rounded self-start" x-text="'胜率 ' + playerData?.career_summary?.win_rate + '%'"></div>
+            <div class="grid grid-cols-2 lg:grid-cols-4 gap-4 mb-8">
+                <div class="apple-card p-5 lg:p-6 rounded-3xl flex flex-col justify-between h-36 lg:h-44 group relative overflow-hidden">
+                    <div class="text-sm font-bold text-gray-500 uppercase tracking-wide z-10">生涯总出场</div>
+                    <div class="flex items-baseline gap-1 z-10">
+                        <div class="text-4xl lg:text-6xl font-black text-gray-900 tabular-nums tracking-tighter" x-text="playerData?.career_summary?.total_apps"></div>
+                        <span class="text-base font-bold text-gray-400">场</span>
+                    </div>
+                    <div class="absolute right-0 bottom-0 w-24 h-24 bg-gray-50 rounded-full transform translate-x-8 translate-y-8 group-hover:scale-150 transition-transform duration-500 z-0"></div>
                 </div>
                 
-                <div class="apple-card p-6 rounded-2xl flex flex-col justify-center">
-                    <template x-if="playerData?.position === 'GK'">
-                        <div>
-                            <div class="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">总零封</div>
-                            <div class="text-3xl lg:text-4xl font-black text-gray-900 tabular-nums tracking-tight" x-text="playerData?.career_summary?.total_clean_sheets"></div>
-                            <div class="text-[10px] text-green-600 font-bold mt-1 bg-green-50 inline-block px-1.5 rounded self-start" x-text="'零封率 ' + playerData?.career_summary?.clean_sheet_rate + '%'"></div>
+                <div class="apple-card p-5 lg:p-6 rounded-3xl flex flex-col justify-between h-36 lg:h-44 group relative overflow-hidden">
+                    <div class="text-sm font-bold text-gray-500 uppercase tracking-wide z-10" x-text="playerData?.position === 'GK' ? '生涯总零封' : '生涯总进球'"></div>
+                    <div class="z-10">
+                        <div class="flex items-baseline gap-1">
+                            <div class="text-4xl lg:text-5xl font-black tabular-nums tracking-tighter" 
+                                 :class="playerData?.position === 'GK' ? 'text-emerald-600' : 'text-blue-600'"
+                                 x-text="playerData?.position === 'GK' ? playerData?.career_summary?.total_clean_sheets : playerData?.career_summary?.total_goals"></div>
+                            <span class="text-base font-bold text-gray-400">个</span>
                         </div>
-                    </template>
-                    <template x-if="playerData?.position !== 'GK'">
-                        <div>
-                            <div class="text-[10px] font-bold text-gray-400 uppercase tracking-widest mb-1">总进球</div>
-                            <div class="text-3xl lg:text-4xl font-black text-blue-600 tabular-nums tracking-tight" x-text="playerData?.career_summary?.total_goals"></div>
-                        </div>
-                    </template>
-                </div>
-
-                <div class="apple-card p-6 rounded-2xl flex items-center justify-center bg-gray-900 text-white relative overflow-hidden">
-                    <div class="text-center z-10">
-                        <div class="text-3xl font-black">TJ</div>
-                        <div class="text-[10px] text-gray-400 uppercase tracking-widest mt-1">Legend</div>
                     </div>
-                    <div class="absolute -right-6 -bottom-6 w-24 h-24 border-[8px] border-gray-700/50 rounded-full"></div>
+                </div>
+
+                <div class="apple-card p-5 lg:p-6 rounded-3xl flex flex-col justify-between h-36 lg:h-44">
+                    <div class="text-sm font-bold text-gray-500 uppercase tracking-wide">出场胜率</div>
+                    <div class="relative w-full h-full flex items-center justify-center">
+                        <svg viewBox="0 0 36 36" class="w-16 h-16 lg:w-20 lg:h-20 transform -rotate-90">
+                            <path class="text-gray-100" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="currentColor" stroke-width="3.5" />
+                            <path class="text-blue-500 drop-shadow-md" :stroke-dasharray="playerData?.career_summary?.win_rate + ', 100'" d="M18 2.0845 a 15.9155 15.9155 0 0 1 0 31.831 a 15.9155 15.9155 0 0 1 0 -31.831" fill="none" stroke="currentColor" stroke-width="3.5" stroke-linecap="round" />
+                        </svg>
+                        <div class="absolute inset-0 flex items-center justify-center flex-col">
+                            <span class="text-lg font-black text-gray-900 tabular-nums" x-text="playerData?.career_summary?.win_rate"></span>
+                            <span class="text-[10px] font-bold text-gray-400">%</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="apple-card p-5 lg:p-6 rounded-3xl flex flex-col justify-between h-36 lg:h-44 bg-gradient-to-br from-gray-900 to-gray-800 text-white shadow-xl relative overflow-hidden">
+                    <div class="text-sm font-bold text-gray-300 uppercase tracking-wide z-10">巅峰赛季</div>
+                    <div class="z-10">
+                        <div class="text-3xl lg:text-4xl font-black tabular-nums tracking-tighter text-yellow-400" x-text="getPeakSeason().year"></div>
+                        <div class="text-sm font-bold text-gray-300 mt-1" x-text="getPeakSeason().desc"></div>
+                    </div>
+                    <div class="absolute -top-10 -right-10 w-32 h-32 bg-white/10 rounded-full blur-2xl"></div>
                 </div>
             </div>
 
-            <div class="flex items-center gap-2 mb-4 px-1">
-                <h3 class="text-xl font-bold text-gray-900 tracking-tight">历年表现</h3>
-                <div class="h-px bg-gray-200 flex-1"></div>
+            <div class="mb-8">
+                <div class="flex items-center justify-between mb-4 px-1">
+                    <h3 class="text-xl font-bold text-gray-900 tracking-tight flex items-center gap-2">
+                        <span>主要赛事表现</span>
+                        <span class="text-xs bg-gray-100 text-gray-500 px-2 py-0.5 rounded-full font-bold">Total Stats by Competition</span>
+                    </h3>
+                </div>
+                <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4">
+                    <template x-for="comp in getMainCompetitions()" :key="comp.name">
+                        <div class="bg-white border border-gray-100 rounded-2xl p-5 flex items-center justify-between shadow-sm hover:shadow-md transition-shadow">
+                            <div class="flex items-center gap-4">
+                                <div class="w-12 h-12 rounded-lg flex items-center justify-center shadow-sm overflow-hidden bg-white border border-gray-50">
+                                    <img :src="getLeagueLogo(comp.name)" 
+                                         @error="$el.style.display='none'; $el.nextElementSibling.style.display='flex'"
+                                         class="w-full h-full object-contain p-1">
+                                    <div class="hidden w-full h-full bg-blue-600 text-white items-center justify-center font-bold text-sm" x-text="comp.name.substring(0,2)"></div>
+                                </div>
+                                <div>
+                                    <div class="font-bold text-gray-900 text-base" x-text="comp.name"></div>
+                                    <div class="text-xs text-gray-400 font-medium" x-text="getCompetitionType(comp.name)"></div>
+                                </div>
+                            </div>
+                            <div class="flex items-center gap-4 text-right">
+                                <div>
+                                    <div class="text-lg font-black text-gray-900 tabular-nums" x-text="comp.apps"></div>
+                                    <div class="text-[10px] text-gray-500 font-bold uppercase">场次</div>
+                                </div>
+                                <div>
+                                    <div class="text-lg font-black tabular-nums" 
+                                         :class="(comp.goals || comp.clean_sheets) > 0 ? (playerData?.position === 'GK' ? 'text-emerald-600' : 'text-blue-600') : 'text-gray-400'" 
+                                         x-text="playerData?.position === 'GK' ? (comp.clean_sheets || 0) : comp.goals"></div>
+                                    <div class="text-[10px] text-gray-500 font-bold uppercase" x-text="playerData?.position === 'GK' ? '零封' : '进球'"></div>
+                                </div>
+                            </div>
+                        </div>
+                    </template>
+                </div>
             </div>
-            
-            <div class="apple-card rounded-2xl overflow-hidden mb-20">
-                <div class="overflow-x-auto">
-                    <table class="w-full text-sm text-left">
-                        <thead class="bg-gray-50/80 text-gray-400 font-bold uppercase text-[10px] tracking-wider border-b border-gray-100">
-                            <tr>
-                                <th class="px-6 py-4">年份</th>
-                                <th class="px-6 py-4">效力球队</th>
-                                <th class="px-6 py-4 text-center">出场</th>
-                                <th class="px-6 py-4 text-center">胜场</th>
-                                <th class="px-6 py-4 text-center" x-text="playerData?.position === 'GK' ? '零封' : '进球'"></th>
-                                <th class="px-6 py-4 text-right">效率</th>
-                            </tr>
-                        </thead>
-                        <tbody class="divide-y divide-gray-100">
-                            <template x-for="yearStat in playerData?.yearly_stats" :key="yearStat.year">
-                                <tr class="hover:bg-blue-50/30 transition-colors group">
-                                    <td class="px-6 py-4 font-bold text-gray-900 tabular-nums" x-text="yearStat.year"></td>
-                                    <td class="px-6 py-4 text-gray-600 font-medium" x-text="yearStat.team"></td>
-                                    <td class="px-6 py-4 text-center tabular-nums font-medium text-gray-700" x-text="yearStat.apps"></td>
-                                    <td class="px-6 py-4 text-center tabular-nums text-gray-500" x-text="yearStat.wins"></td>
-                                    
-                                    <td class="px-6 py-4 text-center tabular-nums font-bold" 
-                                        :class="playerData?.position === 'GK' ? 'text-gray-900' : 'text-blue-600'"
-                                        x-text="playerData?.position === 'GK' ? yearStat.clean_sheets : yearStat.goals">
-                                    </td>
-                                    
-                                    <td class="px-6 py-4 text-right">
-                                        <div class="flex flex-col items-end">
-                                            <span class="text-[10px] font-bold text-gray-500 tabular-nums" x-text="yearStat.win_rate + '%'"></span>
-                                            <div class="w-16 h-1 bg-gray-100 rounded-full mt-1 overflow-hidden">
-                                                <div class="h-full bg-blue-500 rounded-full" :style="'width: ' + yearStat.win_rate + '%'"></div>
-                                            </div>
+
+            <div class="mb-12">
+                <div class="flex items-center justify-between mb-4 px-1">
+                    <h3 class="text-xl font-bold text-gray-900 tracking-tight flex items-center gap-2">
+                        <span>历年详细数据</span>
+                        <span class="text-xs bg-blue-50 text-blue-600 px-2 py-0.5 rounded-full font-bold">点击表头排序</span>
+                    </h3>
+                </div>
+
+                <div class="apple-card rounded-[24px] overflow-hidden shadow-sm border-0">
+                    <div class="overflow-x-auto">
+                        <table class="w-full text-left">
+                            <thead class="bg-gray-50 border-b border-gray-100">
+                                <tr>
+                                    <th @click="sort('year')" class="px-4 py-4 cursor-pointer hover:bg-gray-100 transition-colors group select-none w-20">
+                                        <div class="flex items-center gap-1 text-sm font-bold text-gray-600 uppercase tracking-wide">
+                                            年份
+                                            <span class="sort-icon" :class="{'sort-active': sortCol === 'year', 'sort-asc': sortAsc, 'sort-desc': !sortAsc}"></span>
                                         </div>
-                                    </td>
+                                    </th>
+                                    
+                                    <th class="px-4 py-4 text-sm font-bold text-gray-600 uppercase tracking-wide">效力球队</th>
+                                    
+                                    <th @click="sort('apps')" class="px-2 py-4 text-center cursor-pointer hover:bg-blue-50/50 transition-colors group select-none bg-blue-50/30">
+                                        <div class="flex items-center justify-center gap-1 text-sm font-bold text-gray-900 uppercase tracking-wide">
+                                            总出场
+                                            <span class="sort-icon" :class="{'sort-active': sortCol === 'apps', 'sort-asc': sortAsc, 'sort-desc': !sortAsc}"></span>
+                                        </div>
+                                    </th>
+
+                                    <th @click="sort('goals')" class="px-2 py-4 text-center cursor-pointer hover:bg-blue-50/50 transition-colors group select-none bg-blue-50/30">
+                                        <div class="flex items-center justify-center gap-1 text-sm font-bold text-gray-900 uppercase tracking-wide">
+                                            <span x-text="playerData?.position === 'GK' ? '零封' : '进球'"></span>
+                                            <span class="sort-icon" :class="{'sort-active': sortCol === 'goals', 'sort-asc': sortAsc, 'sort-desc': !sortAsc}"></span>
+                                        </div>
+                                    </th>
+                                    
+                                    <th class="px-2 py-4 text-center text-sm font-bold text-gray-500 uppercase tracking-wide hidden md:table-cell">
+                                        联赛数据
+                                    </th>
+                                    
+                                    <th class="px-2 py-4 text-center text-sm font-bold text-gray-500 uppercase tracking-wide hidden md:table-cell">
+                                        杯赛数据
+                                    </th>
+                                    
+                                    <th @click="sort('gpg_val')" class="px-4 py-4 text-center cursor-pointer hover:bg-gray-100 transition-colors group select-none">
+                                        <div class="flex items-center justify-center gap-1 text-sm font-bold text-gray-600 uppercase tracking-wide">
+                                            <span x-text="playerData?.position === 'GK' ? '零封率' : '场均进球'"></span>
+                                            <span class="sort-icon" :class="{'sort-active': sortCol === 'gpg_val', 'sort-asc': sortAsc, 'sort-desc': !sortAsc}"></span>
+                                        </div>
+                                    </th>
+
+                                    <th @click="sort('win_rate')" class="px-4 py-4 text-right cursor-pointer hover:bg-gray-100 transition-colors group select-none">
+                                        <div class="flex items-center justify-end gap-1 text-sm font-bold text-gray-600 uppercase tracking-wide">
+                                            出场胜率
+                                            <span class="sort-icon" :class="{'sort-active': sortCol === 'win_rate', 'sort-asc': sortAsc, 'sort-desc': !sortAsc}"></span>
+                                        </div>
+                                    </th>
                                 </tr>
-                            </template>
-                        </tbody>
-                    </table>
+                            </thead>
+                            <tbody class="divide-y divide-gray-100">
+                                <template x-for="stat in sortedYearlyStats" :key="stat.year">
+                                    <tr class="hover:bg-blue-50/30 transition-colors group cursor-default">
+                                        <td class="px-4 py-4">
+                                            <div class="font-black text-gray-900 tabular-nums text-base" x-text="stat.year"></div>
+                                        </td>
+                                        
+                                        <td class="px-4 py-4">
+                                            <div class="font-bold text-gray-600 text-sm" x-text="stat.team"></div>
+                                        </td>
+
+                                        <td class="px-2 py-4 text-center bg-blue-50/10 group-hover:bg-blue-50/50">
+                                            <span class="text-lg font-black text-gray-900 tabular-nums" x-text="stat.apps"></span>
+                                        </td>
+
+                                        <td class="px-2 py-4 text-center bg-blue-50/10 group-hover:bg-blue-50/50">
+                                            <span class="text-lg font-black tabular-nums" 
+                                                  :class="(playerData?.position === 'GK' ? stat.clean_sheets : stat.goals) > 0 ? (playerData?.position === 'GK' ? 'text-emerald-600' : 'text-blue-600') : 'text-gray-300'" 
+                                                  x-text="playerData?.position === 'GK' ? (stat.clean_sheets || 0) : stat.goals"></span>
+                                        </td>
+
+                                        <td class="px-2 py-4 text-center hidden md:table-cell border-l border-r border-dashed border-gray-100">
+                                            <div class="flex items-center justify-center gap-4">
+                                                <span class="font-bold text-gray-800 tabular-nums text-base" x-text="stat.league_apps_display"></span>
+                                                <span class="text-[11px] text-gray-400 font-bold bg-gray-50 px-1.5 py-0.5 rounded" 
+                                                      x-show="stat.league_apps_display !== '-'" 
+                                                      x-text="stat.league_goals_display + (playerData?.position === 'GK' ? '零' : '球')"></span>
+                                            </div>
+                                        </td>
+                                        
+                                        <td class="px-2 py-4 text-center hidden md:table-cell border-r border-dashed border-gray-100">
+                                            <div class="flex items-center justify-center gap-4">
+                                                <span class="font-bold text-gray-800 tabular-nums text-base" x-text="stat.cup_apps_display"></span>
+                                                <span class="text-[11px] text-gray-400 font-bold bg-gray-50 px-1.5 py-0.5 rounded" 
+                                                      x-show="stat.cup_apps_display !== '-'" 
+                                                      x-text="stat.cup_goals_display + (playerData?.position === 'GK' ? '零' : '球')"></span>
+                                            </div>
+                                        </td>
+
+                                        <td class="px-4 py-4 text-center">
+                                            <div class="inline-block bg-gray-100 rounded px-2 py-1 min-w-[3rem]">
+                                                <span class="font-black tabular-nums text-sm" 
+                                                      :class="playerData?.position === 'GK' ? 'text-emerald-600' : 'text-blue-600'"
+                                                      x-text="playerData?.position === 'GK' ? (stat.cs_rate + '%') : stat.gpg"></span>
+                                            </div>
+                                        </td>
+
+                                        <td class="px-4 py-4 text-right">
+                                            <div class="flex flex-col items-end gap-1">
+                                                <span class="text-xs font-bold text-gray-500 tabular-nums" x-text="stat.win_rate + '%'"></span>
+                                                <div class="w-24 h-1.5 bg-gray-100 rounded-full overflow-hidden">
+                                                    <div class="h-full bg-blue-500 rounded-full" :style="'width: ' + stat.win_rate + '%'"></div>
+                                                </div>
+                                            </div>
+                                        </td>
+                                    </tr>
+                                </template>
+                            </tbody>
+                        </table>
+                    </div>
+                </div>
+            </div>
+
+            <div class="flex items-center justify-center p-6 bg-gray-50 rounded-2xl border border-dashed border-gray-200 mb-12">
+                <div class="text-center">
+                    <div class="text-2xl mb-2">⚽️</div>
+                    <div class="text-sm font-bold text-gray-400">天津足球数据中心</div>
+                    <div class="text-xs text-gray-400 mt-1">数据持续更新中</div>
                 </div>
             </div>
 
         </div>
     </main>
 
-    <footer class="flex-none w-full py-8 mt-auto border-t border-gray-200 bg-white">
+    <footer class="flex-none w-full py-8 mt-auto border-t border-gray-200 bg-white relative z-10">
         <div class="flex justify-center items-center">
             <span class="text-xs font-medium text-gray-400 tracking-wide font-[Inter]">Copyright © 天津足球大数据精神病院</span>
         </div>
@@ -229,17 +402,16 @@
                 isLoading: true,
                 playerData: null,
                 years: Array.from({length: 2025 - 1994 + 1}, (_, i) => 2025 - i),
-                
-                // 搜索相关
                 searchQuery: '',
                 searchResults: [],
                 playerMap: {},
+                
+                sortCol: 'year',
+                sortAsc: false, 
 
                 async initProfile() {
-                    // 1. 初始化滑动交互
                     this.initInteractions();
                     
-                    // 2. 加载搜索用的球员名单 (复用)
                     try {
                         const resp = await fetch('data/player_data.json');
                         if(resp.ok) {
@@ -247,79 +419,199 @@
                             const list = Array.isArray(pData) ? pData : (pData.data || []);
                             list.forEach(p => this.playerMap[p.id || p.Player_ID] = p.name || p.Chinese_Name);
                         }
-                    } catch(e) { console.error("Search index load failed", e); }
+                    } catch(e) { console.error("Index load failed", e); }
 
-                    // === 核心逻辑：读取加密的 URL 参数 ===
                     const urlParams = new URLSearchParams(window.location.search);
-                    
-                    // 获取加密的 key
                     const encodedId = urlParams.get('key'); 
                     let playerId = null;
+                    if (encodedId) { try { playerId = atob(encodedId); } catch (e) {} } 
+                    else { playerId = urlParams.get('id'); }
 
-                    // 尝试解密
-                    if (encodedId) {
-                        try {
-                            playerId = atob(encodedId); // Base64 解密
-                        } catch (e) {
-                            console.error("ID 解析错误");
-                        }
-                    } else {
-                        // 兼容旧版链接
-                        playerId = urlParams.get('id');
-                    }
+                    if (!playerId) { this.isLoading = false; return; }
 
-                    if (!playerId) {
-                        this.isLoading = false;
-                        return;
-                    }
-
-                    // 3. 加载数据
                     const jsonPath = `data/players/${playerId}.json`; 
-                    
                     try {
                         const response = await fetch(jsonPath);
-                        if (!response.ok) {
-                            this.playerData = this.getPlaceholderData(playerId);
-                        } else {
-                            this.playerData = await response.json();
-                        }
+                        if (!response.ok) throw new Error("File not found");
+                        let rawData = await response.json();
+                        
+                        // 🔥 核心逻辑：数据预处理
+                        this.playerData = this.processYearlyStats(rawData);
+
+                        if (!this.playerData.honors) this.playerData.honors = [];
+
                     } catch (error) {
-                        console.error('Error loading player data:', error);
+                        console.error('Data load error:', error);
                         this.playerData = this.getPlaceholderData(playerId);
                     } finally {
                         this.isLoading = false;
                     }
                 },
 
-                // 搜索功能
-                performSearch() {
-                    if (this.searchQuery.length < 1) {
-                        this.searchResults = [];
-                        return;
+                // === 智能数据清洗与分类 ===
+                processYearlyStats(data) {
+                    const LEAGUES = ['中超', '甲A', '甲B', '中甲'];
+                    const CUPS = ['足协杯', '中超杯', '超级杯', '亚冠'];
+
+                    // 补丁：如果历年数据里没有详情，但是是单赛季，尝试借用career_summary的详情
+                    if (data.yearly_stats && data.yearly_stats.length === 1 && 
+                        (!data.yearly_stats[0].competitions) && 
+                        (data.career_summary && data.career_summary.competitions)) {
+                        data.yearly_stats[0].competitions = data.career_summary.competitions;
                     }
-                    const query = this.searchQuery.toLowerCase();
-                    this.searchResults = Object.entries(this.playerMap)
-                        .map(([id, name]) => ({ id, name }))
-                        .filter(p => p.name.includes(query) || p.id.toLowerCase().includes(query))
-                        .slice(0, 10);
+
+                    if (data.yearly_stats) {
+                        data.yearly_stats.forEach(stat => {
+                            let l_apps = 0, l_goals = 0, l_cs = 0;
+                            let c_apps = 0, c_goals = 0, c_cs = 0;
+                            let hasDetail = false;
+
+                            if (stat.competitions && Array.isArray(stat.competitions)) {
+                                hasDetail = true;
+                                stat.competitions.forEach(c => {
+                                    if (LEAGUES.some(k => c.name.includes(k))) {
+                                        l_apps += c.apps || 0;
+                                        l_goals += c.goals || 0;
+                                        l_cs += c.clean_sheets || 0;
+                                    } else if (CUPS.some(k => c.name.includes(k))) {
+                                        c_apps += c.apps || 0;
+                                        c_goals += c.goals || 0;
+                                        c_cs += c.clean_sheets || 0;
+                                    }
+                                });
+                            } 
+                            // 兼容旧逻辑
+                            else {
+                                if(stat.league_apps !== undefined) { l_apps = stat.league_apps; l_goals = stat.league_goals || 0; hasDetail = true; }
+                                if(stat.cup_apps !== undefined) { c_apps = stat.cup_apps; c_goals = stat.cup_goals || 0; hasDetail = true; }
+                            }
+
+                            // 设置显示值
+                            stat.league_apps_display = hasDetail ? l_apps : '-';
+                            stat.league_goals_display = hasDetail ? (data.position === 'GK' ? l_cs : l_goals) : 0;
+                            
+                            stat.cup_apps_display = hasDetail ? c_apps : '-';
+                            stat.cup_goals_display = hasDetail ? (data.position === 'GK' ? c_cs : c_goals) : 0;
+
+                            // 确保 clean_sheets 有默认值
+                            if (stat.clean_sheets === undefined) stat.clean_sheets = 0;
+
+                            // 计算场均效率
+                            if (stat.apps > 0) {
+                                stat.gpg = (stat.goals / stat.apps).toFixed(2);
+                                stat.gpg_val = stat.goals / stat.apps; 
+                                stat.cs_rate = stat.clean_sheets ? ((stat.clean_sheets / stat.apps) * 100).toFixed(0) : 0;
+                            } else {
+                                stat.gpg = "0.00";
+                                stat.gpg_val = 0;
+                                stat.cs_rate = "0";
+                            }
+                        });
+                    }
+                    return data;
                 },
 
-                // 时间轴跳转逻辑：跳转到 index.html 并带上年份参数
-                handleYearClick(year) {
-                    if (year) {
-                        window.location.href = `index.html?year=${year}`;
+                getCompetitionType(name) {
+                    if (!name) return '赛事';
+                    if (['中超', '甲A', '甲B', '中甲'].some(k => name.includes(k))) return '联赛';
+                    if (['足协杯', '中超杯', '超级杯', '亚冠'].some(k => name.includes(k))) return '杯赛';
+                    return '其他赛事';
+                },
+
+                sort(col) {
+                    if (this.sortCol === col) { this.sortAsc = !this.sortAsc; } 
+                    else { this.sortCol = col; this.sortAsc = false; }
+                },
+
+                get sortedYearlyStats() {
+                    if (!this.playerData || !this.playerData.yearly_stats) return [];
+                    return this.playerData.yearly_stats.slice().sort((a, b) => {
+                        let valA = a[this.sortCol];
+                        let valB = b[this.sortCol];
+                        if (this.sortCol !== 'team') { valA = Number(valA) || 0; valB = Number(valB) || 0; }
+                        if (valA < valB) return this.sortAsc ? -1 : 1;
+                        if (valA > valB) return this.sortAsc ? 1 : -1;
+                        return 0;
+                    });
+                },
+
+                getLeagueLogo(name) {
+                    if (!name) return 'images/league/default.png';
+                    let cleanName = name;
+                    if (name.includes('甲A')) cleanName = '甲A';
+                    else if (name.includes('中超')) cleanName = '中超';
+                    else if (name.includes('甲B')) cleanName = '甲B';
+                    else if (name.includes('中甲')) cleanName = '中甲';
+                    else if (name.includes('足协杯')) cleanName = '足协杯';
+                    else if (name.includes('亚冠')) cleanName = '亚冠';
+                    if (name.includes('中超杯')) cleanName = '中超杯';
+                    if (name.includes('超级杯')) cleanName = '超级杯';
+                    return `images/league/${cleanName}.png`;
+                },
+
+                getPositionFullName(pos) {
+                    const map = { 'FW': '前锋', 'MF': '中场', 'DF': '后卫', 'GK': '门将' };
+                    return map[pos] || pos || '未知';
+                },
+
+                getPeakSeason() {
+                    if (!this.playerData || !this.playerData.yearly_stats || this.playerData.yearly_stats.length === 0) {
+                        return { year: '-', desc: '暂无数据' };
+                    }
+                    const stats = this.playerData.yearly_stats;
+                    const isAttacker = ['FW', 'MF'].includes(this.playerData.position);
+                    let best;
+                    if (isAttacker) {
+                        best = stats.reduce((prev, current) => (prev.goals > current.goals) ? prev : current);
+                        if (best.goals === 0) {
+                            best = stats.reduce((prev, current) => (prev.apps > current.apps) ? prev : current);
+                            return { year: best.year, desc: `核心主力 ${best.apps} 场` };
+                        }
+                        return { year: best.year, desc: `${best.goals} 进球 / ${best.apps} 场` };
                     } else {
-                        window.location.href = `index.html`;
+                        best = stats.reduce((prev, current) => (prev.apps > current.apps) ? prev : current);
+                        return { year: best.year, desc: `后防中坚 ${best.apps} 场` };
                     }
                 },
 
-                // 交互：判断该球员某年是否效力 (高亮小圆点)
-                isPlayerActiveYear(year) {
-                    if (!this.playerData || !this.playerData.yearly_stats) return false;
-                    return this.playerData.yearly_stats.some(s => s.year == year);
+                getMainCompetitions() {
+                    // 逻辑优化：如果 summary 里没有详细 competitions，则从 yearly_stats 聚合
+                    if (this.playerData?.career_summary?.competitions && this.playerData.career_summary.competitions.length > 0) {
+                        return this.playerData.career_summary.competitions;
+                    }
+                    
+                    // 自动聚合逻辑
+                    const agg = {};
+                    const stats = this.playerData?.yearly_stats || [];
+                    
+                    stats.forEach(year => {
+                        if (year.competitions) {
+                            year.competitions.forEach(c => {
+                                const name = c.name; 
+                                if (!agg[name]) {
+                                    agg[name] = { name: name, apps: 0, goals: 0, wins: 0, clean_sheets: 0 };
+                                }
+                                agg[name].apps += (c.apps || 0);
+                                agg[name].goals += (c.goals || 0);
+                                agg[name].wins += (c.wins || 0);
+                                agg[name].clean_sheets += (c.clean_sheets || 0);
+                            });
+                        }
+                    });
+                    
+                    const result = Object.values(agg).sort((a,b) => b.apps - a.apps);
+                    if (result.length > 0) return result;
+
+                    return [{ name: "联赛总计", apps: this.playerData?.career_summary?.total_apps || 0, goals: this.playerData?.career_summary?.total_goals || 0, wins: this.playerData?.career_summary?.total_wins || 0 }];
                 },
 
-                // 交互：滑动
+                performSearch() {
+                    if (this.searchQuery.length < 1) { this.searchResults = []; return; }
+                    const q = this.searchQuery.toLowerCase();
+                    this.searchResults = Object.entries(this.playerMap).map(([id, name]) => ({ id, name })).filter(p => p.name.includes(q) || p.id.toLowerCase().includes(q)).slice(0, 10);
+                },
+                handleYearClick(year) { window.location.href = year ? `index.html?year=${year}` : `index.html`; },
+                isPlayerActiveYear(year) { return this.playerData?.yearly_stats?.some(s => s.year == year); },
                 initInteractions() {
                     const slider = document.getElementById('timeline-scroll');
                     if (!slider) return;
@@ -329,32 +621,9 @@
                     slider.addEventListener('mouseup', () => { isDown = false; slider.classList.remove('cursor-grabbing'); });
                     slider.addEventListener('mousemove', (e) => { if (!isDown) return; e.preventDefault(); const x = e.pageX - slider.offsetLeft; const walk = (x - startX) * 2; slider.scrollLeft = scrollLeft - walk; });
                 },
-
-                // 兜底数据
                 getPlaceholderData(id) {
                     const urlParams = new URLSearchParams(window.location.search);
-                    const nameFromUrl = urlParams.get('name');
-                    return {
-                        id: id,
-                        name: nameFromUrl || "数据收录中...",
-                        english_name: "TBD",
-                        headshot: "images/players/default.jpg",
-                        position: "-",
-                        number: "-",
-                        birthday: "-",
-                        origin: "-",
-                        short_description: "该球员的详细档案正在整理录入中，请稍后访问。",
-                        career_summary: {
-                            total_apps: 0,
-                            total_goals: 0,
-                            total_wins: 0,
-                            win_rate: 0,
-                            active_years: "-",
-                            total_clean_sheets: 0,
-                            clean_sheet_rate: 0
-                        },
-                        yearly_stats: []
-                    };
+                    return { id: id, name: urlParams.get('name') || "数据收录中...", english_name: "TBD", headshot: "images/players/default.jpg", position: "-", number: "-", birthday: "-", origin: "-", short_description: "该球员的详细档案正在整理录入中。", career_summary: { total_apps: 0, total_goals: 0, win_rate: 0, goals_per_game: 0 }, yearly_stats: [], honors: [] };
                 }
             }
         }
