@@ -1,0 +1,185 @@
+{
+  "id": "P0007",
+  "name": "施连志",
+  "english_name": "Shi Lianzhi",
+  "birthday": "1964-06-03",
+  "position": "GK",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 78,
+    "total_goals": 0,
+    "total_wins": 26,
+    "total_clean_sheets": 27,
+    "win_rate": 33.3,
+    "clean_sheet_rate": 34.6,
+    "goals_per_game": 0.0,
+    "active_years": "1994 - 1998"
+  },
+  "yearly_stats": [
+    {
+      "year": 1994,
+      "team": "天津",
+      "apps": 8,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 50.0,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 62.5,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 8,
+          "goals": 0,
+          "wins": 4,
+          "win_rate": 50.0,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 62.5,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "team": "天津三星",
+      "apps": 10,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 30.0,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 30.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 8,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 37.5,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 37.5,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 20,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 30.0,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 16,
+          "goals": 0,
+          "wins": 4,
+          "win_rate": 25.0,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 26,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 23.1,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 30.8,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 22,
+          "goals": 0,
+          "wins": 5,
+          "win_rate": 22.7,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 31.8,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 25.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 0,
+      "wins": 7,
+      "win_rate": 50.0,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 42.9,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 12,
+          "goals": 0,
+          "wins": 7,
+          "win_rate": 58.3,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

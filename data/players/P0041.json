@@ -1,0 +1,63 @@
+{
+  "id": "P0041",
+  "name": "佐拉",
+  "english_name": "Kiniambi Zola Aloyi",
+  "birthday": "1970-06-26",
+  "position": "FW",
+  "origin": "民主刚果",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 22,
+    "total_goals": 14,
+    "total_wins": 11,
+    "total_clean_sheets": 6,
+    "win_rate": 50.0,
+    "clean_sheet_rate": 27.3,
+    "goals_per_game": 0.64,
+    "active_years": "1998 - 1998"
+  },
+  "yearly_stats": [
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 14,
+      "wins": 11,
+      "win_rate": 50.0,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 27.3,
+      "goals_per_game": 0.64,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 19,
+          "goals": 12,
+          "wins": 10,
+          "win_rate": 52.6,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 31.6,
+          "goals_per_game": 0.63
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 2,
+          "wins": 1,
+          "win_rate": 33.3,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.67
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

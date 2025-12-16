@@ -1,0 +1,221 @@
+{
+  "id": "P0018",
+  "name": "高玉勇",
+  "english_name": "Gao Yuyong",
+  "birthday": "1969-02-19",
+  "position": "DF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 81,
+    "total_goals": 2,
+    "total_wins": 29,
+    "total_clean_sheets": 24,
+    "win_rate": 35.8,
+    "clean_sheet_rate": 29.6,
+    "goals_per_game": 0.02,
+    "active_years": "1994 - 2003"
+  },
+  "yearly_stats": [
+    {
+      "year": 1994,
+      "team": "天津",
+      "apps": 3,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 100.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 33.3,
+      "goals_per_game": 0.33,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 3,
+          "goals": 1,
+          "wins": 3,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.33
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "team": "天津三星",
+      "apps": 22,
+      "goals": 0,
+      "wins": 8,
+      "win_rate": 36.4,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 22.7,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 20,
+          "goals": 0,
+          "wins": 8,
+          "win_rate": 40.0,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 2,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 17,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 23.5,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 23.5,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 14,
+          "goals": 0,
+          "wins": 4,
+          "win_rate": 28.6,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 21,
+      "goals": 0,
+      "wins": 10,
+      "win_rate": 47.6,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 38.1,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 20,
+          "goals": 0,
+          "wins": 9,
+          "win_rate": 45.0,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 40.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 11,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 18.2,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 27.3,
+      "goals_per_game": 0.09,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 11,
+          "goals": 1,
+          "wins": 2,
+          "win_rate": 18.2,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 27.3,
+          "goals_per_game": 0.09
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 5,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 40.0,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 60.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 5,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 40.0,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 60.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

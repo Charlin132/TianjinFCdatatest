@@ -1,0 +1,350 @@
+{
+  "id": "P0086",
+  "name": "韩燕鸣",
+  "english_name": "Han Yanming",
+  "birthday": "1982-10-26",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 192,
+    "total_goals": 25,
+    "total_wins": 78,
+    "total_clean_sheets": 60,
+    "win_rate": 40.6,
+    "clean_sheet_rate": 31.2,
+    "goals_per_game": 0.13,
+    "active_years": "2001 - 2011"
+  },
+  "yearly_stats": [
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 3,
+      "wins": 6,
+      "win_rate": 60.0,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 30.0,
+      "goals_per_game": 0.3,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 8,
+          "goals": 3,
+          "wins": 5,
+          "win_rate": 62.5,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 37.5,
+          "goals_per_game": 0.38
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 2,
+      "wins": 9,
+      "win_rate": 40.9,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 22.7,
+      "goals_per_game": 0.09,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 20,
+          "goals": 2,
+          "wins": 7,
+          "win_rate": 35.0,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.1
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 1,
+      "wins": 5,
+      "win_rate": 25.0,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 30.0,
+      "goals_per_game": 0.05,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 19,
+          "goals": 1,
+          "wins": 5,
+          "win_rate": 26.3,
+          "clean_sheets": 6,
+          "clean_sheet_rate": 31.6,
+          "goals_per_game": 0.05
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2004,
+      "team": "天津泰达",
+      "apps": 16,
+      "goals": 5,
+      "wins": 5,
+      "win_rate": 31.2,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 31.2,
+      "goals_per_game": 0.31,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 10,
+          "goals": 2,
+          "wins": 2,
+          "win_rate": 20.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 20.0,
+          "goals_per_game": 0.2
+        },
+        {
+          "name": "中超杯",
+          "apps": 5,
+          "goals": 3,
+          "wins": 3,
+          "win_rate": 60.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 40.0,
+          "goals_per_game": 0.6
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2005,
+      "team": "天津泰达",
+      "apps": 25,
+      "goals": 2,
+      "wins": 13,
+      "win_rate": 52.0,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 24.0,
+      "goals_per_game": 0.08,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 22,
+          "goals": 2,
+          "wins": 12,
+          "win_rate": 54.5,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 22.7,
+          "goals_per_game": 0.09
+        },
+        {
+          "name": "中超杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2006,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 1,
+      "wins": 7,
+      "win_rate": 31.8,
+      "clean_sheets": 6,
+      "clean_sheet_rate": 27.3,
+      "goals_per_game": 0.05,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 19,
+          "goals": 1,
+          "wins": 6,
+          "win_rate": 31.6,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 26.3,
+          "goals_per_game": 0.05
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 33.3,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2007,
+      "team": "天津泰达",
+      "apps": 17,
+      "goals": 2,
+      "wins": 6,
+      "win_rate": 35.3,
+      "clean_sheets": 9,
+      "clean_sheet_rate": 52.9,
+      "goals_per_game": 0.12,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 17,
+          "goals": 2,
+          "wins": 6,
+          "win_rate": 35.3,
+          "clean_sheets": 9,
+          "clean_sheet_rate": 52.9,
+          "goals_per_game": 0.12
+        }
+      ]
+    },
+    {
+      "year": 2008,
+      "team": "天津泰达",
+      "apps": 25,
+      "goals": 2,
+      "wins": 13,
+      "win_rate": 52.0,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 32.0,
+      "goals_per_game": 0.08,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 25,
+          "goals": 2,
+          "wins": 13,
+          "win_rate": 52.0,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 32.0,
+          "goals_per_game": 0.08
+        }
+      ]
+    },
+    {
+      "year": 2009,
+      "team": "天津泰达",
+      "apps": 29,
+      "goals": 6,
+      "wins": 12,
+      "win_rate": 41.4,
+      "clean_sheets": 11,
+      "clean_sheet_rate": 37.9,
+      "goals_per_game": 0.21,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 24,
+          "goals": 6,
+          "wins": 10,
+          "win_rate": 41.7,
+          "clean_sheets": 10,
+          "clean_sheet_rate": 41.7,
+          "goals_per_game": 0.25
+        },
+        {
+          "name": "亚冠",
+          "apps": 5,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 40.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 20.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2011,
+      "team": "天津泰达",
+      "apps": 6,
+      "goals": 1,
+      "wins": 2,
+      "win_rate": 33.3,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 16.7,
+      "goals_per_game": 0.17,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 6,
+          "goals": 1,
+          "wins": 2,
+          "win_rate": 33.3,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 16.7,
+          "goals_per_game": 0.17
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

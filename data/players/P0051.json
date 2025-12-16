@@ -1,0 +1,63 @@
+{
+  "id": "P0051",
+  "name": "郝海涛",
+  "english_name": "Hao Haitao",
+  "birthday": "1968-12-03",
+  "position": "DF",
+  "origin": "山东青岛",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 12,
+    "total_goals": 0,
+    "total_wins": 5,
+    "total_clean_sheets": 5,
+    "win_rate": 41.7,
+    "clean_sheet_rate": 41.7,
+    "goals_per_game": 0.0,
+    "active_years": "1998 - 1998"
+  },
+  "yearly_stats": [
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 12,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 41.7,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 41.7,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 9,
+          "goals": 0,
+          "wins": 4,
+          "win_rate": 44.4,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 55.6,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 33.3,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

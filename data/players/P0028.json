@@ -1,0 +1,129 @@
+{
+  "id": "P0028",
+  "name": "奥斯瓦尔多",
+  "english_name": "Osvaldo Kosinski",
+  "birthday": "1968-10-16",
+  "position": "DF",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 74,
+    "total_goals": 3,
+    "total_wins": 25,
+    "total_clean_sheets": 24,
+    "win_rate": 33.8,
+    "clean_sheet_rate": 32.4,
+    "goals_per_game": 0.04,
+    "active_years": "1996 - 1998"
+  },
+  "yearly_stats": [
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 24,
+      "goals": 1,
+      "wins": 8,
+      "win_rate": 33.3,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 33.3,
+      "goals_per_game": 0.04,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 20,
+          "goals": 1,
+          "wins": 6,
+          "win_rate": 30.0,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 35.0,
+          "goals_per_game": 0.05
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1997,
+      "team": "天津立飞三星",
+      "apps": 26,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 23.1,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 30.8,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 22,
+          "goals": 0,
+          "wins": 5,
+          "win_rate": 22.7,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 31.8,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 25.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 24,
+      "goals": 2,
+      "wins": 11,
+      "win_rate": 45.8,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 33.3,
+      "goals_per_game": 0.08,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 21,
+          "goals": 2,
+          "wins": 10,
+          "win_rate": 47.6,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 38.1,
+          "goals_per_game": 0.1
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 33.3,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

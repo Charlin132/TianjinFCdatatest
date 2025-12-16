@@ -1,0 +1,53 @@
+{
+  "id": "P0052",
+  "name": "雷莫斯",
+  "english_name": "Rodrigo Javier Lemos Rosende",
+  "birthday": "1973-10-03",
+  "position": "MF",
+  "origin": "乌拉圭",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 11,
+    "total_goals": 4,
+    "total_wins": 5,
+    "total_clean_sheets": 4,
+    "win_rate": 45.5,
+    "clean_sheet_rate": 36.4,
+    "goals_per_game": 0.36,
+    "active_years": "1998 - 1998"
+  },
+  "yearly_stats": [
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 11,
+      "goals": 4,
+      "wins": 5,
+      "win_rate": 45.5,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 36.4,
+      "goals_per_game": 0.36,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 11,
+          "goals": 4,
+          "wins": 5,
+          "win_rate": 45.5,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 36.4,
+          "goals_per_game": 0.36
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "P0054",
+  "name": "何塞·奥蒂斯",
+  "english_name": "Jose Luis Ortiz Soliz",
+  "birthday": "1972-12-18",
+  "position": "FW",
+  "origin": "玻利维亚",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 14,
+    "total_goals": 3,
+    "total_wins": 3,
+    "total_clean_sheets": 5,
+    "win_rate": 21.4,
+    "clean_sheet_rate": 35.7,
+    "goals_per_game": 0.21,
+    "active_years": "1999 - 1999"
+  },
+  "yearly_stats": [
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 14,
+      "goals": 3,
+      "wins": 3,
+      "win_rate": 21.4,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 35.7,
+      "goals_per_game": 0.21,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 13,
+          "goals": 3,
+          "wins": 3,
+          "win_rate": 23.1,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 38.5,
+          "goals_per_game": 0.23
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

@@ -1,0 +1,63 @@
+{
+  "id": "P0059",
+  "name": "孙治",
+  "english_name": "Sun Zhi",
+  "birthday": "1977-04-19",
+  "position": "FW",
+  "origin": "辽宁大连",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 9,
+    "total_goals": 0,
+    "total_wins": 3,
+    "total_clean_sheets": 1,
+    "win_rate": 33.3,
+    "clean_sheet_rate": 11.1,
+    "goals_per_game": 0.0,
+    "active_years": "1999 - 1999"
+  },
+  "yearly_stats": [
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 9,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 33.3,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 11.1,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 7,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 42.9,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 14.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

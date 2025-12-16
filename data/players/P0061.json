@@ -1,0 +1,53 @@
+{
+  "id": "P0061",
+  "name": "拉乌尔",
+  "english_name": "Raul Eduardo Falero Robles",
+  "birthday": "1968-03-25",
+  "position": "FW",
+  "origin": "乌拉圭",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 7,
+    "total_goals": 0,
+    "total_wins": 2,
+    "total_clean_sheets": 1,
+    "win_rate": 28.6,
+    "clean_sheet_rate": 14.3,
+    "goals_per_game": 0.0,
+    "active_years": "1999 - 1999"
+  },
+  "yearly_stats": [
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 7,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 28.6,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 14.3,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 7,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 28.6,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 14.3,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

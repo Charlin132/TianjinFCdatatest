@@ -1,0 +1,63 @@
+{
+  "id": "P0029",
+  "name": "斯拉瓦",
+  "english_name": "Vyacheslav Petrovich Karpeev",
+  "birthday": "1966-02-23",
+  "position": "DF",
+  "origin": "俄罗斯",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 5,
+    "total_goals": 0,
+    "total_wins": 1,
+    "total_clean_sheets": 2,
+    "win_rate": 20.0,
+    "clean_sheet_rate": 40.0,
+    "goals_per_game": 0.0,
+    "active_years": "1996 - 1996"
+  },
+  "yearly_stats": [
+    {
+      "year": 1996,
+      "team": "天津三星",
+      "apps": 5,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 20.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 40.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 4,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

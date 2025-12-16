@@ -1,0 +1,63 @@
+{
+  "id": "P0090",
+  "name": "塞萨罗",
+  "english_name": "Fabian Andres Cesaro Fanchetti",
+  "birthday": "1973-05-07",
+  "position": "MF",
+  "origin": "乌拉圭",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 27,
+    "total_goals": 5,
+    "total_wins": 11,
+    "total_clean_sheets": 8,
+    "win_rate": 40.7,
+    "clean_sheet_rate": 29.6,
+    "goals_per_game": 0.19,
+    "active_years": "2002 - 2002"
+  },
+  "yearly_stats": [
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 5,
+      "wins": 11,
+      "win_rate": 40.7,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 29.6,
+      "goals_per_game": 0.19,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 24,
+          "goals": 5,
+          "wins": 9,
+          "win_rate": 37.5,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.21
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 66.7,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

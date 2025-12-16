@@ -1,0 +1,53 @@
+{
+  "id": "P0084",
+  "name": "阿雷汉德罗",
+  "english_name": "Alejandro Javier Larrea Marzol",
+  "birthday": "1966-12-05",
+  "position": "MF",
+  "origin": "乌拉圭",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 2,
+    "total_goals": 0,
+    "total_wins": 1,
+    "total_clean_sheets": 0,
+    "win_rate": 50.0,
+    "clean_sheet_rate": 0.0,
+    "goals_per_game": 0.0,
+    "active_years": "2001 - 2001"
+  },
+  "yearly_stats": [
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 2,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 50.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

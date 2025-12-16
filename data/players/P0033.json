@@ -1,0 +1,37 @@
+{
+  "id": "P0033",
+  "name": "鲍比",
+  "english_name": "Javier Alejandro Espinola",
+  "birthday": "1972.12.16",
+  "position": "Player",
+  "origin": "巴拉圭",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 12,
+    "total_goals": 2,
+    "total_wins": 4,
+    "win_rate": 33.3,
+    "active_years": "1997 - 1997",
+    "goals_per_game": 0.17
+  },
+  "yearly_stats": [
+    {
+      "year": 1997,
+      "team": "天津津门虎",
+      "apps": 12,
+      "goals": 2,
+      "wins": 4,
+      "win_rate": 33.3,
+      "goals_per_game": 0.17
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

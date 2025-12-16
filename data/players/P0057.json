@@ -1,0 +1,86 @@
+{
+  "id": "P0057",
+  "name": "吕军",
+  "english_name": "Lyu Jun",
+  "birthday": "1968-01-09",
+  "position": "DF",
+  "origin": "北京",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 22,
+    "total_goals": 0,
+    "total_wins": 6,
+    "total_clean_sheets": 5,
+    "win_rate": 27.3,
+    "clean_sheet_rate": 22.7,
+    "goals_per_game": 0.0,
+    "active_years": "1999 - 2000"
+  },
+  "yearly_stats": [
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 21,
+      "goals": 0,
+      "wins": 6,
+      "win_rate": 28.6,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 23.8,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 20,
+          "goals": 0,
+          "wins": 6,
+          "win_rate": 30.0,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "team": "天津泰达",
+      "apps": 1,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

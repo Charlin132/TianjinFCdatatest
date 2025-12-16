@@ -1,0 +1,53 @@
+{
+  "id": "P0099",
+  "name": "埃莫森·菲尔米诺",
+  "english_name": "Emerson Luiz Firmino",
+  "birthday": "1973-07-28",
+  "position": "FW",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 8,
+    "total_goals": 0,
+    "total_wins": 3,
+    "total_clean_sheets": 4,
+    "win_rate": 37.5,
+    "clean_sheet_rate": 50.0,
+    "goals_per_game": 0.0,
+    "active_years": "2003 - 2003"
+  },
+  "yearly_stats": [
+    {
+      "year": 2003,
+      "team": "天津泰达",
+      "apps": 8,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 37.5,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 50.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 8,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 37.5,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

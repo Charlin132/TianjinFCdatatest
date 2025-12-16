@@ -1,0 +1,76 @@
+{
+  "id": "P0011",
+  "name": "王岩",
+  "english_name": "Wang Yan",
+  "birthday": "1967-12-17",
+  "position": "FW",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 8,
+    "total_goals": 1,
+    "total_wins": 3,
+    "total_clean_sheets": 2,
+    "win_rate": 37.5,
+    "clean_sheet_rate": 25.0,
+    "goals_per_game": 0.12,
+    "active_years": "1994 - 1995"
+  },
+  "yearly_stats": [
+    {
+      "year": 1994,
+      "team": "天津",
+      "apps": 5,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 60.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 40.0,
+      "goals_per_game": 0.2,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 5,
+          "goals": 1,
+          "wins": 3,
+          "win_rate": 60.0,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 40.0,
+          "goals_per_game": 0.2
+        }
+      ]
+    },
+    {
+      "year": 1995,
+      "team": "天津三星",
+      "apps": 3,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 0,
+      "clean_sheet_rate": 0.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 3,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

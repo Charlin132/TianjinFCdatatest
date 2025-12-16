@@ -1,0 +1,63 @@
+{
+  "id": "P0077",
+  "name": "埃利亚斯",
+  "english_name": "Claudio Marcelo Elias Artigas",
+  "birthday": "1974-09-23",
+  "position": "DF",
+  "origin": "乌拉圭",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 27,
+    "total_goals": 2,
+    "total_wins": 12,
+    "total_clean_sheets": 7,
+    "win_rate": 44.4,
+    "clean_sheet_rate": 25.9,
+    "goals_per_game": 0.07,
+    "active_years": "2001 - 2001"
+  },
+  "yearly_stats": [
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 27,
+      "goals": 2,
+      "wins": 12,
+      "win_rate": 44.4,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 25.9,
+      "goals_per_game": 0.07,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 23,
+          "goals": 2,
+          "wins": 9,
+          "win_rate": 39.1,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 30.4,
+          "goals_per_game": 0.09
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 75.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

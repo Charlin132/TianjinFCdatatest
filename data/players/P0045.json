@@ -1,0 +1,96 @@
+{
+  "id": "P0045",
+  "name": "朱艺",
+  "english_name": "Zhu Yi",
+  "birthday": "1976-07-04",
+  "position": "FW",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 9,
+    "total_goals": 0,
+    "total_wins": 3,
+    "total_clean_sheets": 2,
+    "win_rate": 33.3,
+    "clean_sheet_rate": 22.2,
+    "goals_per_game": 0.0,
+    "active_years": "1998 - 1999"
+  },
+  "yearly_stats": [
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 4,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 75.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 3,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 5,
+      "goals": 0,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 20.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 3,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

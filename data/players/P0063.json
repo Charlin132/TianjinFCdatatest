@@ -1,0 +1,76 @@
+{
+  "id": "P0063",
+  "name": "胡安·费雷里",
+  "english_name": "Juan Francisco Ferreri Samuel",
+  "birthday": "1970-07-13",
+  "position": "MF",
+  "origin": "乌拉圭",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 19,
+    "total_goals": 2,
+    "total_wins": 8,
+    "total_clean_sheets": 5,
+    "win_rate": 42.1,
+    "clean_sheet_rate": 26.3,
+    "goals_per_game": 0.11,
+    "active_years": "1999 - 2000"
+  },
+  "yearly_stats": [
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 12,
+      "goals": 2,
+      "wins": 5,
+      "win_rate": 41.7,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.17,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 12,
+          "goals": 2,
+          "wins": 5,
+          "win_rate": 41.7,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.17
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "team": "天津泰达",
+      "apps": 7,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 42.9,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 28.6,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 7,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 42.9,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

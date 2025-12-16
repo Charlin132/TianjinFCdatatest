@@ -1,0 +1,53 @@
+{
+  "id": "P0019",
+  "name": "高锋",
+  "english_name": "Gao Feng",
+  "birthday": "1975-04-09",
+  "position": "MF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 2,
+    "total_goals": 1,
+    "total_wins": 0,
+    "total_clean_sheets": 1,
+    "win_rate": 0.0,
+    "clean_sheet_rate": 50.0,
+    "goals_per_game": 0.5,
+    "active_years": "1994 - 1994"
+  },
+  "yearly_stats": [
+    {
+      "year": 1994,
+      "team": "天津",
+      "apps": 2,
+      "goals": 1,
+      "wins": 0,
+      "win_rate": 0.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 50.0,
+      "goals_per_game": 0.5,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 2,
+          "goals": 1,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.5
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

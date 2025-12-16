@@ -1,0 +1,96 @@
+{
+  "id": "P0088",
+  "name": "高峰",
+  "english_name": "Gao Feng",
+  "birthday": "1971-04-22",
+  "position": "FW",
+  "origin": "辽宁沈阳",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 30,
+    "total_goals": 4,
+    "total_wins": 12,
+    "total_clean_sheets": 6,
+    "win_rate": 40.0,
+    "clean_sheet_rate": 20.0,
+    "goals_per_game": 0.13,
+    "active_years": "2001 - 2002"
+  },
+  "yearly_stats": [
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 20,
+      "goals": 4,
+      "wins": 8,
+      "win_rate": 40.0,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 20.0,
+      "goals_per_game": 0.2,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 17,
+          "goals": 2,
+          "wins": 5,
+          "win_rate": 29.4,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 23.5,
+          "goals_per_game": 0.12
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 2,
+          "wins": 3,
+          "win_rate": 100.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.67
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 40.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 20.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 7,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 28.6,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 28.6,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 66.7,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

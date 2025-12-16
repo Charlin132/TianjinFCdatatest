@@ -1,0 +1,185 @@
+{
+  "id": "P0049",
+  "name": "田玉来",
+  "english_name": "Tian Yulai",
+  "birthday": "1973-04-01",
+  "position": "DF",
+  "origin": "天津",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 72,
+    "total_goals": 5,
+    "total_wins": 25,
+    "total_clean_sheets": 22,
+    "win_rate": 34.7,
+    "clean_sheet_rate": 30.6,
+    "goals_per_game": 0.07,
+    "active_years": "1998 - 2002"
+  },
+  "yearly_stats": [
+    {
+      "year": 1998,
+      "team": "天津泰达",
+      "apps": 10,
+      "goals": 0,
+      "wins": 5,
+      "win_rate": 50.0,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 40.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲B",
+          "apps": 9,
+          "goals": 0,
+          "wins": 5,
+          "win_rate": 55.6,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 44.4,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 1999,
+      "team": "天津泰达",
+      "apps": 15,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 20.0,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 33.3,
+      "goals_per_game": 0.07,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 14,
+          "goals": 1,
+          "wins": 3,
+          "win_rate": 21.4,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 35.7,
+          "goals_per_game": 0.07
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2000,
+      "team": "天津泰达",
+      "apps": 17,
+      "goals": 3,
+      "wins": 4,
+      "win_rate": 23.5,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 23.5,
+      "goals_per_game": 0.18,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 15,
+          "goals": 2,
+          "wins": 3,
+          "win_rate": 20.0,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 20.0,
+          "goals_per_game": 0.13
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 1,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.5
+        }
+      ]
+    },
+    {
+      "year": 2001,
+      "team": "天津泰达",
+      "apps": 22,
+      "goals": 1,
+      "wins": 10,
+      "win_rate": 45.5,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 22.7,
+      "goals_per_game": 0.05,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 18,
+          "goals": 1,
+          "wins": 7,
+          "win_rate": 38.9,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 27.8,
+          "goals_per_game": 0.06
+        },
+        {
+          "name": "足协杯",
+          "apps": 4,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 75.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2002,
+      "team": "天津泰达",
+      "apps": 8,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 37.5,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 50.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "甲A",
+          "apps": 8,
+          "goals": 0,
+          "wins": 3,
+          "win_rate": 37.5,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}
