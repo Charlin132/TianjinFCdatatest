@@ -1,0 +1,63 @@
+{
+  "id": "P0336",
+  "name": "常飞亚",
+  "english_name": "Chang Feiya",
+  "birthday": "1993-02-03",
+  "position": "MF",
+  "origin": "安徽蚌埠",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 11,
+    "total_goals": 0,
+    "total_wins": 4,
+    "total_clean_sheets": 4,
+    "win_rate": 36.4,
+    "clean_sheet_rate": 36.4,
+    "goals_per_game": 0.0,
+    "active_years": "2023 - 2023"
+  },
+  "yearly_stats": [
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 11,
+      "goals": 0,
+      "wins": 4,
+      "win_rate": 36.4,
+      "clean_sheets": 4,
+      "clean_sheet_rate": 36.4,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 10,
+          "goals": 0,
+          "wins": 4,
+          "win_rate": 40.0,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 30.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

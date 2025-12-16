@@ -1,0 +1,63 @@
+{
+  "id": "P0354",
+  "name": "基莱斯",
+  "english_name": "Alberto Quiles Piosa",
+  "birthday": "1995-04-27",
+  "position": "FW",
+  "origin": "西班牙",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 30,
+    "total_goals": 15,
+    "total_wins": 12,
+    "total_clean_sheets": 8,
+    "win_rate": 40.0,
+    "clean_sheet_rate": 26.7,
+    "goals_per_game": 0.5,
+    "active_years": "2025 - 2025"
+  },
+  "yearly_stats": [
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 30,
+      "goals": 15,
+      "wins": 12,
+      "win_rate": 40.0,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 26.7,
+      "goals_per_game": 0.5,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 29,
+          "goals": 15,
+          "wins": 12,
+          "win_rate": 41.4,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 27.6,
+          "goals_per_game": 0.52
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

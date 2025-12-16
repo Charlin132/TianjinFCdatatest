@@ -1,0 +1,53 @@
+{
+  "id": "P0318",
+  "name": "埃德尔",
+  "english_name": "Eder Luiz Lima de Souza",
+  "birthday": "1987-01-09",
+  "position": "FW",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 10,
+    "total_goals": 1,
+    "total_wins": 3,
+    "total_clean_sheets": 3,
+    "win_rate": 30.0,
+    "clean_sheet_rate": 30.0,
+    "goals_per_game": 0.1,
+    "active_years": "2022 - 2022"
+  },
+  "yearly_stats": [
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 10,
+      "goals": 1,
+      "wins": 3,
+      "win_rate": 30.0,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 30.0,
+      "goals_per_game": 0.1,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 10,
+          "goals": 1,
+          "wins": 3,
+          "win_rate": 30.0,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 30.0,
+          "goals_per_game": 0.1
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

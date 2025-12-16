@@ -1,0 +1,86 @@
+{
+  "id": "P0306",
+  "name": "李松益",
+  "english_name": "Li Songyi",
+  "birthday": "1993-01-27",
+  "position": "DF",
+  "origin": "江苏徐州",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 18,
+    "total_goals": 1,
+    "total_wins": 5,
+    "total_clean_sheets": 6,
+    "win_rate": 27.8,
+    "clean_sheet_rate": 33.3,
+    "goals_per_game": 0.06,
+    "active_years": "2021 - 2022"
+  },
+  "yearly_stats": [
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 17,
+      "goals": 1,
+      "wins": 4,
+      "win_rate": 23.5,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 29.4,
+      "goals_per_game": 0.06,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 16,
+          "goals": 1,
+          "wins": 4,
+          "win_rate": 25.0,
+          "clean_sheets": 5,
+          "clean_sheet_rate": 31.2,
+          "goals_per_game": 0.06
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 1,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 100.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 100.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

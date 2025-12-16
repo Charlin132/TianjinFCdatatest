@@ -1,0 +1,63 @@
+{
+  "id": "P0361",
+  "name": "萨尔瓦多",
+  "english_name": "Cristian Salvador Gonzalez",
+  "birthday": "1994-11-20",
+  "position": "MF",
+  "origin": "西班牙",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 25,
+    "total_goals": 1,
+    "total_wins": 11,
+    "total_clean_sheets": 7,
+    "win_rate": 44.0,
+    "clean_sheet_rate": 28.0,
+    "goals_per_game": 0.04,
+    "active_years": "2025 - 2025"
+  },
+  "yearly_stats": [
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 25,
+      "goals": 1,
+      "wins": 11,
+      "win_rate": 44.0,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 28.0,
+      "goals_per_game": 0.04,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 24,
+          "goals": 1,
+          "wins": 11,
+          "win_rate": 45.8,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 29.2,
+          "goals_per_game": 0.04
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

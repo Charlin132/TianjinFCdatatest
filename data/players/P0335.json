@@ -1,0 +1,63 @@
+{
+  "id": "P0335",
+  "name": "冷季轩",
+  "english_name": "Leng Jixuan",
+  "birthday": "2001-04-30",
+  "position": "FW",
+  "origin": "贵州六盘水",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 4,
+    "total_goals": 0,
+    "total_wins": 1,
+    "total_clean_sheets": 2,
+    "win_rate": 25.0,
+    "clean_sheet_rate": 50.0,
+    "goals_per_game": 0.0,
+    "active_years": "2023 - 2023"
+  },
+  "yearly_stats": [
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 4,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 25.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 50.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 3,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

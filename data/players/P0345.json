@@ -1,0 +1,63 @@
+{
+  "id": "P0345",
+  "name": "孔帕尼奥",
+  "english_name": "Andrea Compagno",
+  "birthday": "1996-04-22",
+  "position": "FW",
+  "origin": "意大利",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 29,
+    "total_goals": 19,
+    "total_wins": 12,
+    "total_clean_sheets": 8,
+    "win_rate": 41.4,
+    "clean_sheet_rate": 27.6,
+    "goals_per_game": 0.66,
+    "active_years": "2024 - 2024"
+  },
+  "yearly_stats": [
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 29,
+      "goals": 19,
+      "wins": 12,
+      "win_rate": 41.4,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 27.6,
+      "goals_per_game": 0.66,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 26,
+          "goals": 17,
+          "wins": 11,
+          "win_rate": 42.3,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 30.8,
+          "goals_per_game": 0.65
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 2,
+          "wins": 1,
+          "win_rate": 33.3,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.67
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

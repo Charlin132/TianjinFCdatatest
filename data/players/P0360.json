@@ -1,0 +1,53 @@
+{
+  "id": "P0360",
+  "name": "胡安·罗斯",
+  "english_name": "Juan Antonio Ros Martinez",
+  "birthday": "1996-03-15",
+  "position": "DF",
+  "origin": "西班牙",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 29,
+    "total_goals": 1,
+    "total_wins": 12,
+    "total_clean_sheets": 8,
+    "win_rate": 41.4,
+    "clean_sheet_rate": 27.6,
+    "goals_per_game": 0.03,
+    "active_years": "2025 - 2025"
+  },
+  "yearly_stats": [
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 29,
+      "goals": 1,
+      "wins": 12,
+      "win_rate": 41.4,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 27.6,
+      "goals_per_game": 0.03,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 29,
+          "goals": 1,
+          "wins": 12,
+          "win_rate": 41.4,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 27.6,
+          "goals_per_game": 0.03
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

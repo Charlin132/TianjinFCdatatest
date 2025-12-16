@@ -1,0 +1,96 @@
+{
+  "id": "P0344",
+  "name": "哈达斯",
+  "english_name": "Bruno Alexandre Vieira Almeida“Xadas”",
+  "birthday": "1997-12-02",
+  "position": "MF",
+  "origin": "葡萄牙",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 44,
+    "total_goals": 9,
+    "total_wins": 19,
+    "total_clean_sheets": 11,
+    "win_rate": 43.2,
+    "clean_sheet_rate": 25.0,
+    "goals_per_game": 0.2,
+    "active_years": "2024 - 2025"
+  },
+  "yearly_stats": [
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 14,
+      "goals": 2,
+      "wins": 7,
+      "win_rate": 50.0,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 21.4,
+      "goals_per_game": 0.14,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 12,
+          "goals": 2,
+          "wins": 6,
+          "win_rate": 50.0,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.17
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 30,
+      "goals": 7,
+      "wins": 12,
+      "win_rate": 40.0,
+      "clean_sheets": 8,
+      "clean_sheet_rate": 26.7,
+      "goals_per_game": 0.23,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 29,
+          "goals": 7,
+          "wins": 12,
+          "win_rate": 41.4,
+          "clean_sheets": 8,
+          "clean_sheet_rate": 27.6,
+          "goals_per_game": 0.24
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

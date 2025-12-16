@@ -1,0 +1,63 @@
+{
+  "id": "P0362",
+  "name": "阮杨",
+  "english_name": "Ruan Yang",
+  "birthday": "1993-12-13",
+  "position": "MF",
+  "origin": "浙江杭州",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 10,
+    "total_goals": 0,
+    "total_wins": 3,
+    "total_clean_sheets": 2,
+    "win_rate": 30.0,
+    "clean_sheet_rate": 20.0,
+    "goals_per_game": 0.0,
+    "active_years": "2025 - 2025"
+  },
+  "yearly_stats": [
+    {
+      "year": 2025,
+      "team": "天津津门虎",
+      "apps": 10,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 30.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 20.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 9,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 22.2,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 11.1,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

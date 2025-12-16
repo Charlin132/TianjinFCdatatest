@@ -1,0 +1,76 @@
+{
+  "id": "P0301",
+  "name": "伊洛基",
+  "english_name": "Jules Iloki",
+  "birthday": "1992-01-14",
+  "position": "FW",
+  "origin": "法国",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 17,
+    "total_goals": 3,
+    "total_wins": 4,
+    "total_clean_sheets": 4,
+    "win_rate": 23.5,
+    "clean_sheet_rate": 23.5,
+    "goals_per_game": 0.18,
+    "active_years": "2021 - 2022"
+  },
+  "yearly_stats": [
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 16,
+      "goals": 3,
+      "wins": 3,
+      "win_rate": 18.8,
+      "clean_sheets": 3,
+      "clean_sheet_rate": 18.8,
+      "goals_per_game": 0.19,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 16,
+          "goals": 3,
+          "wins": 3,
+          "win_rate": 18.8,
+          "clean_sheets": 3,
+          "clean_sheet_rate": 18.8,
+          "goals_per_game": 0.19
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 1,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 100.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 100.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

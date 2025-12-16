@@ -1,0 +1,86 @@
+{
+  "id": "P0339",
+  "name": "韩鹏飞",
+  "english_name": "Han Pengfei",
+  "birthday": "1993-04-28",
+  "position": "DF",
+  "origin": "北京",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 55,
+    "total_goals": 1,
+    "total_wins": 20,
+    "total_clean_sheets": 16,
+    "win_rate": 36.4,
+    "clean_sheet_rate": 29.1,
+    "goals_per_game": 0.02,
+    "active_years": "2023 - 2024"
+  },
+  "yearly_stats": [
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 27,
+      "goals": 0,
+      "wins": 9,
+      "win_rate": 33.3,
+      "clean_sheets": 9,
+      "clean_sheet_rate": 33.3,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 26,
+          "goals": 0,
+          "wins": 9,
+          "win_rate": 34.6,
+          "clean_sheets": 9,
+          "clean_sheet_rate": 34.6,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 0,
+          "win_rate": 0.0,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 28,
+      "goals": 1,
+      "wins": 11,
+      "win_rate": 39.3,
+      "clean_sheets": 7,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.04,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 28,
+          "goals": 1,
+          "wins": 11,
+          "win_rate": 39.3,
+          "clean_sheets": 7,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.04
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

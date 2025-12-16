@@ -1,0 +1,96 @@
+{
+  "id": "P0340",
+  "name": "高华泽",
+  "english_name": "Gao Huaze",
+  "birthday": "1997-10-20",
+  "position": "FW",
+  "origin": "湖北荆州",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 17,
+    "total_goals": 0,
+    "total_wins": 5,
+    "total_clean_sheets": 4,
+    "win_rate": 29.4,
+    "clean_sheet_rate": 23.5,
+    "goals_per_game": 0.0,
+    "active_years": "2023 - 2024"
+  },
+  "yearly_stats": [
+    {
+      "year": 2023,
+      "team": "天津津门虎",
+      "apps": 8,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 25.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 25.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 7,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 14.3,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 14.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "team": "天津津门虎",
+      "apps": 9,
+      "goals": 0,
+      "wins": 3,
+      "win_rate": 33.3,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 22.2,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 6,
+          "goals": 0,
+          "wins": 2,
+          "win_rate": 33.3,
+          "clean_sheets": 2,
+          "clean_sheet_rate": 33.3,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 3,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 33.3,
+          "clean_sheets": 0,
+          "clean_sheet_rate": 0.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

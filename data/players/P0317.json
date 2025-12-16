@@ -1,0 +1,63 @@
+{
+  "id": "P0317",
+  "name": "周正",
+  "english_name": "Zhou Zheng",
+  "birthday": "1997-09-25",
+  "position": "MF",
+  "origin": "湖北武汉",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 2,
+    "total_goals": 0,
+    "total_wins": 2,
+    "total_clean_sheets": 2,
+    "win_rate": 100.0,
+    "clean_sheet_rate": 100.0,
+    "goals_per_game": 0.0,
+    "active_years": "2022 - 2022"
+  },
+  "yearly_stats": [
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 2,
+      "goals": 0,
+      "wins": 2,
+      "win_rate": 100.0,
+      "clean_sheets": 2,
+      "clean_sheet_rate": 100.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        },
+        {
+          "name": "足协杯",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}

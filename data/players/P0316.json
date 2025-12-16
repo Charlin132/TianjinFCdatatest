@@ -1,0 +1,86 @@
+{
+  "id": "P0316",
+  "name": "马格诺·克鲁斯",
+  "english_name": "Magno Damasceno Santos da Cruz",
+  "birthday": "1988-05-20",
+  "position": "FW",
+  "origin": "巴西",
+  "headshot": "images/players/default.jpg",
+  "short_description": "待内容补充。",
+  "career_summary": {
+    "total_apps": 19,
+    "total_goals": 5,
+    "total_wins": 5,
+    "total_clean_sheets": 6,
+    "win_rate": 26.3,
+    "clean_sheet_rate": 31.6,
+    "goals_per_game": 0.26,
+    "active_years": "2021 - 2022"
+  },
+  "yearly_stats": [
+    {
+      "year": 2021,
+      "team": "天津津门虎",
+      "apps": 18,
+      "goals": 5,
+      "wins": 4,
+      "win_rate": 22.2,
+      "clean_sheets": 5,
+      "clean_sheet_rate": 27.8,
+      "goals_per_game": 0.28,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 16,
+          "goals": 4,
+          "wins": 3,
+          "win_rate": 18.8,
+          "clean_sheets": 4,
+          "clean_sheet_rate": 25.0,
+          "goals_per_game": 0.25
+        },
+        {
+          "name": "足协杯",
+          "apps": 2,
+          "goals": 1,
+          "wins": 1,
+          "win_rate": 50.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 50.0,
+          "goals_per_game": 0.5
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "team": "天津津门虎",
+      "apps": 1,
+      "goals": 0,
+      "wins": 1,
+      "win_rate": 100.0,
+      "clean_sheets": 1,
+      "clean_sheet_rate": 100.0,
+      "goals_per_game": 0.0,
+      "competitions": [
+        {
+          "name": "中超",
+          "apps": 1,
+          "goals": 0,
+          "wins": 1,
+          "win_rate": 100.0,
+          "clean_sheets": 1,
+          "clean_sheet_rate": 100.0,
+          "goals_per_game": 0.0
+        }
+      ]
+    }
+  ],
+  "identity": {
+    "is_player": true,
+    "is_coach": false,
+    "dual_role_description": null
+  },
+  "honors": [],
+  "related_photos": [],
+  "coaching_record": null
+}
