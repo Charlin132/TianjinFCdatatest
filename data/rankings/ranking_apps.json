@@ -1,0 +1,2801 @@
+[
+  {
+    "id": "P0069",
+    "name": "曹阳",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 426,
+    "subValue": "2000-2019",
+    "rank": 1
+  },
+  {
+    "id": "P0185",
+    "name": "白岳峰",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 322,
+    "subValue": "2010-2022",
+    "rank": 2
+  },
+  {
+    "id": "P0005",
+    "name": "孙建军",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 243,
+    "subValue": "1994-2004",
+    "rank": 3
+  },
+  {
+    "id": "P0001",
+    "name": "于根伟",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 240,
+    "subValue": "1994-2005",
+    "rank": 4
+  },
+  {
+    "id": "P0232",
+    "name": "郭皓",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 220,
+    "subValue": "2013-2025",
+    "rank": 5
+  },
+  {
+    "id": "P0020",
+    "name": "高飞",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 202,
+    "subValue": "1994-2003",
+    "rank": 6
+  },
+  {
+    "id": "P0125",
+    "name": "吴伟安",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 202,
+    "subValue": "2005-2011",
+    "rank": 6
+  },
+  {
+    "id": "P0037",
+    "name": "迟荣亮",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 198,
+    "subValue": "1997-2009",
+    "rank": 8
+  },
+  {
+    "id": "P0136",
+    "name": "李本舰",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 193,
+    "subValue": "2006-2016",
+    "rank": 9
+  },
+  {
+    "id": "P0086",
+    "name": "韩燕鸣",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 192,
+    "subValue": "2001-2011",
+    "rank": 10
+  },
+  {
+    "id": "P0280",
+    "name": "谢维军",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 189,
+    "subValue": "2018-2025",
+    "rank": 11
+  },
+  {
+    "id": "P0103",
+    "name": "毛彪",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 187,
+    "subValue": "2005-2016",
+    "rank": 12
+  },
+  {
+    "id": "P0166",
+    "name": "王新欣",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 182,
+    "subValue": "2009-2016",
+    "rank": 13
+  },
+  {
+    "id": "P0091",
+    "name": "张烁",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 177,
+    "subValue": "2002-2009",
+    "rank": 14
+  },
+  {
+    "id": "P0048",
+    "name": "王军",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 173,
+    "subValue": "1998-2007",
+    "rank": 15
+  },
+  {
+    "id": "P0229",
+    "name": "王秋明",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 171,
+    "subValue": "2013-2025",
+    "rank": 16
+  },
+  {
+    "id": "P0169",
+    "name": "胡人天",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 169,
+    "subValue": "2009-2017",
+    "rank": 17
+  },
+  {
+    "id": "P0108",
+    "name": "蒿俊闵",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 146,
+    "subValue": "2004-2009",
+    "rank": 18
+  },
+  {
+    "id": "P0207",
+    "name": "惠家康",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 146,
+    "subValue": "2012-2020",
+    "rank": 18
+  },
+  {
+    "id": "P0153",
+    "name": "聊博超",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 140,
+    "subValue": "2008-2018",
+    "rank": 20
+  },
+  {
+    "id": "P0004",
+    "name": "卢欣",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 139,
+    "subValue": "1994-2004",
+    "rank": 21
+  },
+  {
+    "id": "P0082",
+    "name": "芦彦",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 138,
+    "subValue": "2001-2009",
+    "rank": 22
+  },
+  {
+    "id": "P0304",
+    "name": "巴顿",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 135,
+    "subValue": "2021-2025",
+    "rank": 23
+  },
+  {
+    "id": "P0042",
+    "name": "刘云飞",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 127,
+    "subValue": "1999-2005",
+    "rank": 24
+  },
+  {
+    "id": "P0120",
+    "name": "王霄",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 127,
+    "subValue": "2004-2010",
+    "rank": 24
+  },
+  {
+    "id": "P0277",
+    "name": "杨帆",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 126,
+    "subValue": "2018-2025",
+    "rank": 26
+  },
+  {
+    "id": "P0193",
+    "name": "李玮锋",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 123,
+    "subValue": "2011-2015",
+    "rank": 27
+  },
+  {
+    "id": "P0286",
+    "name": "苏缘杰",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 121,
+    "subValue": "2019-2025",
+    "rank": 28
+  },
+  {
+    "id": "P0119",
+    "name": "杨启鹏",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 119,
+    "subValue": "2011-2020",
+    "rank": 29
+  },
+  {
+    "id": "P0123",
+    "name": "佐里奇",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 117,
+    "subValue": "2005-2011",
+    "rank": 30
+  },
+  {
+    "id": "P0097",
+    "name": "何杨",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 116,
+    "subValue": "2003-2013",
+    "rank": 31
+  },
+  {
+    "id": "P0053",
+    "name": "于光",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 111,
+    "subValue": "1999-2005",
+    "rank": 32
+  },
+  {
+    "id": "P0144",
+    "name": "谭望嵩",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 111,
+    "subValue": "2007-2021",
+    "rank": 32
+  },
+  {
+    "id": "P0168",
+    "name": "聂涛",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 101,
+    "subValue": "2009-2021",
+    "rank": 34
+  },
+  {
+    "id": "P0203",
+    "name": "赵英杰",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 101,
+    "subValue": "2016-2023",
+    "rank": 34
+  },
+  {
+    "id": "P0235",
+    "name": "杜佳",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 97,
+    "subValue": "2015-2020",
+    "rank": 36
+  },
+  {
+    "id": "P0246",
+    "name": "赵宏略",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 96,
+    "subValue": "2015-2020",
+    "rank": 37
+  },
+  {
+    "id": "P0043",
+    "name": "张效瑞",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 93,
+    "subValue": "1998-2004",
+    "rank": 38
+  },
+  {
+    "id": "P0039",
+    "name": "陈立成",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 92,
+    "subValue": "1997-2004",
+    "rank": 39
+  },
+  {
+    "id": "P0141",
+    "name": "杨君",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 91,
+    "subValue": "2007-2009",
+    "rank": 40
+  },
+  {
+    "id": "P0265",
+    "name": "阿奇姆彭",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 91,
+    "subValue": "2017-2020",
+    "rank": 40
+  },
+  {
+    "id": "P0217",
+    "name": "周海滨",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 90,
+    "subValue": "2013-2016",
+    "rank": 42
+  },
+  {
+    "id": "P0312",
+    "name": "石炎",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 88,
+    "subValue": "2021-2025",
+    "rank": 43
+  },
+  {
+    "id": "P0016",
+    "name": "霍建廷",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 82,
+    "subValue": "1994-1999",
+    "rank": 44
+  },
+  {
+    "id": "P0024",
+    "name": "邵庚",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 82,
+    "subValue": "1995-1999",
+    "rank": 44
+  },
+  {
+    "id": "P0018",
+    "name": "高玉勇",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 80,
+    "subValue": "1994-2003",
+    "rank": 46
+  },
+  {
+    "id": "P0259",
+    "name": "木热合买提江",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 80,
+    "subValue": "2017-2019",
+    "rank": 46
+  },
+  {
+    "id": "P0305",
+    "name": "方镜淇",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 78,
+    "subValue": "2021-2025",
+    "rank": 48
+  },
+  {
+    "id": "P0007",
+    "name": "施连志",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 78,
+    "subValue": "1994-1998",
+    "rank": 48
+  },
+  {
+    "id": "P0308",
+    "name": "杨梓豪",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 77,
+    "subValue": "2021-2025",
+    "rank": 50
+  },
+  {
+    "id": "P0010",
+    "name": "王俊",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 76,
+    "subValue": "1994-1998",
+    "rank": 51
+  },
+  {
+    "id": "P0028",
+    "name": "奥斯瓦尔多",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 74,
+    "subValue": "1996-1998",
+    "rank": 52
+  },
+  {
+    "id": "P0049",
+    "name": "田玉来",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 72,
+    "subValue": "1998-2002",
+    "rank": 53
+  },
+  {
+    "id": "P0298",
+    "name": "钱宇淼",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 69,
+    "subValue": "2020-2025",
+    "rank": 54
+  },
+  {
+    "id": "P0283",
+    "name": "朴韬宇",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 68,
+    "subValue": "2019-2023",
+    "rank": 55
+  },
+  {
+    "id": "P0008",
+    "name": "梁宇",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 67,
+    "subValue": "1994-2001",
+    "rank": 56
+  },
+  {
+    "id": "P0187",
+    "name": "陈涛",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 65,
+    "subValue": "2010-2012",
+    "rank": 57
+  },
+  {
+    "id": "P0093",
+    "name": "赵燕明",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 63,
+    "subValue": "2003-2011",
+    "rank": 58
+  },
+  {
+    "id": "P0014",
+    "name": "石勇",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 62,
+    "subValue": "1994-2002",
+    "rank": 59
+  },
+  {
+    "id": "P0079",
+    "name": "杨旭",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 62,
+    "subValue": "2001-2003",
+    "rank": 59
+  },
+  {
+    "id": "P0249",
+    "name": "李源一",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 61,
+    "subValue": "2016-2018",
+    "rank": 61
+  },
+  {
+    "id": "P0273",
+    "name": "巴斯蒂安斯",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 61,
+    "subValue": "2018-2020",
+    "rank": 61
+  },
+  {
+    "id": "P0089",
+    "name": "刘巍",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 60,
+    "subValue": "2002-2006",
+    "rank": 63
+  },
+  {
+    "id": "P0094",
+    "name": "达科斯塔",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 59,
+    "subValue": "2002-2003",
+    "rank": 64
+  },
+  {
+    "id": "P0209",
+    "name": "杜震宇",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 59,
+    "subValue": "2012-2014",
+    "rank": 64
+  },
+  {
+    "id": "P0218",
+    "name": "埃德尔·利马",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 59,
+    "subValue": "2013-2014",
+    "rank": 64
+  },
+  {
+    "id": "P0331",
+    "name": "罗萨",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 59,
+    "subValue": "2022-2023",
+    "rank": 64
+  },
+  {
+    "id": "P0220",
+    "name": "安德烈齐尼奥",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 58,
+    "subValue": "2013-2015",
+    "rank": 68
+  },
+  {
+    "id": "P0240",
+    "name": "周通",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 58,
+    "subValue": "2015-2022",
+    "rank": 68
+  },
+  {
+    "id": "P0352",
+    "name": "黄嘉辉",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 58,
+    "subValue": "2024-2025",
+    "rank": 68
+  },
+  {
+    "id": "P0145",
+    "name": "马季奇",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 57,
+    "subValue": "2007-2008",
+    "rank": 71
+  },
+  {
+    "id": "P0230",
+    "name": "瓦伦西亚",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 56,
+    "subValue": "2013-2014",
+    "rank": 72
+  },
+  {
+    "id": "P0290",
+    "name": "宋岳",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 56,
+    "subValue": "2020-2022",
+    "rank": 72
+  },
+  {
+    "id": "P0332",
+    "name": "贝里奇",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 56,
+    "subValue": "2022-2023",
+    "rank": 72
+  },
+  {
+    "id": "P0171",
+    "name": "于大宝",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 55,
+    "subValue": "2010-2011",
+    "rank": 75
+  },
+  {
+    "id": "P0329",
+    "name": "田依浓",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 55,
+    "subValue": "2022-2023",
+    "rank": 75
+  },
+  {
+    "id": "P0339",
+    "name": "韩鹏飞",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 55,
+    "subValue": "2023-2024",
+    "rank": 75
+  },
+  {
+    "id": "P0017",
+    "name": "韩金铭",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 55,
+    "subValue": "1994-1999",
+    "rank": 75
+  },
+  {
+    "id": "P0256",
+    "name": "高嘉润",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 54,
+    "subValue": "2017-2022",
+    "rank": 79
+  },
+  {
+    "id": "P0056",
+    "name": "古斯塔博",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 53,
+    "subValue": "1999-2000",
+    "rank": 80
+  },
+  {
+    "id": "P0351",
+    "name": "阿代米",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 52,
+    "subValue": "2024-2025",
+    "rank": 81
+  },
+  {
+    "id": "P0285",
+    "name": "王政豪",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 50,
+    "subValue": "2019-2025",
+    "rank": 82
+  },
+  {
+    "id": "P0025",
+    "name": "马云岭",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 49,
+    "subValue": "1995-2001",
+    "rank": 83
+  },
+  {
+    "id": "P0096",
+    "name": "丁祥瑞",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 49,
+    "subValue": "2003-2006",
+    "rank": 83
+  },
+  {
+    "id": "P0161",
+    "name": "吕伟",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 49,
+    "subValue": "2013-2016",
+    "rank": 83
+  },
+  {
+    "id": "P0282",
+    "name": "刘洋",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 48,
+    "subValue": "2019-2020",
+    "rank": 86
+  },
+  {
+    "id": "P0155",
+    "name": "路易斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 47,
+    "subValue": "2008-2009",
+    "rank": 87
+  },
+  {
+    "id": "P0071",
+    "name": "江津",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 46,
+    "subValue": "2000-2002",
+    "rank": 88
+  },
+  {
+    "id": "P0068",
+    "name": "宗磊",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 46,
+    "subValue": "2001-2016",
+    "rank": 88
+  },
+  {
+    "id": "P0288",
+    "name": "郑凯木",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 46,
+    "subValue": "2019-2020",
+    "rank": 88
+  },
+  {
+    "id": "P0311",
+    "name": "王嘉楠",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 46,
+    "subValue": "2021-2023",
+    "rank": 88
+  },
+  {
+    "id": "P0320",
+    "name": "安杜哈尔",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 46,
+    "subValue": "2022-2023",
+    "rank": 88
+  },
+  {
+    "id": "P0254",
+    "name": "迪亚涅",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 45,
+    "subValue": "2016-2017",
+    "rank": 93
+  },
+  {
+    "id": "P0328",
+    "name": "梅里达",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 45,
+    "subValue": "2022-2023",
+    "rank": 93
+  },
+  {
+    "id": "P0347",
+    "name": "王献钧",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 44,
+    "subValue": "2024-2025",
+    "rank": 95
+  },
+  {
+    "id": "P0344",
+    "name": "哈达斯",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 44,
+    "subValue": "2024-2025",
+    "rank": 95
+  },
+  {
+    "id": "P0206",
+    "name": "周燎",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 43,
+    "subValue": "2012-2018",
+    "rank": 97
+  },
+  {
+    "id": "P0270",
+    "name": "乔纳森",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 43,
+    "subValue": "2018-2020",
+    "rank": 97
+  },
+  {
+    "id": "P0129",
+    "name": "范柏群",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 42,
+    "subValue": "2008-2016",
+    "rank": 99
+  },
+  {
+    "id": "P0156",
+    "name": "马磊磊",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 42,
+    "subValue": "2008-2011",
+    "rank": 99
+  },
+  {
+    "id": "P0176",
+    "name": "卢西亚诺",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 42,
+    "subValue": "2010-2011",
+    "rank": 99
+  },
+  {
+    "id": "P0337",
+    "name": "明天",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 42,
+    "subValue": "2023-2024",
+    "rank": 99
+  },
+  {
+    "id": "P0022",
+    "name": "张凤梧",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 42,
+    "subValue": "1995-1999",
+    "rank": 99
+  },
+  {
+    "id": "P0178",
+    "name": "张晓彬",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 41,
+    "subValue": "2010-2011",
+    "rank": 104
+  },
+  {
+    "id": "P0002",
+    "name": "侯桐",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 41,
+    "subValue": "1994-1998",
+    "rank": 104
+  },
+  {
+    "id": "P0264",
+    "name": "邱添一",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 40,
+    "subValue": "2017-2022",
+    "rank": 106
+  },
+  {
+    "id": "P0190",
+    "name": "宋振瑜",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 39,
+    "subValue": "2011-2012",
+    "rank": 107
+  },
+  {
+    "id": "P0324",
+    "name": "徐嘉敏",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 39,
+    "subValue": "2022-2023",
+    "rank": 107
+  },
+  {
+    "id": "P0214",
+    "name": "阿尔斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 37,
+    "subValue": "2012",
+    "rank": 109
+  },
+  {
+    "id": "P0287",
+    "name": "荣昊",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 37,
+    "subValue": "2019-2020",
+    "rank": 109
+  },
+  {
+    "id": "P0343",
+    "name": "刘俊贤",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 37,
+    "subValue": "2024-2025",
+    "rank": 109
+  },
+  {
+    "id": "P0212",
+    "name": "苏穆利科斯基",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 36,
+    "subValue": "2012",
+    "rank": 112
+  },
+  {
+    "id": "P0109",
+    "name": "马拉",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 35,
+    "subValue": "2003-2004",
+    "rank": 113
+  },
+  {
+    "id": "P0250",
+    "name": "潘喜明",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 35,
+    "subValue": "2016-2017",
+    "rank": 113
+  },
+  {
+    "id": "P0163",
+    "name": "托马西",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 34,
+    "subValue": "2009",
+    "rank": 115
+  },
+  {
+    "id": "P0208",
+    "name": "戈扬",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 34,
+    "subValue": "2012",
+    "rank": 115
+  },
+  {
+    "id": "P0279",
+    "name": "滕尚坤",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 34,
+    "subValue": "2019-2021",
+    "rank": 115
+  },
+  {
+    "id": "P0076",
+    "name": "卡斯蒂亚诺",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 32,
+    "subValue": "2001-2002",
+    "rank": 118
+  },
+  {
+    "id": "P0158",
+    "name": "凯莱",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 31,
+    "subValue": "2009",
+    "rank": 119
+  },
+  {
+    "id": "P0263",
+    "name": "米克尔",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 31,
+    "subValue": "2017-2018",
+    "rank": 119
+  },
+  {
+    "id": "P0027",
+    "name": "卡洛斯",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 31,
+    "subValue": "1996-1997",
+    "rank": 119
+  },
+  {
+    "id": "P0088",
+    "name": "高峰",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 30,
+    "subValue": "2001-2002",
+    "rank": 122
+  },
+  {
+    "id": "P0128",
+    "name": "李成华",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 30,
+    "subValue": "2006-2008",
+    "rank": 122
+  },
+  {
+    "id": "P0222",
+    "name": "帕尔塔鲁",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 30,
+    "subValue": "2013",
+    "rank": 122
+  },
+  {
+    "id": "P0252",
+    "name": "蒙特罗",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 30,
+    "subValue": "2016",
+    "rank": 122
+  },
+  {
+    "id": "P0333",
+    "name": "闫炳良",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 30,
+    "subValue": "2022-2025",
+    "rank": 122
+  },
+  {
+    "id": "P0342",
+    "name": "什科里奇",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 30,
+    "subValue": "2024",
+    "rank": 122
+  },
+  {
+    "id": "P0355",
+    "name": "孙铭谦",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 30,
+    "subValue": "2025",
+    "rank": 122
+  },
+  {
+    "id": "P0354",
+    "name": "基莱斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 30,
+    "subValue": "2025",
+    "rank": 122
+  },
+  {
+    "id": "P0055",
+    "name": "冯建国",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 29,
+    "subValue": "1999-2000",
+    "rank": 130
+  },
+  {
+    "id": "P0211",
+    "name": "约万西奇",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 29,
+    "subValue": "2012-2013",
+    "rank": 130
+  },
+  {
+    "id": "P0221",
+    "name": "巴雷",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 29,
+    "subValue": "2013-2014",
+    "rank": 130
+  },
+  {
+    "id": "P0242",
+    "name": "巴尔克斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 29,
+    "subValue": "2015",
+    "rank": 130
+  },
+  {
+    "id": "P0345",
+    "name": "孔帕尼奥",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 29,
+    "subValue": "2024",
+    "rank": 130
+  },
+  {
+    "id": "P0360",
+    "name": "胡安·罗斯",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 29,
+    "subValue": "2025",
+    "rank": 130
+  },
+  {
+    "id": "P0030",
+    "name": "罗纳多·席尔瓦",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 29,
+    "subValue": "1996-1997",
+    "rank": 130
+  },
+  {
+    "id": "P0261",
+    "name": "杨立瑜",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 28,
+    "subValue": "2017",
+    "rank": 137
+  },
+  {
+    "id": "P0081",
+    "name": "索萨",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 27,
+    "subValue": "2001",
+    "rank": 138
+  },
+  {
+    "id": "P0077",
+    "name": "埃利亚斯",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 27,
+    "subValue": "2001",
+    "rank": 138
+  },
+  {
+    "id": "P0090",
+    "name": "塞萨罗",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 27,
+    "subValue": "2002",
+    "rank": 138
+  },
+  {
+    "id": "P0121",
+    "name": "田旭",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 27,
+    "subValue": "2004-2006",
+    "rank": 138
+  },
+  {
+    "id": "P0143",
+    "name": "白毅",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 27,
+    "subValue": "2007-2009",
+    "rank": 138
+  },
+  {
+    "id": "P0243",
+    "name": "普拉利甘吉",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 27,
+    "subValue": "2015",
+    "rank": 138
+  },
+  {
+    "id": "P0239",
+    "name": "卢卡斯·丰塞卡",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 26,
+    "subValue": "2015",
+    "rank": 144
+  },
+  {
+    "id": "P0253",
+    "name": "赞纳迪内",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 26,
+    "subValue": "2016",
+    "rank": 144
+  },
+  {
+    "id": "P0284",
+    "name": "桑德罗·瓦格纳",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 26,
+    "subValue": "2019",
+    "rank": 144
+  },
+  {
+    "id": "P0278",
+    "name": "毛昊禹",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 25,
+    "subValue": "2018-2020",
+    "rank": 147
+  },
+  {
+    "id": "P0361",
+    "name": "萨尔瓦多",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 25,
+    "subValue": "2025",
+    "rank": 147
+  },
+  {
+    "id": "P0134",
+    "name": "姜晨",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 24,
+    "subValue": "2006-2010",
+    "rank": 149
+  },
+  {
+    "id": "P0266",
+    "name": "雷永驰",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 24,
+    "subValue": "2017-2019",
+    "rank": 149
+  },
+  {
+    "id": "P0075",
+    "name": "里卡多·埃莫森",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 23,
+    "subValue": "2000",
+    "rank": 151
+  },
+  {
+    "id": "P0213",
+    "name": "苏萨克",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 23,
+    "subValue": "2012",
+    "rank": 151
+  },
+  {
+    "id": "P0251",
+    "name": "约万诺维奇",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 23,
+    "subValue": "2016",
+    "rank": 151
+  },
+  {
+    "id": "P0021",
+    "name": "魏东",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 23,
+    "subValue": "1994-1997",
+    "rank": 151
+  },
+  {
+    "id": "P0057",
+    "name": "吕军",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 22,
+    "subValue": "1999-2000",
+    "rank": 155
+  },
+  {
+    "id": "P0111",
+    "name": "魏仲虎",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 22,
+    "subValue": "2003-2005",
+    "rank": 155
+  },
+  {
+    "id": "P0276",
+    "name": "杨万顺",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 22,
+    "subValue": "2018-2022",
+    "rank": 155
+  },
+  {
+    "id": "P0041",
+    "name": "佐拉",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 22,
+    "subValue": "1998",
+    "rank": 155
+  },
+  {
+    "id": "P0130",
+    "name": "蒙恩古尼",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 21,
+    "subValue": "2005",
+    "rank": 159
+  },
+  {
+    "id": "P0150",
+    "name": "拉杜",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 21,
+    "subValue": "2008",
+    "rank": 159
+  },
+  {
+    "id": "P0148",
+    "name": "多乌达",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 21,
+    "subValue": "2008",
+    "rank": 159
+  },
+  {
+    "id": "P0015",
+    "name": "裴锦",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 21,
+    "subValue": "1994-1997",
+    "rank": 159
+  },
+  {
+    "id": "P0133",
+    "name": "奥里欧",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 20,
+    "subValue": "2006",
+    "rank": 163
+  },
+  {
+    "id": "P0245",
+    "name": "瓦格纳·费雷拉",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 20,
+    "subValue": "2015-2016",
+    "rank": 163
+  },
+  {
+    "id": "P0258",
+    "name": "古德利",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 20,
+    "subValue": "2017",
+    "rank": 163
+  },
+  {
+    "id": "P0334",
+    "name": "于洋",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 20,
+    "subValue": "2023-2024",
+    "rank": 163
+  },
+  {
+    "id": "P0159",
+    "name": "刘毅",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 20,
+    "subValue": "1994-1997",
+    "rank": 163
+  },
+  {
+    "id": "P0036",
+    "name": "赵斌",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 20,
+    "subValue": "1997",
+    "rank": 163
+  },
+  {
+    "id": "P0063",
+    "name": "胡安·费雷里",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 19,
+    "subValue": "1999-2000",
+    "rank": 169
+  },
+  {
+    "id": "P0179",
+    "name": "拉多尔夫",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 19,
+    "subValue": "2010",
+    "rank": 169
+  },
+  {
+    "id": "P0316",
+    "name": "马格诺·克鲁斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 19,
+    "subValue": "2021-2022",
+    "rank": 169
+  },
+  {
+    "id": "P0101",
+    "name": "托夫丁",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 18,
+    "subValue": "2003",
+    "rank": 172
+  },
+  {
+    "id": "P0135",
+    "name": "李星灿",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 18,
+    "subValue": "2007-2010",
+    "rank": 172
+  },
+  {
+    "id": "P0236",
+    "name": "苑维玮",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 18,
+    "subValue": "2014-2016",
+    "rank": 172
+  },
+  {
+    "id": "P0306",
+    "name": "李松益",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 18,
+    "subValue": "2021-2022",
+    "rank": 172
+  },
+  {
+    "id": "P0319",
+    "name": "孙学龙",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 18,
+    "subValue": "2022-2024",
+    "rank": 172
+  },
+  {
+    "id": "P0349",
+    "name": "菲奥利奇",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 18,
+    "subValue": "2024",
+    "rank": 172
+  },
+  {
+    "id": "P0067",
+    "name": "刘欣",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 17,
+    "subValue": "2000",
+    "rank": 178
+  },
+  {
+    "id": "P0085",
+    "name": "陈波",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 17,
+    "subValue": "2001",
+    "rank": 178
+  },
+  {
+    "id": "P0237",
+    "name": "阿里·坎",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 17,
+    "subValue": "2014",
+    "rank": 178
+  },
+  {
+    "id": "P0289",
+    "name": "刘若钒",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 17,
+    "subValue": "2020",
+    "rank": 178
+  },
+  {
+    "id": "P0301",
+    "name": "伊洛基",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 17,
+    "subValue": "2021-2022",
+    "rank": 178
+  },
+  {
+    "id": "P0315",
+    "name": "陈科睿",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 17,
+    "subValue": "2021",
+    "rank": 178
+  },
+  {
+    "id": "P0340",
+    "name": "高华泽",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 17,
+    "subValue": "2023-2024",
+    "rank": 178
+  },
+  {
+    "id": "P0106",
+    "name": "瓦里奇",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 16,
+    "subValue": "2003",
+    "rank": 185
+  },
+  {
+    "id": "P0098",
+    "name": "冯扬",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 16,
+    "subValue": "2003-2006",
+    "rank": 185
+  },
+  {
+    "id": "P0191",
+    "name": "宋钟国",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 16,
+    "subValue": "2011",
+    "rank": 185
+  },
+  {
+    "id": "P0197",
+    "name": "比拉斯科",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 16,
+    "subValue": "2011",
+    "rank": 185
+  },
+  {
+    "id": "P0262",
+    "name": "王栋",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 16,
+    "subValue": "2017",
+    "rank": 185
+  },
+  {
+    "id": "P0302",
+    "name": "卡达尔",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 16,
+    "subValue": "2021",
+    "rank": 185
+  },
+  {
+    "id": "P0116",
+    "name": "张恩华",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 15,
+    "subValue": "2004",
+    "rank": 191
+  },
+  {
+    "id": "P0146",
+    "name": "马西奥·桑托斯",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 15,
+    "subValue": "2007",
+    "rank": 191
+  },
+  {
+    "id": "P0223",
+    "name": "德尼尔森",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 15,
+    "subValue": "2013",
+    "rank": 191
+  },
+  {
+    "id": "P0267",
+    "name": "黄锡镐",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 15,
+    "subValue": "2017",
+    "rank": 191
+  },
+  {
+    "id": "P0257",
+    "name": "伊德耶",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 15,
+    "subValue": "2017",
+    "rank": 191
+  },
+  {
+    "id": "P0274",
+    "name": "张池明",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 15,
+    "subValue": "2018-2019",
+    "rank": 191
+  },
+  {
+    "id": "P0359",
+    "name": "李永佳",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 15,
+    "subValue": "2025",
+    "rank": 191
+  },
+  {
+    "id": "P0142",
+    "name": "查尔斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 14,
+    "subValue": "2007",
+    "rank": 198
+  },
+  {
+    "id": "P0173",
+    "name": "何塞·维拉纽瓦",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 14,
+    "subValue": "2010",
+    "rank": 198
+  },
+  {
+    "id": "P0189",
+    "name": "奥吉塔",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 14,
+    "subValue": "2011",
+    "rank": 198
+  },
+  {
+    "id": "P0291",
+    "name": "桑德罗·利马",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 14,
+    "subValue": "2020",
+    "rank": 198
+  },
+  {
+    "id": "P0314",
+    "name": "金洋洋",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 14,
+    "subValue": "2021",
+    "rank": 198
+  },
+  {
+    "id": "P0338",
+    "name": "维塔诺夫",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 14,
+    "subValue": "2023",
+    "rank": 198
+  },
+  {
+    "id": "P0009",
+    "name": "沈奕",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 14,
+    "subValue": "1994-1995",
+    "rank": 198
+  },
+  {
+    "id": "P0054",
+    "name": "何塞·奥蒂斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 14,
+    "subValue": "1999",
+    "rank": 198
+  },
+  {
+    "id": "P0107",
+    "name": "萨姆博",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 13,
+    "subValue": "2003",
+    "rank": 206
+  },
+  {
+    "id": "P0117",
+    "name": "曲东",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 13,
+    "subValue": "2004",
+    "rank": 206
+  },
+  {
+    "id": "P0113",
+    "name": "加利",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 13,
+    "subValue": "2004",
+    "rank": 206
+  },
+  {
+    "id": "P0165",
+    "name": "泽尼丁·塔德吉耶夫",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 13,
+    "subValue": "2009",
+    "rank": 206
+  },
+  {
+    "id": "P0174",
+    "name": "克莱茨科夫",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 13,
+    "subValue": "2010",
+    "rank": 206
+  },
+  {
+    "id": "P0292",
+    "name": "肖智",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 13,
+    "subValue": "2020",
+    "rank": 206
+  },
+  {
+    "id": "P0164",
+    "name": "李洪洋",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 12,
+    "subValue": "2012-2015",
+    "rank": 212
+  },
+  {
+    "id": "P0275",
+    "name": "彭睿",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 12,
+    "subValue": "2018-2019",
+    "rank": 212
+  },
+  {
+    "id": "P0040",
+    "name": "鲍比",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 12,
+    "subValue": "1997",
+    "rank": 212
+  },
+  {
+    "id": "P0051",
+    "name": "郝海涛",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 12,
+    "subValue": "1998",
+    "rank": 212
+  },
+  {
+    "id": "P0044",
+    "name": "方根燮",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 12,
+    "subValue": "1998",
+    "rank": 212
+  },
+  {
+    "id": "P0070",
+    "name": "欧亨尼奥",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 11,
+    "subValue": "2000",
+    "rank": 217
+  },
+  {
+    "id": "P0083",
+    "name": "阿尔杜利",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 11,
+    "subValue": "2001",
+    "rank": 217
+  },
+  {
+    "id": "P0228",
+    "name": "王磊",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 11,
+    "subValue": "2005-2006",
+    "rank": 217
+  },
+  {
+    "id": "P0140",
+    "name": "布拉迪奇",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 11,
+    "subValue": "2007",
+    "rank": 217
+  },
+  {
+    "id": "P0238",
+    "name": "乔丹·吉尔",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 11,
+    "subValue": "2015",
+    "rank": 217
+  },
+  {
+    "id": "P0297",
+    "name": "车世伟",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 11,
+    "subValue": "2020",
+    "rank": 217
+  },
+  {
+    "id": "P0336",
+    "name": "常飞亚",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 11,
+    "subValue": "2023",
+    "rank": 217
+  },
+  {
+    "id": "P0346",
+    "name": "格兰特",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 11,
+    "subValue": "2024",
+    "rank": 217
+  },
+  {
+    "id": "P0350",
+    "name": "迪奥戈·席尔瓦",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 11,
+    "subValue": "2024",
+    "rank": 217
+  },
+  {
+    "id": "P0052",
+    "name": "雷莫斯",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 11,
+    "subValue": "1998",
+    "rank": 217
+  },
+  {
+    "id": "P0073",
+    "name": "轧亚",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 10,
+    "subValue": "2000",
+    "rank": 227
+  },
+  {
+    "id": "P0122",
+    "name": "田野",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 10,
+    "subValue": "2004",
+    "rank": 227
+  },
+  {
+    "id": "P0112",
+    "name": "何塞·迪亚斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 10,
+    "subValue": "2004",
+    "rank": 227
+  },
+  {
+    "id": "P0115",
+    "name": "哈斯科维奇",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 10,
+    "subValue": "2004",
+    "rank": 227
+  },
+  {
+    "id": "P0132",
+    "name": "亨利",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 10,
+    "subValue": "2006",
+    "rank": 227
+  },
+  {
+    "id": "P0210",
+    "name": "索杰",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 10,
+    "subValue": "2012",
+    "rank": 227
+  },
+  {
+    "id": "P0241",
+    "name": "塔纳塞",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 10,
+    "subValue": "2015",
+    "rank": 227
+  },
+  {
+    "id": "P0247",
+    "name": "埃武纳",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 10,
+    "subValue": "2016",
+    "rank": 227
+  },
+  {
+    "id": "P0313",
+    "name": "维基诺维奇",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 10,
+    "subValue": "2021-2022",
+    "rank": 227
+  },
+  {
+    "id": "P0318",
+    "name": "埃德尔",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 10,
+    "subValue": "2022",
+    "rank": 227
+  },
+  {
+    "id": "P0362",
+    "name": "阮杨",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 10,
+    "subValue": "2025",
+    "rank": 227
+  },
+  {
+    "id": "P0032",
+    "name": "刘晨",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 10,
+    "subValue": "1997",
+    "rank": 227
+  },
+  {
+    "id": "P0050",
+    "name": "福尔特",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 10,
+    "subValue": "1998",
+    "rank": 227
+  },
+  {
+    "id": "P0062",
+    "name": "桂平",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 10,
+    "subValue": "1999",
+    "rank": 227
+  },
+  {
+    "id": "P0074",
+    "name": "邢剑",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 9,
+    "subValue": "2000-2001",
+    "rank": 241
+  },
+  {
+    "id": "P0087",
+    "name": "马塞洛",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 9,
+    "subValue": "2001",
+    "rank": 241
+  },
+  {
+    "id": "P0080",
+    "name": "米尔森·桑托斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 9,
+    "subValue": "2001",
+    "rank": 241
+  },
+  {
+    "id": "P0192",
+    "name": "权辑",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 9,
+    "subValue": "2011",
+    "rank": 241
+  },
+  {
+    "id": "P0300",
+    "name": "丛震",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 9,
+    "subValue": "2021",
+    "rank": 241
+  },
+  {
+    "id": "P0012",
+    "name": "王毅",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 9,
+    "subValue": "1995-1996",
+    "rank": 241
+  },
+  {
+    "id": "P0045",
+    "name": "朱艺",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 9,
+    "subValue": "1998-1999",
+    "rank": 241
+  },
+  {
+    "id": "P0059",
+    "name": "孙治",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 9,
+    "subValue": "1999",
+    "rank": 241
+  },
+  {
+    "id": "P0092",
+    "name": "王鹏",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 8,
+    "subValue": "2002",
+    "rank": 249
+  },
+  {
+    "id": "P0099",
+    "name": "埃莫森·菲尔米诺",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 8,
+    "subValue": "2003",
+    "rank": 249
+  },
+  {
+    "id": "P0139",
+    "name": "乌奇科",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 8,
+    "subValue": "2007",
+    "rank": 249
+  },
+  {
+    "id": "P0295",
+    "name": "苏亚雷斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 8,
+    "subValue": "2020",
+    "rank": 249
+  },
+  {
+    "id": "P0322",
+    "name": "张卫",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 8,
+    "subValue": "2022",
+    "rank": 249
+  },
+  {
+    "id": "P0011",
+    "name": "王岩",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 8,
+    "subValue": "1994-1995",
+    "rank": 249
+  },
+  {
+    "id": "P0026",
+    "name": "伊利达尔",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 8,
+    "subValue": "1996",
+    "rank": 249
+  },
+  {
+    "id": "P0031",
+    "name": "何塞·冈萨雷斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 8,
+    "subValue": "1997",
+    "rank": 249
+  },
+  {
+    "id": "P0035",
+    "name": "贾骥",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 8,
+    "subValue": "1997",
+    "rank": 249
+  },
+  {
+    "id": "P0065",
+    "name": "阿迪巴",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 8,
+    "subValue": "1999",
+    "rank": 249
+  },
+  {
+    "id": "P0157",
+    "name": "凯撒",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 7,
+    "subValue": "2009",
+    "rank": 259
+  },
+  {
+    "id": "P0172",
+    "name": "伊姆耶拉耶",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 7,
+    "subValue": "2010",
+    "rank": 259
+  },
+  {
+    "id": "P0216",
+    "name": "周其明",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 7,
+    "subValue": "2013-2018",
+    "rank": 259
+  },
+  {
+    "id": "P0307",
+    "name": "李浩然",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 7,
+    "subValue": "2021",
+    "rank": 259
+  },
+  {
+    "id": "P0061",
+    "name": "拉乌尔",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 7,
+    "subValue": "1999",
+    "rank": 259
+  },
+  {
+    "id": "P0095",
+    "name": "迭戈",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 6,
+    "subValue": "2002",
+    "rank": 264
+  },
+  {
+    "id": "P0138",
+    "name": "阿格布",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 6,
+    "subValue": "2006",
+    "rank": 264
+  },
+  {
+    "id": "P0154",
+    "name": "若纳斯·桑托斯",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 6,
+    "subValue": "2008",
+    "rank": 264
+  },
+  {
+    "id": "P0162",
+    "name": "布里奇",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 6,
+    "subValue": "2009",
+    "rank": 264
+  },
+  {
+    "id": "P0296",
+    "name": "蒋圣龙",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 6,
+    "subValue": "2020",
+    "rank": 264
+  },
+  {
+    "id": "P0281",
+    "name": "兰菁轩",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 5,
+    "subValue": "2019-2022",
+    "rank": 269
+  },
+  {
+    "id": "P0294",
+    "name": "艾哈迈多夫",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 5,
+    "subValue": "2020",
+    "rank": 269
+  },
+  {
+    "id": "P0029",
+    "name": "斯拉瓦",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 5,
+    "subValue": "1996",
+    "rank": 269
+  },
+  {
+    "id": "P0118",
+    "name": "杜尔桑",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 4,
+    "subValue": "2004",
+    "rank": 272
+  },
+  {
+    "id": "P0182",
+    "name": "法浩特·塔德吉耶夫",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 4,
+    "subValue": "2010",
+    "rank": 272
+  },
+  {
+    "id": "P0227",
+    "name": "王冠伊",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 4,
+    "subValue": "2013",
+    "rank": 272
+  },
+  {
+    "id": "P0248",
+    "name": "曲波",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 4,
+    "subValue": "2016",
+    "rank": 272
+  },
+  {
+    "id": "P0255",
+    "name": "郭毅",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 4,
+    "subValue": "2016",
+    "rank": 272
+  },
+  {
+    "id": "P0180",
+    "name": "李想",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 4,
+    "subValue": "2021",
+    "rank": 272
+  },
+  {
+    "id": "P0325",
+    "name": "拉多尼奇",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 4,
+    "subValue": "2022",
+    "rank": 272
+  },
+  {
+    "id": "P0335",
+    "name": "冷季轩",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 4,
+    "subValue": "2023",
+    "rank": 272
+  },
+  {
+    "id": "P0078",
+    "name": "崔立志",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 3,
+    "subValue": "2001-2002",
+    "rank": 280
+  },
+  {
+    "id": "P0126",
+    "name": "吴泽",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 3,
+    "subValue": "2009-2010",
+    "rank": 280
+  },
+  {
+    "id": "P0204",
+    "name": "郑毅",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 3,
+    "subValue": "2011-2012",
+    "rank": 280
+  },
+  {
+    "id": "P0170",
+    "name": "范志强",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 3,
+    "subValue": "2011-2015",
+    "rank": 280
+  },
+  {
+    "id": "P0323",
+    "name": "张星亮",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 3,
+    "subValue": "2022-2023",
+    "rank": 280
+  },
+  {
+    "id": "P0341",
+    "name": "丁海峰",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 3,
+    "subValue": "2024",
+    "rank": 280
+  },
+  {
+    "id": "P0356",
+    "name": "张威",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 3,
+    "subValue": "2025",
+    "rank": 280
+  },
+  {
+    "id": "P0363",
+    "name": "陈哲宣",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 3,
+    "subValue": "2025",
+    "rank": 280
+  },
+  {
+    "id": "P0084",
+    "name": "阿雷汉德罗",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 2,
+    "subValue": "2001",
+    "rank": 288
+  },
+  {
+    "id": "P0127",
+    "name": "张树栋",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 2,
+    "subValue": "2005",
+    "rank": 288
+  },
+  {
+    "id": "P0137",
+    "name": "欧亚",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 2,
+    "subValue": "2006",
+    "rank": 288
+  },
+  {
+    "id": "P0226",
+    "name": "王一",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 2,
+    "subValue": "2013-2015",
+    "rank": 288
+  },
+  {
+    "id": "P0244",
+    "name": "桑一非",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 2,
+    "subValue": "2015",
+    "rank": 288
+  },
+  {
+    "id": "P0317",
+    "name": "周正",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 2,
+    "subValue": "2022",
+    "rank": 288
+  },
+  {
+    "id": "P0326",
+    "name": "李岳峰",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 2,
+    "subValue": "2022-2025",
+    "rank": 288
+  },
+  {
+    "id": "P0019",
+    "name": "高锋",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 2,
+    "subValue": "1994",
+    "rank": 288
+  },
+  {
+    "id": "P0047",
+    "name": "李时锋",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 2,
+    "subValue": "1998",
+    "rank": 288
+  },
+  {
+    "id": "P0104",
+    "name": "王曙光",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 1,
+    "subValue": "2003",
+    "rank": 297
+  },
+  {
+    "id": "P0152",
+    "name": "田原",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 1,
+    "subValue": "2009",
+    "rank": 297
+  },
+  {
+    "id": "P0219",
+    "name": "姜卫鹏",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 1,
+    "subValue": "2013",
+    "rank": 297
+  },
+  {
+    "id": "P0215",
+    "name": "余学毅",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 1,
+    "subValue": "2013",
+    "rank": 297
+  },
+  {
+    "id": "P0186",
+    "name": "芦哲宇",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 1,
+    "subValue": "2013",
+    "rank": 297
+  },
+  {
+    "id": "P0225",
+    "name": "杨泽翔",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 1,
+    "subValue": "2015",
+    "rank": 297
+  },
+  {
+    "id": "P0272",
+    "name": "孙亚",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 1,
+    "subValue": "2018",
+    "rank": 297
+  },
+  {
+    "id": "P0271",
+    "name": "刘耀鑫",
+    "avatar": "images/players/default.jpg",
+    "position": "MF",
+    "value": 1,
+    "subValue": "2018",
+    "rank": 297
+  },
+  {
+    "id": "P0299",
+    "name": "雷腾龙",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 1,
+    "subValue": "2020",
+    "rank": 297
+  },
+  {
+    "id": "P0358",
+    "name": "李嗣镕",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 1,
+    "subValue": "2025",
+    "rank": 297
+  },
+  {
+    "id": "P0023",
+    "name": "李纪明",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 1,
+    "subValue": "1995",
+    "rank": 297
+  },
+  {
+    "id": "P0046",
+    "name": "李健",
+    "avatar": "images/players/default.jpg",
+    "position": "GK",
+    "value": 1,
+    "subValue": "1998",
+    "rank": 297
+  },
+  {
+    "id": "P0060",
+    "name": "巴茨",
+    "avatar": "images/players/default.jpg",
+    "position": "FW",
+    "value": 1,
+    "subValue": "1999",
+    "rank": 297
+  },
+  {
+    "id": "P0058",
+    "name": "孙永诚",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 1,
+    "subValue": "1999",
+    "rank": 297
+  },
+  {
+    "id": "P0066",
+    "name": "马荃",
+    "avatar": "images/players/default.jpg",
+    "position": "DF",
+    "value": 1,
+    "subValue": "1999",
+    "rank": 297
+  }
+]
